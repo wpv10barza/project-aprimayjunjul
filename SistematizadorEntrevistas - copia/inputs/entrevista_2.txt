@@ -1,0 +1,36 @@
+﻿# ============================================================
+# GUARDAR TRANSCRIPCION DESDE PORTAPAPELES Y CORRER PREVIEW
+# ============================================================
+
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process -Force
+
+$projectPath = "D:\118102025\Downloads\Nueva carpeta\SistematizadorEntrevistas\SistematizadorEntrevistas"
+Set-Location $projectPath
+
+# Crear carpeta inputs
+if (-not (Test-Path ".\inputs")) {
+    New-Item -ItemType Directory -Path ".\inputs" -Force | Out-Null
+}
+
+# Ruta final de la transcripcion
+$transcripcion = Join-Path $projectPath "inputs\entrevista_2.txt"
+
+# Tomar texto copiado en portapapeles
+$texto = Get-Clipboard -Raw
+
+if ([string]::IsNullOrWhiteSpace($texto)) {
+    Write-Host "[FATAL] El portapapeles esta vacio. Primero copia toda tu transcripcion y vuelve a ejecutar." -ForegroundColor Red
+    exit 1
+}
+
+# Guardar transcripcion
+Set-Content -Path $transcripcion -Value $texto -Encoding UTF8
+
+Write-Host "[OK] Transcripcion guardada en:" $transcripcion -ForegroundColor Green
+Write-Host "[INFO] Primeras lineas del archivo:" -ForegroundColor Cyan
+Get-Content $transcripcion -TotalCount 5
+
+# Correr preview con Edge real / cuenta personal
+Write-Host "`n[RUN] Ejecutando preview con Selenium..." -ForegroundColor Green
+
+& ".\venv\Scripts\python.exe" ".\main.py" preview --transcripcion "$transcripcion" --run-selenium --wait-seconds 800

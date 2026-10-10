@@ -20,3 +20,13 @@ Se excluyeron dependencias descargadas, cachés, `.git`, archivos generados, dat
 | `Transcriptor/` | Conjunto de módulos run_whisper.py, Transcriptor.py | 2026-01-10 a 2026-07-04 | 6 | Copia completa; eliminación solo después de verificar hashes. |
 
 Cada carpeta conserva su identidad y estructura. Su README detalla tecnologías, módulos y origen. No se publican contraseñas ni claves de API. La fecha de carga en Drive puede ser posterior al periodo del código.
+
+
+## Copias adicionales recuperadas de Drive
+
+- `Transcriptor2/`: 47 archivos originales seleccionados; periodo 2026-06-10 a 2026-06-10. Se conserva el origen porque hay archivos excluidos.
+- `SistematizadorEntrevistas - copia/`: 18 archivos originales seleccionados; periodo 2026-01-10 a 2026-07-03. Se conserva el origen porque hay archivos excluidos.
+- `Transcripción/`: 98 archivos originales seleccionados; periodo 2026-04-18 a 2026-04-18. Copia verificada antes de eliminar el origen.
+- `TextyMcSpeechy_Drive_1cgObeyC/`: 103 archivos originales seleccionados; periodo 2026-04-19 a 2026-04-19. Copia verificada antes de eliminar el origen.
+
+Los README de cada carpeta documentan propósito, formatos, estructura y módulos a partir de los originales. Las variantes se mantienen separadas del trabajo existente.

@@ -1,0 +1,207 @@
+{
+  "version": "1.0",
+  "model_policy": "Tool Calling post-routing uses only local google/functiongemma-270m-it.",
+  "tools": [
+    {
+      "name": "camera_stream.start_camera_stream",
+      "description": "Start a local camera/video stream from the Pocket AI repository.",
+      "module": "camera_stream.py",
+      "function_candidates": [
+        "start_camera_stream",
+        "start_stream",
+        "main"
+      ],
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "camera_id": {
+            "type": "string",
+            "description": "Camera id or device path, for example 0 or /dev/video0."
+          },
+          "resolution": {
+            "type": "string",
+            "description": "Resolution such as 640x480."
+          },
+          "fps": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 60
+          }
+        },
+        "required": [
+          "camera_id"
+        ]
+      }
+    },
+    {
+      "name": "camera_stream.stop_camera_stream",
+      "description": "Stop an active camera stream.",
+      "module": "camera_stream.py",
+      "function_candidates": [
+        "stop_camera_stream",
+        "stop_stream",
+        "main"
+      ],
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "stream_id": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "stream_id"
+        ]
+      }
+    },
+    {
+      "name": "object_detection.detect_objects",
+      "description": "Run object detection over an image path, image URL, camera frame, or stream frame.",
+      "module": "object_detection.py",
+      "function_candidates": [
+        "detect_objects",
+        "detect",
+        "main"
+      ],
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "image_source": {
+            "type": "string",
+            "description": "Local path, URL, camera frame id, or stream id."
+          },
+          "model": {
+            "type": "string",
+            "default": "yolov8n"
+          },
+          "confidence_threshold": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1,
+            "default": 0.35
+          },
+          "save_annotated": {
+            "type": "boolean",
+            "default": true
+          }
+        },
+        "required": [
+          "image_source"
+        ]
+      }
+    },
+    {
+      "name": "object_detection.start_realtime_detection",
+      "description": "Start realtime object detection on an active camera stream.",
+      "module": "object_detection.py",
+      "function_candidates": [
+        "start_realtime_detection",
+        "start_detection",
+        "main"
+      ],
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "stream_id": {
+            "type": "string"
+          },
+          "model": {
+            "type": "string",
+            "default": "yolov8n"
+          },
+          "confidence_threshold": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1,
+            "default": 0.35
+          },
+          "fps_limit": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 30,
+            "default": 5
+          }
+        },
+        "required": [
+          "stream_id"
+        ]
+      }
+    },
+    {
+      "name": "object_detection.stop_realtime_detection",
+      "description": "Stop a realtime object detection job.",
+      "module": "object_detection.py",
+      "function_candidates": [
+        "stop_realtime_detection",
+        "stop_detection",
+        "main"
+      ],
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "job_id": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "job_id"
+        ]
+      }
+    },
+    {
+      "name": "system_status.get_status",
+      "description": "Return status of Pocket AI services, model memory, camera, and local storage.",
+      "module": "system_status.py",
+      "function_candidates": [
+        "get_status",
+        "status",
+        "main"
+      ],
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "scope": {
+            "type": "string",
+            "enum": [
+              "all",
+              "camera",
+              "detection",
+              "storage"
+            ],
+            "default": "all"
+          }
+        },
+        "required": []
+      }
+    },
+    {
+      "name": "file_storage.save_result",
+      "description": "Persist an internal result to local disk or MinIO/S3-compatible storage.",
+      "module": "file_storage.py",
+      "function_candidates": [
+        "save_result",
+        "save",
+        "main"
+      ],
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "filename": {
+            "type": "string"
+          },
+          "bucket": {
+            "type": "string",
+            "default": "pocket-ai"
+          },
+          "payload": {
+            "type": "object"
+          }
+        },
+        "required": [
+          "filename",
+          "payload"
+        ]
+      }
+    }
+  ]
+}

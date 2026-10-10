@@ -1,0 +1,6 @@
+﻿--index-url https://download.pytorch.org/whl/cu118
+torch
+torchvision
+torchaudio
+openai-whisper
+numpy<2.0.0

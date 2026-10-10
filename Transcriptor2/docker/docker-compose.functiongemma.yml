@@ -1,0 +1,34 @@
+services:
+  function-gemma-agent:
+    build:
+      context: ..
+      dockerfile: docker/function-gemma-agent.Dockerfile
+    container_name: function-gemma-agent
+    restart: unless-stopped
+    environment:
+      FUNCTION_GEMMA_MODEL: google/functiongemma-270m-it
+      FUNCTION_GEMMA_API_KEY: ${FUNCTION_GEMMA_API_KEY:-change-me}
+      FUNCTION_GEMMA_DEVICE: ${FUNCTION_GEMMA_DEVICE:-cpu}
+    volumes:
+      - function_gemma_cache:/root/.cache/huggingface
+    ports:
+      - "8090:8090"
+
+  pocket-ai-executor:
+    build:
+      context: ..
+      dockerfile: docker/pocket-ai-executor.Dockerfile
+    container_name: pocket-ai-executor
+    restart: unless-stopped
+    environment:
+      POCKET_AI_API_KEY: ${POCKET_AI_API_KEY:-change-me}
+      POCKET_AI_REPO: /opt/pocket-ai
+      POCKET_AI_TOOLS_JSON: /app/pocket_ai_tools.functiongemma.json
+    volumes:
+      - ${POCKET_AI_REPO:-/opt/pocket-ai}:/opt/pocket-ai
+      - ../n8n/pocket_ai_tools.functiongemma.json:/app/pocket_ai_tools.functiongemma.json:ro
+    ports:
+      - "8091:8091"
+
+volumes:
+  function_gemma_cache:

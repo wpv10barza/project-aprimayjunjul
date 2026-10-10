@@ -1,0 +1,167 @@
+{
+  "name": "Transcriptor2 Voice Office Gemma Command Agent FIXED",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "voice-office/gemma-command",
+        "responseMode": "responseNode",
+        "options": {
+          "rawBody": false
+        }
+      },
+      "id": "webhook-transcriptor2-command-agent",
+      "name": "Webhook comando voz/Gemma",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2.1,
+      "position": [
+        -760,
+        160
+      ],
+      "webhookId": "voice-office-gemma-command"
+    },
+    {
+      "parameters": {
+        "jsCode": "const incoming = $json.body ?? $json;\nconst requestId = incoming.request_id || incoming.id || `req_${Date.now()}`;\nconst command = incoming.command || incoming.text || incoming.prompt || incoming.query || 'crear documento excel';\nconst serviceUrl = incoming.service_url || incoming.agent_url || incoming.command_agent_url || 'http://127.0.0.1:53320/agent/execute';\nconst apiKey = incoming.agent_api_key || incoming.command_agent_api_key || '';\n\nreturn [{\n  json: {\n    request_id: requestId,\n    service_url: serviceUrl,\n    agent_api_key: apiKey,\n    workflow_stage: 'normalized_for_transcriptor2_command_agent',\n    agent_request: {\n      request_id: requestId,\n      command,\n      use_latest_voice: Boolean(incoming.use_latest_voice || incoming.latest || incoming.use_latest_audio),\n      use_gemma: incoming.use_gemma === undefined ? true : Boolean(incoming.use_gemma),\n      context: {\n        router: incoming.router || {},\n        source: incoming.source || 'n8n_webhook',\n        voice_input_dir: incoming.voice_input_dir || 'D:\\\\118102025\\\\Downloads\\\\Nueva carpeta\\\\Transcriptor2\\\\mp3',\n        requested_by: incoming.requested_by || 'local_user'\n      }\n    }\n  }\n}];"
+      },
+      "id": "code-normalizar-command-agent",
+      "name": "Normalizar comando y servicio local",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -480,
+        160
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{ $json.service_url || $env.COMMAND_AGENT_URL || 'http://127.0.0.1:53320/agent/execute' }}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "x-api-key",
+              "value": "={{ $json.agent_api_key || $env.COMMAND_AGENT_API_KEY || '' }}"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ JSON.stringify($json.agent_request) }}",
+        "options": {
+          "timeout": 300000
+        }
+      },
+      "id": "http-command-agent-execute",
+      "name": "Ejecutar agente local Office/DiscoC",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        -180,
+        160
+      ],
+      "continueOnFail": true
+    },
+    {
+      "parameters": {
+        "jsCode": "const res = $json;\nconst ok = res.ok === undefined ? !Boolean(res.error) : Boolean(res.ok);\nreturn [{\n  json: {\n    ok,\n    workflow: 'transcriptor2-voice-office-gemma-command-agent',\n    policy: 'n8n_orquesta; Function Gemma local decide tool; agente ejecuta solo whitelist Office/DiscoC',\n    request_id: res.request_id || null,\n    command: res.command || null,\n    tool_call: res.tool_call || null,\n    result: res.result || null,\n    action_plan_path: res.action_plan_path || null,\n    latest_voice: res.latest_voice || null,\n    error: res.error || null,\n    troubleshooting: ok ? null : 'Verifica que CommandAgentAPI este activo y que service_url apunte a la PC correcta o al tunnel Cloudflare.',\n    timestamp: res.timestamp || new Date().toISOString()\n  }\n}];"
+      },
+      "id": "code-respuesta-command-agent",
+      "name": "Construir respuesta final",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        120,
+        160
+      ]
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ $json }}",
+        "options": {
+          "responseCode": 200
+        }
+      },
+      "id": "respond-command-agent",
+      "name": "Responder resultado",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.4,
+      "position": [
+        400,
+        160
+      ]
+    },
+    {
+      "parameters": {
+        "content": "Transcriptor2 Command Agent\n\nEntrada: comando de voz o texto.\nModelo: Function Gemma local 270M selecciona herramienta.\nEjecucion: agente Python solo permite crear XLSX/DOCX, archivo TXT o carpeta segura en C:\\Transcriptor2_Agent_Output.\n\nSi n8n corre en Oracle, enviar service_url con la URL del tunnel Cloudflare hacia la PC Windows.",
+        "height": 300,
+        "width": 380
+      },
+      "id": "sticky-command-agent",
+      "name": "Nota uso Oracle/n8n",
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [
+        -760,
+        -180
+      ]
+    }
+  ],
+  "connections": {
+    "Webhook comando voz/Gemma": {
+      "main": [
+        [
+          {
+            "node": "Normalizar comando y servicio local",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Normalizar comando y servicio local": {
+      "main": [
+        [
+          {
+            "node": "Ejecutar agente local Office/DiscoC",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Ejecutar agente local Office/DiscoC": {
+      "main": [
+        [
+          {
+            "node": "Construir respuesta final",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Construir respuesta final": {
+      "main": [
+        [
+          {
+            "node": "Responder resultado",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "active": false,
+  "versionId": "transcriptor2-command-agent-fixed-v1"
+}

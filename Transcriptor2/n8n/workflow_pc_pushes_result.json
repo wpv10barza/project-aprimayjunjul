@@ -1,0 +1,68 @@
+{
+  "name": "Transcripcion local - PC envia resultado a Oracle n8n",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "transcripcion-local",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "id": "webhook-recibe-json-local",
+      "name": "Webhook: Recibir resultado local",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2.1,
+      "position": [0, 200],
+      "webhookId": "transcripcion-local"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "texto-final",
+              "name": "texto_final",
+              "value": "={{ $json.transcripcion_whisper + ( $json.resumen_ollama ? '\\n\\nResumen Ollama:\\n' + $json.resumen_ollama : '' ) }}",
+              "type": "string"
+            },
+            {
+              "id": "archivo-origen",
+              "name": "archivo_origen",
+              "value": "={{ $json.audio || $json.filename || 'audio' }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "set-preparar-texto-final",
+      "name": "Preparar texto final",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [260, 200]
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ { ok: true, archivo_origen: $json.archivo_origen, texto_final: $json.texto_final } }}",
+        "options": {}
+      },
+      "id": "respond-json",
+      "name": "Responder a PC",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.4,
+      "position": [520, 200]
+    }
+  ],
+  "connections": {
+    "Webhook: Recibir resultado local": {
+      "main": [[{ "node": "Preparar texto final", "type": "main", "index": 0 }]]
+    },
+    "Preparar texto final": {
+      "main": [[{ "node": "Responder a PC", "type": "main", "index": 0 }]]
+    }
+  },
+  "settings": { "executionOrder": "v1" },
+  "active": false,
+  "versionId": "local-push-v1"
+}

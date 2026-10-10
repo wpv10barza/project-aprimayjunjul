@@ -1,0 +1,41 @@
+{
+  "model": "google/functiongemma-270m-it",
+  "policy": "solo herramientas locales permitidas; sin shell arbitrario",
+  "tools": [
+    {
+      "name": "office.create_xlsx",
+      "description": "Crea Excel .xlsx con OpenPyXL en salidas_doc_xls",
+      "module": "services/command_agent_core.py"
+    },
+    {
+      "name": "office.create_docx",
+      "description": "Crea Word .docx con python-docx en salidas_doc_xls",
+      "module": "services/command_agent_core.py"
+    },
+    {
+      "name": "office.create_docx_xlsx_bundle",
+      "description": "Crea Word y Excel juntos",
+      "module": "services/command_agent_core.py"
+    },
+    {
+      "name": "disk.create_file",
+      "description": "Crea TXT dentro de C:\\Transcriptor2_Agent_Output",
+      "module": "services/command_agent_core.py"
+    },
+    {
+      "name": "disk.create_folder",
+      "description": "Crea carpeta segura dentro de C:\\Transcriptor2_Agent_Output",
+      "module": "services/command_agent_core.py"
+    },
+    {
+      "name": "agent.execute_plan",
+      "description": "Ejecuta varias acciones whitelisted en orden",
+      "module": "services/command_agent_core.py"
+    },
+    {
+      "name": "system.health",
+      "description": "Estado del agente local",
+      "module": "services/command_agent_core.py"
+    }
+  ]
+}

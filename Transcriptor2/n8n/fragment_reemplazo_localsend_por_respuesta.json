@@ -1,0 +1,50 @@
+{
+  "nodes": [
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "assignment-1",
+              "name": "texto_final",
+              "value": "={{ $json.transcripcion_whisper + '\\n\\nResumen Ollama:\\n' + ($json.resumen_ollama || '') }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "prepare-data-id",
+      "name": "Preparar Texto Completo",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [400, 200]
+    },
+    {
+      "parameters": {
+        "respondWith": "text",
+        "responseBody": "={{ $json.texto_final }}",
+        "options": {
+          "responseHeaders": {
+            "entries": [
+              {
+                "name": "Content-Disposition",
+                "value": "attachment; filename=transcripcion_resumen.txt"
+              }
+            ]
+          }
+        }
+      },
+      "id": "respond-file-id",
+      "name": "Responder TXT sin LocalSend",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.4,
+      "position": [650, 200]
+    }
+  ],
+  "connections": {
+    "Preparar Texto Completo": {
+      "main": [[{ "node": "Responder TXT sin LocalSend", "type": "main", "index": 0 }]]
+    }
+  }
+}

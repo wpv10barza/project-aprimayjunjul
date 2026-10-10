@@ -1,0 +1,109 @@
+{
+  "name": "Transcripcion - Oracle n8n llama PC local por tunnel",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "transcribir-audio-local",
+        "responseMode": "responseNode",
+        "options": {
+          "binaryPropertyName": "data"
+        }
+      },
+      "id": "webhook-recibe-audio",
+      "name": "Webhook: Recibir audio",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2.1,
+      "position": [0, 200],
+      "webhookId": "transcribir-audio-local"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://TU-TUNNEL.trycloudflare.com/transcribe",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "x-api-key",
+              "value": "CAMBIA_ESTA_CLAVE_LARGA"
+            }
+          ]
+        },
+        "sendBody": true,
+        "contentType": "multipart-form-data",
+        "bodyParameters": {
+          "parameters": [
+            {
+              "parameterType": "formBinaryData",
+              "name": "file",
+              "inputDataFieldName": "data"
+            },
+            {
+              "name": "model",
+              "value": "medium"
+            },
+            {
+              "name": "language",
+              "value": "es"
+            }
+          ]
+        },
+        "options": {
+          "timeout": 600000
+        }
+      },
+      "id": "http-transcribir-pc-local",
+      "name": "PC Local: Transcribir Whisper",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [300, 200]
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "texto-final",
+              "name": "texto_final",
+              "value": "={{ $json.transcripcion_whisper + ( $json.resumen_ollama ? '\\n\\nResumen Ollama:\\n' + $json.resumen_ollama : '' ) }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "set-preparar-texto-final",
+      "name": "Preparar texto final",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [580, 200]
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ { ok: true, texto_final: $json.texto_final, transcripcion_whisper: $json.transcripcion_whisper } }}",
+        "options": {}
+      },
+      "id": "respond-json",
+      "name": "Responder transcripcion",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.4,
+      "position": [840, 200]
+    }
+  ],
+  "connections": {
+    "Webhook: Recibir audio": {
+      "main": [[{ "node": "PC Local: Transcribir Whisper", "type": "main", "index": 0 }]]
+    },
+    "PC Local: Transcribir Whisper": {
+      "main": [[{ "node": "Preparar texto final", "type": "main", "index": 0 }]]
+    },
+    "Preparar texto final": {
+      "main": [[{ "node": "Responder transcripcion", "type": "main", "index": 0 }]]
+    }
+  },
+  "settings": { "executionOrder": "v1" },
+  "active": false,
+  "versionId": "oracle-calls-pc-v1"
+}

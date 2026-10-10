@@ -1,0 +1,235 @@
+{
+  "name": "Post-Routing FunctionGemma 270M - Pocket AI Tool Calling",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "pocket-ai/post-routing",
+        "responseMode": "responseNode",
+        "options": {
+          "rawBody": false
+        }
+      },
+      "id": "webhook-post-routing-pocket-ai",
+      "name": "Webhook Post-Routing",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2.1,
+      "position": [
+        -760,
+        160
+      ],
+      "webhookId": "pocket-ai-post-routing"
+    },
+    {
+      "parameters": {
+        "jsCode": "const incoming = $json.body ?? $json;\nconst headers = $json.headers ?? {};\n\nconst requestId = incoming.request_id || incoming.id || `req_${Date.now()}`;\nconst router = incoming.router || {\n  route: incoming.route || incoming.semantic_route || 'pocket_ai',\n  intent: incoming.intent || incoming.task || 'auto',\n  confidence: incoming.route_confidence || incoming.confidence || null\n};\n\nconst userText = incoming.text || incoming.user_message || incoming.query || incoming.prompt || incoming.command || '';\nconst context = incoming.context || {};\nconst media = incoming.media || {\n  image_source: incoming.image_source || incoming.image_url || incoming.image_path || null,\n  camera_id: incoming.camera_id || incoming.device || null,\n  stream_id: incoming.stream_id || null\n};\n\nconst tools = [\n  {\n    name: 'camera_stream.start_camera_stream',\n    description: 'Start a local camera/video stream from Pocket AI.',\n    parameters: {\n      type: 'object',\n      properties: {\n        camera_id: { type: 'string' },\n        resolution: { type: 'string', default: '640x480' },\n        fps: { type: 'integer', default: 15 }\n      },\n      required: ['camera_id']\n    }\n  },\n  {\n    name: 'camera_stream.stop_camera_stream',\n    description: 'Stop an active camera stream.',\n    parameters: {\n      type: 'object',\n      properties: { stream_id: { type: 'string' } },\n      required: ['stream_id']\n    }\n  },\n  {\n    name: 'object_detection.detect_objects',\n    description: 'Detect objects in an image, URL, camera frame, or stream frame.',\n    parameters: {\n      type: 'object',\n      properties: {\n        image_source: { type: 'string' },\n        model: { type: 'string', default: 'yolov8n' },\n        confidence_threshold: { type: 'number', default: 0.35 },\n        save_annotated: { type: 'boolean', default: true }\n      },\n      required: ['image_source']\n    }\n  },\n  {\n    name: 'object_detection.start_realtime_detection',\n    description: 'Start realtime object detection over a stream.',\n    parameters: {\n      type: 'object',\n      properties: {\n        stream_id: { type: 'string' },\n        model: { type: 'string', default: 'yolov8n' },\n        confidence_threshold: { type: 'number', default: 0.35 },\n        fps_limit: { type: 'integer', default: 5 }\n      },\n      required: ['stream_id']\n    }\n  },\n  {\n    name: 'object_detection.stop_realtime_detection',\n    description: 'Stop a realtime object detection job.',\n    parameters: {\n      type: 'object',\n      properties: { job_id: { type: 'string' } },\n      required: ['job_id']\n    }\n  },\n  {\n    name: 'system_status.get_status',\n    description: 'Return status of Pocket AI services.',\n    parameters: {\n      type: 'object',\n      properties: { scope: { type: 'string', enum: ['all', 'camera', 'detection', 'storage'], default: 'all' } },\n      required: []\n    }\n  },\n  {\n    name: 'file_storage.save_result',\n    description: 'Save a result to local disk or MinIO/S3-compatible storage.',\n    parameters: {\n      type: 'object',\n      properties: {\n        filename: { type: 'string' },\n        bucket: { type: 'string', default: 'pocket-ai' },\n        payload: { type: 'object' }\n      },\n      required: ['filename', 'payload']\n    }\n  }\n];\n\nconst prompt = {\n  role: 'system',\n  content: [\n    'You are Function Gemma 270M running locally for strict tool calling only.',\n    'Return only one compact JSON object with keys: tool_name, arguments, confidence, reason.',\n    'Never answer conversationally. Never invent tools. Select exactly one whitelisted tool.',\n    'If data is missing, choose system_status.get_status only when the user asks for status; otherwise choose the safest matching tool with explicit arguments from the input.'\n  ].join(' ')\n};\n\nreturn [{\n  json: {\n    request_id: requestId,\n    stage: 'post_routing_normalized',\n    router,\n    input: { text: userText, media, context, headers },\n    function_gemma_request: {\n      request_id: requestId,\n      model: 'google/functiongemma-270m-it',\n      temperature: 0,\n      max_new_tokens: 256,\n      mode: 'single_tool_call',\n      system: prompt.content,\n      user: {\n        text: userText,\n        router,\n        media,\n        context\n      },\n      tools,\n      strict_output_schema: {\n        type: 'object',\n        required: ['tool_name', 'arguments'],\n        properties: {\n          tool_name: { type: 'string' },\n          arguments: { type: 'object' },\n          confidence: { type: 'number' },\n          reason: { type: 'string' }\n        }\n      }\n    }\n  }\n}];"
+      },
+      "id": "code-normalizar-payload",
+      "name": "Normalizar payload y tools",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -500,
+        160
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{ $env.FUNCTION_GEMMA_AGENT_URL || 'http://function-gemma-agent:8090/tool-call' }}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "x-api-key",
+              "value": "={{ $env.FUNCTION_GEMMA_API_KEY || 'change-me' }}"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ JSON.stringify($json.function_gemma_request) }}",
+        "options": {
+          "timeout": 120000
+        }
+      },
+      "id": "http-function-gemma-tool-call",
+      "name": "Function Gemma 270M Tool Call",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        -220,
+        160
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "const response = $json;\nconst toolCall = response.tool_call || response;\nconst allowed = new Set([\n  'camera_stream.start_camera_stream',\n  'camera_stream.stop_camera_stream',\n  'object_detection.detect_objects',\n  'object_detection.start_realtime_detection',\n  'object_detection.stop_realtime_detection',\n  'system_status.get_status',\n  'file_storage.save_result'\n]);\n\nconst toolName = toolCall.tool_name;\nif (!toolName || !allowed.has(toolName)) {\n  throw new Error(`Function Gemma returned a non-whitelisted tool: ${toolName}`);\n}\n\nconst args = toolCall.arguments || {};\nif (typeof args !== 'object' || Array.isArray(args)) {\n  throw new Error('Function Gemma arguments must be a JSON object.');\n}\n\nreturn [{\n  json: {\n    request_id: response.request_id || toolCall.request_id || `req_${Date.now()}`,\n    stage: 'tool_call_validated',\n    model: response.model || 'google/functiongemma-270m-it',\n    tool_call: {\n      tool_name: toolName,\n      arguments: args,\n      confidence: Number(toolCall.confidence ?? 0),\n      reason: toolCall.reason || ''\n    },\n    executor_request: {\n      request_id: response.request_id || toolCall.request_id || `req_${Date.now()}`,\n      tool_name: toolName,\n      arguments: args\n    }\n  }\n}];"
+      },
+      "id": "code-validar-tool-call",
+      "name": "Validar tool call",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        60,
+        160
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{ $env.POCKET_AI_EXECUTOR_URL || 'http://pocket-ai-executor:8091/execute' }}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "x-api-key",
+              "value": "={{ $env.POCKET_AI_API_KEY || 'change-me' }}"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ JSON.stringify($json.executor_request) }}",
+        "options": {
+          "timeout": 300000
+        }
+      },
+      "id": "http-ejecutar-pocket-ai",
+      "name": "Ejecutar Pocket AI tool",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        340,
+        160
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "const exec = $json;\nreturn [{\n  json: {\n    ok: exec.ok === undefined ? true : exec.ok,\n    request_id: exec.request_id,\n    workflow: 'post-routing-functiongemma-pocket-ai',\n    policy: 'tool_calling_model_local_only_google_functiongemma_270m_it',\n    executed_tool: exec.tool_name || exec.tool_call?.tool_name,\n    result: exec.result || exec.data || exec,\n    error: exec.error || null,\n    timestamp: new Date().toISOString()\n  }\n}];"
+      },
+      "id": "code-respuesta-final",
+      "name": "Construir respuesta final",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        620,
+        160
+      ]
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ $json }}",
+        "options": {
+          "responseCode": 200
+        }
+      },
+      "id": "respond-webhook-final",
+      "name": "Responder resultado",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.4,
+      "position": [
+        880,
+        160
+      ]
+    },
+    {
+      "parameters": {
+        "content": "Post-Routing Tool Calling\n\nEntrada: router semantico ya decidio que la solicitud pertenece a Pocket AI.\nModelo: solo google/functiongemma-270m-it local.\nSalida esperada del modelo: JSON con tool_name + arguments.\nEjecucion: Pocket AI Executor llama funciones internas del repositorio.",
+        "height": 260,
+        "width": 340
+      },
+      "id": "sticky-notes-policy",
+      "name": "Nota arquitectura",
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [
+        -760,
+        -160
+      ]
+    }
+  ],
+  "connections": {
+    "Webhook Post-Routing": {
+      "main": [
+        [
+          {
+            "node": "Normalizar payload y tools",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Normalizar payload y tools": {
+      "main": [
+        [
+          {
+            "node": "Function Gemma 270M Tool Call",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Function Gemma 270M Tool Call": {
+      "main": [
+        [
+          {
+            "node": "Validar tool call",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Validar tool call": {
+      "main": [
+        [
+          {
+            "node": "Ejecutar Pocket AI tool",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Ejecutar Pocket AI tool": {
+      "main": [
+        [
+          {
+            "node": "Construir respuesta final",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Construir respuesta final": {
+      "main": [
+        [
+          {
+            "node": "Responder resultado",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1",
+    "saveManualExecutions": true
+  },
+  "active": false,
+  "versionId": "functiongemma-pocket-ai-v1"
+}
