@@ -1,0 +1,116 @@
+02-08 Reunión: Gestión de Mantenimiento Eléctrico
+
+[Speaker 1]Ya estamos grabando. Bueno, ayer intentamos empezar esto con una, pero como no estaban con los datos a la mano, entonces era un poquito complicado. Entonces preferimos. Tampoco les avisaron en el contexto, los detalles. Por lo tanto, no había forma de improvisar adecuadamente. O sea, la improvisación no era buena, así que dejamos para hoy día y en el terreno de ustedes, que era lo más adecuado. Muy bien, nos nos presentamos entonces para que quede grabado las personas que estuvimos, ¿no?
+[Speaker 2]Bueno, Víctor López, encargado de ingeniería de mantenimiento de contrato de Inomotix.
+[Speaker 3]Jesús Rojas, soy el encargado del departamento de distribución eléctrica de Inomotix.
+[Speaker 1]Pero ejecución, entiendo, pues bien, porque. Tú estás a cargo de todo lo que es la ingeniería, la planificación, los procesos, el análisis, la confiabilidad también, el señor de todo lo que es este, todo lo que es ejecución en terreno.
+[Speaker 3]Gerardo Ledezma, técnico especialista en Molino SAC.
+[Speaker 1]Qué bueno en la parte eléctrica, básicamente, eléctrica, instrumentación, control y control, control también.
+[Speaker 3]Y ya vamos ahí un poquito de programación también, bueno, Siemens, si de tu familia.
+[Speaker 1]Pero siempre verán, si, Inumatis y Siemens, ¿no?
+[Speaker 4]Bueno, Jairo Rivera, ingeniero de plantas, Roberto Morán, supervisor de mantenimiento.
+[Speaker 1]Okay, listo, Edmundo Mares, yo soy ejecutivo, soy consultor externo, contratado con la gerencia general. Con la empresa Gestión Activos para llevar adelante una un inventario, una búsqueda de oportunidades para mejorar el la gestión de mantenimiento. Y ahora vamos a tocar solamente el mantenimiento eléctrico y estábamos definiendo y corríjame si estoy equivocado. La llegada es de 400, 400 kilovoltios. Sí, bajamos a 60 a 69 kb y a 13 punto 2 a 4160 que son los voltajes de distribución que ustedes utilizan. La responsabilidad de ustedes, aparte de la gestión del molino, el molino, los 2 molinos simen, los 2 molinos SAC con su Swiss House y sus transformadores, aparte de eso es llevar adelante la operación. Mantenimiento de las de la subestación de llegada de la energía y de la red de distribución, con excepción temporal por el momento, aparentemente no de 2 líneas de 6269 KB que están yendo a la mina, que en este momento no está bajo el control, pero me dijeron que en caso de necesidad podrían atender un soporte de esa genes.
+Entonces todo lo que es mantenimiento si está a cargo de ustedes de las otras 2 líneas de 66. de la subestación principal. Ese es el contexto, está bien. Ya ahora en el contexto ese que he descrito de alcance del trabajo, ¿Quién es la persona con la cual ustedes como servicio? ¿Cuál es su cliente? ¿Quién es la cara del cliente? En este caso yo sé que es Peñaquito, pero ¿Quién para ustedes representa a Peñaquito? El ingeniero Marx Rosales. Ok, muy bien. ¿El contrato que tienen para cuánto tiempo es?
+[Speaker 2]Quedan 3 años y medio, el 27 de junio del 2029 se termina.
+[Speaker 1]¿Y cada el periodo de 5 años?
+[Speaker 2]Este último sí.
+[Speaker 1]Ya empezaron un ciclo de 5 y el 29 de julio se...
+[Speaker 2]De junio del 2029 se termina este contrato.
+[Speaker 1]Okay, listo. En términos generales, primero como grupo, después voy a entrar en el detalle de ustedes no tienen capacidad de entrar al SAP, ¿no es cierto? O sea, no tienen.
+[Speaker 2]Sí, pero limitado.
+[Speaker 1]Ah, tienen.
+[Speaker 2]Sí, tenemos un equipo de. Pero no tienen cuenta. O sea, no estamos. Hace poco hubo una migración. Si nos quedamos sin cuentas, si teníamos cuentas propias, usamos una cuenta de los eléctricos, tenemos un equipo de planeación y programación que ellos son los que la utilizan.
+[Speaker 1]Entonces vamos a hablar de eso, los la gestión de la programación y de la planificación del trabajo. ¿Tienen acceso ustedes a SAP para hacer ese trabajo?
+[Speaker 2]Sí.
+[Speaker 4]A través de una cuenta de ellos. Lo que pasa es que anteriormente si tenían esa cuenta, pues se caga, se quedó con los mismos, digamos ya estaba directa lo que es el usuario de ellos. Para el ingreso utilizan nuestra cuenta, pero por ejemplo ellos tienen, tienen un puesto de trabajo.
+[Speaker 1]Claro, el puesto está definido como Siemens o Mocking o algo así.
+[Speaker 4]En los otros lados tienen uno para, para lo que es mantenimiento y otros para ellos.
+[Speaker 1]Tienen dos puestos de trabajo para... o un puesto de trabajo que puede ser...
+[Speaker 4]No, son dos puestos de trabajo.
+[Speaker 1]Dos puestos de trabajo. Uno cuál es? Líneas y subestaciones y el otro es Molino. O sea, si tienen acceso, lo que ocurre es que están ingresando con un...
+[Speaker 4]Sí, tal cual así.
+[Speaker 1]Pueden ir al almacén también.
+[Speaker 4]Y todo, todo.
+[Speaker 1]O sea tienen toda la... en realidad están entrando con un usuario de... de peñaquito que tiene toda la... todo lo que se necesita.
+[Speaker 4]Bueno, me imagino que también está limitado. También tenemos...
+[Speaker 1]Bueno, no entra a haber planillas ni eso, pero a nivel de mantenimiento entra cualquier...
+[Speaker 2]Pero por ejemplo, lo que platicamos ayer ¿no? del tema de rutas y todo eso, pues no se puede hacer nada.
+[Speaker 1]Bueno, tampoco ellos pueden hacer nada porque eso lo suben los corporativos. Ya, ok. Entonces sí pueden sacar materiales del almacén con el nombre de autorización. Pero sí pueden, sin con o sin autorización, ya le dieron el... ¿Se puede decir que sí? Se puede decir que sí. Claro que ustedes se comunican con ellos, voy a sacar esto, voy a sacar lo otro y le informan. Claro. Ok, muy bien. Desde el punto de vista de ejecución, ustedes pueden cerrar la pueden levantar una notificación y pueden crear la orden de trabajo y pueden llenar la información, crear avisos, notificar o avisos, pueden crear el programa de correctivo, pueden este ejecutar y llenar el aviso de cierre. Y cierre, ¿también pueden cerrar?
+[Speaker 2]El equipo de planeación hace el cierre técnico.
+[Speaker 1]¿Ustedes? Sí. Ah, el cierre técnico hace planificación, pero ¿quién llena la información?
+[Speaker 3]Notifica, si nosotros notifica.
+[Speaker 1]Vamos a mirar ahora.
+[Speaker 2]Ahorita hablamos con Esteban o con César para que nos ayude.
+[Speaker 1]¿Cuántas personas son en total ustedes?
+[Speaker 2]32. ¿Y en qué regres están? De 7 a 7.
+[Speaker 1]No, en horario si, estoy hablando mal. El rol de guardias.
+[Speaker 2]14-7.
+[Speaker 1]¿Y entonces hay 16 personas o algo así?
+[Speaker 2]Aproximadamente.
+[Speaker 1]Por guardia. Así es.
+[Speaker 2]En lo que nosotros en el turno de noche solo tenemos guardia nocturno. Un compañero del SAC y dos compañeros de distribución. tres personas de noche y todos los demás estamos de bien.
+[Speaker 1]Uno SAC y uno de dos de distribución.
+[Speaker 2]Un liniero y un técnico.
+[Speaker 5]Ok. Ya regresando otra vez al sistema.
+[Speaker 1]Tengo la impresión, no estoy seguro, voy a dar una filmación. La mayoría de notas ustedes hacen. ¿Es por demanda con avisos o ya existe un programa de mantenimiento, planes de mantenimiento? Ya tienen un plan maestro, pero en SAP lo tenemos en Excel, digamos, no, pero si está en la SAP, vamos a la SAP está el 60% de las rutas del por qué dices? ¿Por qué dice 60%?
+[Speaker 2]Nosotros sabemos. ¿Cuáles son todas las actividades que tenemos que hacer de acuerdo al plan maestro? Pero solamente tenemos el 60% de ese plan maestro cargado en SAT. Okay, el otro 40% no existe en el SAT.
+[Speaker 1]Ya que vamos a vamos a separar, no en las subestaciones podemos dividir las tareas de manera. Mantenimiento. Una cosa es las celdas, todas las celdas que me dijeron que eran GIS ¿no? o exafluoruro. SF6.
+[Speaker 3]SF6 los interruptores, los que están en la subestación.
+[Speaker 1]Los que están en la subestación. Ahora es una, yo no conozco la subestación, ¿está cerrada toda o todos los interruptores están afuera? Abierto.
+[Speaker 2]O sea, no tenemos una.
+[Speaker 1]Un house. No es abierto, pero si hay una sala de control, un corte de control y todo. ¿Los relées me dijeron que no lo tocan ustedes o si?
+[Speaker 2]Sí, ajustes, este cambio.
+[Speaker 1]Tienen pleno control de todo.
+[Speaker 2]Sí, pero todo bajo autorización.
+[Speaker 1]Sí, se entiende.
+[Speaker 3]Sí, de todos los que están a nuestro alcance.
+[Speaker 1]¿Cómo es eso?
+[Speaker 3]Sí, o sea, nosotros tenemos un alcance, entonces...
+[Speaker 1]¿Hay algún relé que no esté en el alcance de ustedes?
+[Speaker 2]Sí, los cuatro 69 que son normalmente de bajo voltaje.
+[Speaker 1]Ah, bueno, por eso digo a nivel de a nivel de tensión ya definimos, no, ustedes llegan hasta hasta la salida de 416 no, la salida no sale, eso es importante, ustedes tienen un en ayer dijimos no de 22.9 a... A 13.92 no tiene 60 a 132 y a cuatro 16, pero en cuatro 16 también están llegando a un transformador ya cuatro 16 acá a cuatro 80 y hay de 13.2 a cuatro 80 también no de cuatro 16 a cuatro 80 a 13.2 a cuatro 80 ya entonces en ese transformador es de ustedes, pero ya el cable de baja ya no hasta el transformador ya. Ya entonces todo lo que es para arriba realiza inclusive si es de ustedes, pero hay variadores de velocidad en 4160, no lo ven, eso ya es de plante ustedes ya en 13.2 no hay soft starter.
+[Speaker 4]Lo único que tenemos son los arrancadores de los de los molinos de bolas, es lo único que tenemos los únicos esos medios.
+[Speaker 1]Eso es de ustedes, eso es de ustedes. Ya, eso es el cuadro, no sé qué cosa, de llena eléctrica. Ok, entonces ahí, en ese en ese contexto, ustedes estudios no hacen, me dijeron. Ustedes reciben los estudios, dicen a ver, la coordinación de la protección está acá, los ajustes son estos. Eso es lo que ustedes validan y verifican y aseguran que los relés tienen.
+[Speaker 2]Sí, por ejemplo, se se le dice al cliente, oye, este estudio no coincide con lo que está en el terreno. ¿Quieres que lo modifiquemos? Y si ellos dicen que sí, se hace y si dicen que no, pues no se hace.
+[Speaker 1]Ya tienen entonces una data maestra para validar, o sea, si van a un relé, cada cuánto tiempo ajustan el relé, cada 3 años, cada 2 años.
+[Speaker 3]Cada año va más bien depende de del estudio que se haga. Nosotros hacemos rutas de verificación de los este de los relajes que tiene el relé. Sí, si con el estudio que ellos que ellos nos proporcionan, nosotros encontramos alguna desviación es cuando nosotros decimos...
+[Speaker 1]No está bien, pero los relés se tienen que testear con cierta frecuencia.
+[Speaker 2]Sí los probamos anual anual, todos los relés. Depende de la operación, pero eso es lo que está en el plan maestro.
+[Speaker 1]Por eso pregunto. Todos los reeles se hacen en forma anual. Se verifica que la calibración es la correcta y que están actuando. O sea, cada año.
+[Speaker 5]¿Cuántos reeles se calibran o testean cada año?
+[Speaker 1]Más o menos.
+[Speaker 2]200 y algo.
+[Speaker 1]Sí.
+[Speaker 2]El tema es que la mayoría no se hace. No acaban en el año. La mayoría de los elevadores no se logran.
+[Speaker 1]Normalmente se debe hacer muy bien estos años, aceptables tres años. Y bueno, los críticos quizás cada año, porque no todos tienen la misma importancia. ¿Por qué? Porque acá y ahora los niveles son computadores, ¿no? Tienes un computador que hace de todo, el 52, el 87, el 51 N, etcétera. ¿No? Entonces ya es un full computadora, ¿no? Y maleta de pruebas. ¿Con qué maleta de prueba trabajan? Con la Omicro. Y tienen especialistas de ese rubro acá.
+[Speaker 3]Sí, una persona y una asistencia remota, porque es eso.
+[Speaker 1]Okay, un solo técnico por guardia, supongo, porque pueden tener problemas de línea y deberían tener uno mínimo uno por guardia.
+[Speaker 2]Hay un equipo multidisciplinario, predictivo y proporciones. Entonces, siempre hay una persona, hay una pareja aquí en sí, que ven el predictivo y las protecciones.
+[Speaker 1]Ok, ahorita entramos en eso, entonces. De acuerdo. Entonces están intentando cubrir todos los relés todos los años.
+[Speaker 2]Sí.
+[Speaker 1]¿Cuántos transformadores tienen?
+[Speaker 2]Como ochenta y algo entre potencia y prestado.
+[Speaker 5]85, la línea aérea también es de ustedes, ¿no?
+[Speaker 1]¿Cuántos kilómetros de línea tiene en voltajes?
+[Speaker 3]En 66 en 69 5 km son los 2 circuitos que vienen de allá de Peñasquito y luego tenemos son circuitos en 34 5 que no sé podría ser aproximadamente unos unos 30 km de eso. Y luego tenemos circuitos en 13.2 que son igual alrededor de unos 7 kilómetros.
+[Speaker 1]¿30 kilómetros de qué? De. 34.5 de sin voltaje no, no ya hemos hablado.
+[Speaker 3]Lo que pasa es de que de aquí de la subestación de 69 alimenta otra subestación que es la de la que alimenta los pozos. esas esos circuitos aéreos son en 34 5 son para los pozos y son 30 km aproximadamente ya y de otro dice 13.2 me dijo 13.2 o más o menos 8 km es para el área que prácticamente ya no está trabajando que es la de...
+[Speaker 1]Okay ya tenemos 200 relés 85 trapos 69 kilómetros de línea en 65 kilómetros de línea 69 cabe 30 kilómetros en 34.5 y 8 en 32.2 y después su 13.2 Cuántas subestaciones son en total.
+[Speaker 3]Este es el sistema completo, ¿no?
+[Speaker 5]Sí, pero son estamos domingo, pero las principales, o sea, principales tenemos solamente...
+[Speaker 3]1, 2, 3, 4, 5, subestaciones principales. Y ya después tenemos más, pero...
+[Speaker 1]¿Esas principales cuáles son? ¿Las de 66? Hay una, la principal ha llegado.
+[Speaker 3]Luego tenemos molienda.
+[Speaker 1]Sí, esas son las subestaciones de... Hay una de molienda, ok.
+[Speaker 3]Luego tenemos agua fresca y fresa de jales. Esas son en 34, que son las de los. Y tenemos la de trituración, que sería la otra principal, la de flotación.
+[Speaker 1]También hay varias ahí, ¿no? Relaves.
+[Speaker 3]Sí, pero ya son. Digo, sigue siendo una subestación, pero ya son subestaciones menores.
+[Speaker 1]Para tener una idea, me tengo una idea de la carga de trabajo que tienen, ¿no? Sí, pues por ejemplo con los TKS y después también tienen transformadores aéreos que están bajando, también son de biposte o poste, ¿no?
+[Speaker 2]Sí, hasta el en la línea llegamos hasta transformadores.
+[Speaker 1]Ya hay montones de transformadores.
+[Speaker 2]Pero por ejemplo, igual a campamento. No damos soporte solamente sobre solicitud, o sea, ya que está el campamento, toda esa área nosotros no, tampoco la atendemos.
+[Speaker 1]¿Y quién la maneja esa? ¿Tiene su propio controlista?
+[Speaker 2]Sí, o esa no? Bueno, no sé si tenga otra superhéroe.
+[Speaker 1]Debería ser uno solo, ¿no? Digo, como dicen, usando. Usando la lo de México, digo no. .
+[Speaker 2]Es que son diferentes presupuestos, no diferentes presupuestos, entonces?
+[Speaker 1]Ya cada uno maneja su presupuesto. Ya muy bien, ahora hay muchos, si no quiero meterme en la parte. Vamos a ver procesos todavía. Explícame un poquito tu trabajo, ¿qué es lo que estás haciendo? Bueno.

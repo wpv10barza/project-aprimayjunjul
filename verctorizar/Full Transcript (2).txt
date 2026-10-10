@@ -1,0 +1,735 @@
+[Speaker 1]
+Bueno, quizás si está la gente de planta, me presento, mi nombre es Boris Urbina, hola con todos. Quizás si nos pueden contar un poco cómo es el ciclo de negocio.
+[Speaker 2]
+Un ratito, Boris, el contexto porque no conoces el trato ahí. Entonces, Juan, permíteme por favor darte el contexto porque tú sí estás en todo el sentido de poder estar haciendo. Bueno, informado de este detalle de última hora. Sorprendido. Bueno, hemos venido acá porque la gerencia general y el área de supply chain, el área corporativa, nos trajeron acá para ver la gestión de mantenimiento, que cubre obviamente mina, planta y la gestión financiera y de presupuestos y de costos. Esta es la primera sesión de costos que vamos a tener, posiblemente habrán otras, pero esta es la que creo que al final es la más importante porque nosotros vamos a hacer ajustes nada más. Y bueno, hemos venido dos personas, yo estoy viendo planta y Boris Urbina está bien en el mundo más de mi nombre, la empresa se llama Gestionativo SAC, es una empresa peruana, Boris es en Chile, yo soy peruano, y venimos de recorrer muchas empresas, hemos trabajado en diferentes empresas de diferente calibre, de diferente tamaño.
+[Speaker 1]
+Hola, buenas.
+[Speaker 2]
+Entonces le damos esta información porque al final también debe ser una presentación al corporativo. Ya ayer hablé con la gerencia general y nuestra obligación va a ser que hagamos una presentación al corporativo para ver cómo sinergizamos nuestros esfuerzos y los esfuerzos de lo que quiere desarrollarse aquí. En primer lugar asegurar la meta de 120 mil toneladas y en segundo lugar enfocar la excelencia operacional en el mediano plazo. Dentro de eso obviamente está el costo que es importante. Acaban de llegar nuestros amigos de Minda, no sé si los están viendo o no. Sí, ya los veo. Juan Aparicio. Buen día. ¿Qué tal Juan? Buen día. Entonces, ya estamos completos.
+[Speaker 1]
+Pues sí, falta Marcel, que ahí se acaba de conectar. José Redondo también. Y Gustavo Reyes, que bueno, entendemos que está invitado, pero tenemos que estar cambiándose de casa, así que seguramente si él puede se conecte.
+[Speaker 2]
+Raúl Montenegro tampoco fue invitado, pero está preparando una presentación y no se han recusado. Después tenemos que hablar con ambos. Mandaremos un resumen y luego hablaremos con ellos.
+[Speaker 1]
+Marcel, levantaste la mano.
+[Speaker 2]
+Sí, justo por Raúl. Había conversado también con él, que está preparando el problema sesión.
+[Speaker 1]
+No puedo. Ok. Bueno. Gracias, buenos días. Como ya Edmundo hizo la introducción, yo también quería decirles que nosotros estamos haciendo un asistente, una secretario o secretaria que en realidad nos ayuda a capturar y ordenar la conversación, porque se dice tantas cosas a veces que es imposible tomarlas a mano. Entonces, esta con un poquito de inteligencia artificial va ordenando las cosas y nos es más fácil documentarlo allá. ¿Tiene problema con esto? Yo antes de entrar a preguntas y cosas por el estilo, quisiera entender cómo es el ciclo de negocio que usa Peñasquito y si el ciclo de negocio es igual para mí ni para planta. Cuando me refiero al ciclo de negocio es hay una fecha, hay un tiempo donde no sé, alguien llama y dice hay que juntarse, hay que mirar el próximo ciclo, hay que mirar inmediatamente el próximo año, revisar información de cómo funcionó este año, se proyectan hacia el siguiente y eventually de 2 o 3, incluso 5 o 10 años, dependiendo de las reglas de negocio que desconozco como es mío. Entonces quería que nos contaran primero la mina y la planta, como es el ciclo, el ciclo de negocio que llevan año a año para hacer el tema de presupuesto y corresupuesto.
+[Speaker 3]
+Ok, empezamos bien entonces, pues bueno, el presupuesto, si existen las fechas, perdón, si decir los nombres, así José Santa Cruz. El ganador de largo plazo de activos móviles y he trabajado ya en el área de presupuestación varios años.
+[Speaker 1]
+Ok, alguien abrió el micrófono por eso.
+[Speaker 3]
+Bueno, Dani, pues el ciclo presupuestal si existen unas fechas que mandan desde región, entonces si mandan un calendario donde existe las fechas de entrega del plan de minado, cuando tengamos que nosotros entregar los costos a través de cera, etcétera. Existen cuatro ejercicios de forecast durante el año adicionales, es el forecast es el 0 + 12 que son los 0 reales y 12 proyectados, luego los 2 reales más 10 proyectados, luego es el de 5 meses reales más 7 proyectados, ya el último es el de 8 reales y 4 meses proyectados. eso también normalmente te digo si existe en un calendario eh anual de cuando se van a realizar ¿No? Normalmente el primero se hace en enero que es el cero más doce entre diciembre y enero, luego partimos al dos más diez que ese es aproximadamente en febrero porque ya tenemos que tener los dos meses reales. Ajá. Ehh el cinco más siete es como ya junio más o menos y va muy de la mano ya con el ejercicio del presupuesto, desde junio ya empezamos nosotros con los trabajos de presupuestos que lo venimos terminando aproximadamente entre agosto septiembre, o sea como ya el última versión de presupuesto. Existe el FORCAS el 8 más 4 que es casi similar al presupuesto porque lo acabamos de terminar y ya después un último ajuste que es el 0 más 12 que se ha efectivo entre enero y diciembre. Ya el presupuesto oficial como oficializado, lo hacen como en, en febrero es cuando dicen ya que sí es el presupuesto oficial. Que estuvimos trabajando desde junio, agosto.
+[Speaker 1]
+Para eso hay una ceremonia, una reunión o es todo electrónico.
+[Speaker 3]
+Bueno, de nuestra parte no, o sea, la parte operativa, o sea, voy a decir, es mandar la información a través de CEDAX y ya los demás procesos pues se encarga el área financiera. Correr a través de BPC, etcétera. No sé. O sea, nuestro proceso termina cuando, entregamos la información a través de CEDAX que es la plataforma que se usa creo que todo un humor para publicar los presupuestos.
+[Speaker 2]
+El último es cuatro en cuanto lo publican.
+[Speaker 3]
+Ese es en septiembre.
+[Speaker 4]
+Igual ahí complementado un poquito lo que menciona Arturo si hay algunas sesiones en la que nos dicen, para tal fecha entonces ocupamos entregar cierta información, entonces igual se trabaja primero con la parte de físico lo que es a cargo de materiales de producción una vez que se tiene esas sesiones donde se acuerda cual va a ser la producción, se plantean los planes de mantenimiento a ejecutar para lograr esa producción que se está solicitando, entonces ya una vez que se tiene acordados los planes de mantenimiento que están alineados a los planes de producción, pues ya entramos a la etapa que ya menciona Arturo, que es ya empezar a ver las necesidades de equipos, en este caso de mina, los equipos que se ocupan para llegar a la producción que están ocupando, igual por parte de planta, pues ya vemos los consumos de, de agua, de energía, las paras de planta que va a tener, los chuttown, en base a eso, pues estén alineados a la producción que nos están pidiendo, entonces una vez que ya todo eso queda acordado, pues ya si se genera todo el plan de trabajo que ya menciona Arturo.
+[Speaker 2]
+Si, solamente para entender, todo lo que estamos acá hemos vivido eso, pero, para estar en la misma página, digamos. Operaciones generan sus expectativas, sus objetivos en función del plan que las gerencias y los alta dirección define. Hay un tonelaje diario que están poniendo sobre la mesa en estos últimos, al comienzo de año o el año pasado, no sé. hay 120,000 toneladas por día que tiene que pasar esa es la meta que ha fijado la gerencia general de Peña Equipo y es un cambio sustancial porque creo que hay 20% más de producción y al hacer 20% más de producción que es lo que quiere, la mina, la gerencia general, la mina tiene que producir lo que tiene que entrar a la planta de procesamiento y la planta de procesamiento tiene que pasar 120 mil toneladas. Entonces todos los equipos, toda la organización está siendo estresada, va a generarse una necesidad de llegar a esas metas y eso significa que la planta, voy a ir por la planta y es mayor desgaste de los liners, por ejemplo. cambio a los siete meses con 100 mil toneladas, voy a ponerlo así, ahora van a pasar a 120.000 y el desgaste de los linder va a ser mayor. Ayer hablaba con la gerencia general y decía eso es un riesgo, cómo puede impactar desde el punto de vista de disponibilidad de la planta, el hecho de que de repente van a tener que adelantarlo a seis meses y hacer de repente doble, y eso quitaría de producción o de repente puede hacerse uno al año y parada mayor porque también hay otras paradas no entonces hay que mapear todo el impacto que va a tener ciento veinte mil toneladas sobre sobre lo que ustedes tenían acostumbrados y la pregunta que trae por su peso es el presupuesto que hicieron es de cien mil o de ciento veinte mil? Es cien mil eso también es un riesgo para ustedes no? cómo impacta porque una cosa es pasar 100.000 y otra cosa es pasar 120.000 y puede haber de repente puede haber dos paradas de planta y eso también es menos disponibilidad de planta y el objetivo no es pasar 120.000 sino lograr una producción que equivalente de 120.000 toneladas de para entregar un volumen total de producción entonces hay que hay que ver eso no.
+[Speaker 3]
+El impacto económico que hacen.
+[Speaker 2]
+Y también el resultado si con dos paradas de planta va a bajar la disponibilidad de la planta y entonces no, no, 120.000 si es el objetivo es 120.000 por día y eso satisface, hay que ver si tienen una parada de planta o dos paradas de planta, eso también es importante. De acuerdo, es un tema que vale la pena que se haya hablar con la gerencia general de ese tema, indicando que eso es un riesgo, entonces tiene que haber alguien que esté mapeando los riesgos de esa decisión para alcanzar la meta de producción anual a nivel de costo y a nivel de producción.
+[Speaker 1]
+Tengo una pregunta antes de continuar, el modelo, el ciclo de negocio que tú acabas de describir es igual para mí y para planta. Y sobre eso y un poco tomando la pregunta del mundo, el contexto que está dando, Antes de generar los números, ¿hay alguna reunión operativa de mantenimiento donde pone el foco, donde dice esto no fue mal, vamos a hacer un proyecto? ¿hay una reunión que haga mina o que haga planta o que hagan ambos para evaluar los resultados previos como para mirar el futuro.
+[Speaker 4]
+Se genera una reunión, pero es a nivel gerencial, ya ellos ven cuales fueron sus hitos y ya después en cierta forma la información que ellos ven pues nos bajan la información a nosotros, ya saben que tenemos que meter esto para este proyecto para alcanzar esta meta, encontramos esto, pero si eso se toca a nivel gerencial y a nosotros ya nos pasan digamos la información que tenemos que que trabajar para digamos sacar el costo o necesidades de equipos.
+[Speaker 1]
+¿Y los proyectos spring o no spring se incorporan en el proceso del presupuesto.
+[Speaker 2]
+Según yo sí, dependiendo del impacto.
+[Speaker 4]
+Si la mayoría de esos proyectos se integran siempre y cuando ya tengan digamos, sustento, digamos que sabes cuánto te vas a gastar, vuelve a ser impacto, si se mete al presupuesto. En el caso de que primero se hace una preingeniería, se hace un estudio, y en base a eso, si es factible realizarlo, ya se actualiza en un forecast, ya sea en el forecast 2, 4CAD 5, pero ya después de haberse analizado. Un ejemplo es ahorita el proyecto de las 120.000 toneladas, si bien todos sabemos que tenemos que llegar a esa meta, pero todos los parámetros que lleven a cumplir no están considerados en presupuesto, ni al parecer se van a considerar todavía tener 2 más 10. Entonces una vez que tenga bien todo definido, ya se metería todo hasta el 5 más 7.
+[Speaker 1]
+¿Alguna pregunta a Edmundo o al panel? Tenemos un panel en Perú que está también apoyando. ¿Alguna pregunta del panel de Perú.
+[Speaker 5]
+No, soy el Papa de uno.
+[Speaker 2]
+Ok, gracias. Solamente una. desde el punto de vista del ciclo y luego de la vida de lo que estamos viendo ahora. Ayer escuché que he visto trabajar el Spring en otras minas. que tienen un concepto de corto de largo plazo más que todo y sobre todo en el tema de presupuestal. He visto, he trabajado en sesiones de mina y de planta para una vez establecido el presupuesto anual, lanzan un sprint de sus medios complicados y entonces buscan por todos lados como reducir más el presupuesto para alcanzar metas de costos más bajas, que es lo que el presupuesto después de la revisión y la aprobación dijo. Este es el presupuesto, entonces hay que hacer un sprint para ver dónde podemos bajar y entonces buscan el contratista A, el contratista B, la practicar, la B, la estrategia de mantenimiento y se comprometen a monitorear esos objetivos para reducir un 5 o 10% más todavía del presupuesto y optimizar, es como decir ya el máximo del máximo de esfuerzo para lograr el y eso lo incorporan en un resultado que se trata todo el año para alcanzar las metas. eso han desarrollado acá o no.
+[Speaker 3]
+Pues es lo que lleva ahorita Jaime no el equipo de de cómo se llama ese departamento.
+[Speaker 1]
+Full potential.
+[Speaker 3]
+Antes era full potential pero ya cambio ahora el nombre creo.
+[Speaker 6]
+Pero a veces es que hace no se.
+[Speaker 3]
+Es lo mismo es la mejor el que facilita.
+[Speaker 2]
+Por eso se llama por eso un San Spring no hay manufacturing no hay six sigma hay hay excelencia operacional lo que es el departamento. Business Improvement. Si, y dentro de BMB Improvement, los programas de Full Potential que se manejan con Sprint que son programas de alto impacto en el corto plazo o alto impacto en el largo plazo por un año. Entonces no se ha hecho para presupuestos este ejercicio. Claro, si ustedes no han participado no se ha hecho porque participa costos. Normalmente.
+[Speaker 4]
+Si hay algunas que si se han hecho, como menciona Arturo, esta es esa área de gestión de iniciativas de ahorro y si varias están ya metidas en presupuesto y ya hay reuniones semanales donde se ven los avances para ver el cumplimiento si se han cumplido, si ha tenido algún riesgo, pero si si hay, La reunión se llama símbolos y costos para revisar esas iniciativas de ahorro.
+[Speaker 2]
+Ok, pero en este momento ya pisando terreno acá. ¿Cuál es el estado de presupuesto de este año 2026? ¿Ya se aprobó o no se aprobó? ¿Dónde está? ¿Y está con cien mil no.
+[Speaker 4]
+Está aprobado el presupuesto, más todavía no ha sido publicado. pero si ya está autorizado.
+[Speaker 3]
+El cese es el cero más doce. Ese sería el 26 BP ¿no Juan.
+[Speaker 4]
+Si el que está autorizado es el 26 BP.
+[Speaker 3]
+Es el presupuesto oficial digamos del año o sea no es un porca sino presupuesto claro es el 26 BP dice si así le llamamos como el código presupuesto base presupuesto base.
+[Speaker 2]
+Business Plans. Eso está aprobado y eso sería el 0 más 12? No, eso es el año pasado aprobado por este año.
+[Speaker 3]
+Exacto, o sea es el presupuesto que se estuvo trabajando desde julio, agosto, septiembre digamos. En el ciclo de negocio. Y queda aprobado como dice Juan, normalmente queda ahora en febrero. ¿Cómo lo llaman ustedes? Presupuesto. Business Plans 26 BP.
+[Speaker 2]
+En el plan 2026 y ese es el que van a actualizar supongo yo con el 2. Más 10 en base a eso. Ya este es el forecast de 2 más 10. Y ahí van a poner la 1000 la.
+[Speaker 3]
+quiero pensar que el plan de mina y todo también incluiría ya esos 120.000 toneladas.
+[Speaker 2]
+Eso también hay que poner en planta si es que va a afectar el presupuesto y ahí sí ahí sí este se pondría el las 120.000 toneladas si lo aprueba si se metería pero según yo tengo entendido que en el 2 + 10 todavía no entra el plan de las 120.000 toneladas.
+[Speaker 3]
+Hasta el 5 + 7 mencionaste ¿verdad.
+[Speaker 1]
+Sí, me imagino porque quieren darle forma para que las iniciativas sean concretas ¿no.
+[Speaker 4]
+Sí, igual cuando se hace el BP26 se hace el long, está toda la mina de la mina, se considera la mina.
+[Speaker 1]
+Ah ok.
+[Speaker 4]
+Y cuando se ha modo forecast, nada más contemplan los daños, se ven juntos y el año siguiente.
+[Speaker 1]
+Y en el caso de la mina me imagino que la mina entrega horas necesarias para el inicio del presupuesto de mantenimiento mina.
+[Speaker 3]
+Para mantenimiento mina los inputs que recibimos del plan de minado son el equipo requerido, la cantidad de equipos y horas son nuestros inputs.
+[Speaker 1]
+Y en el caso de planta, tonelaje, tonelaje.
+[Speaker 4]
+Por lo tanto, tonelaje y leyes. con las que se va a producir eso para proyectar el consumo.
+[Speaker 1]
+Y esas variables de entrada también se van actualizando en los procesos de Forecast.
+[Speaker 3]
+En cada ejercicio de Forecast y presupuesto el equipo de ingeniería de mina comparte el plan de mina donde viene toda esa información, tonelajes, leyes, equipo requerido, horas.
+[Speaker 1]
+Hasta ahora nos hemos enterado que en mina, por ejemplo, hay una jerarquía de pala en SAP que está escuálida y hay varios componentes que no están en el sistema y en planta también nos hemos dado cuenta que hay una jerarquía de equipo que no está ahí en planta. Entonces la pregunta siguiente, como ustedes, mina primero y luego planta, hacen el ejercicio para que la información les llegue a ceras.
+[Speaker 3]
+Ok, partimos, desde SAP. En SAP se cuenta ahora sí que todas las cantidades de equipo reales que tenemos y cada uno de esos equipos cuenta con líneas estratégicas de mantenimiento. Toda esa información se conecta con un software que se llama AMT, para el caso de mantenimiento mina y creo que próximamente también para planta va a ser el software oficial para presupuestos de mantenimiento. AMT se alimenta de toda la información que tiene los equipos SAT, entonces es unidireccional hacia allá. Entonces lo que hace AMT tiene los equipos, tiene esas líneas estratégicas, tiene frecuencias cada líneas estratégicas con sus costos y hace una proyección al futuro, ahora sí que al tiempo que uno le decida decir. Mi mina termina en el 2033 como es el caso actual del 26 DP, se le setea, hace su proyección AMT, hace todos sus cálculos, al final nos entrega digamos una hoja de cálculo de Excel y es la que se sube a aceras, al sistema.
+[Speaker 1]
+Hay una pregunta, ¿qué pasa con los equipos que no están en la jerarquía en SAP.
+[Speaker 3]
+Todos deben de estar en SAP.
+[Speaker 1]
+¿Y los que no están? Bueno, déjame si estoy equivocado, Arnaldo indicó que la jerarquía de Pallas, no sé cuáles no estaba completa, por lo tanto él tenía cierto nivel de invisibilidad sobre componentes que requieren ser presupuesto.
+[Speaker 7]
+Pero es que es ahí el tema es son 2 cosas diferentes, o sea, cuando dices jerarquía te refieres al tema de las de las estrategias o los planes de mantenimiento.
+[Speaker 1]
+Que van asociado a los componentes.
+[Speaker 7]
+Exacto, entonces son, es un tema aparte, ¿no? Bueno, no aparte, sino decirlo.
+[Speaker 1]
+Es una pata de la mesa.
+[Speaker 7]
+Exactamente, porque lo que hace SAP en el caso de nosotros trae todo, o sea, todo así sea un trabajo correctivo, mientras tenga una orden de trabajo que sea que esté direccionada a la ubicación técnica del equipo, lo costea.
+[Speaker 1]
+Okay, si interpreto bien, entonces. Probablemente no va a salir ordenadito para compresor, pero el monto total va a ir a la cabecera.
+[Speaker 7]
+Está ahí en la gente.
+[Speaker 1]
+Es el que proyecta.
+[Speaker 7]
+Eso es lo que proyecta. Obviamente lo que hace, lo que hace obviamente es que nos separa. Todo lo que tiene líneas estratégicas, pues eso sí lo vas a ver con nombre y apellido. Lo que no tiene línea estratégica te lo pone en una bolsa donde agarras y dices tú.
+[Speaker 1]
+Probablemente la visión de Armando es que quiere todo detalle.
+[Speaker 7]
+No es que no esté, sí está, pero no está así con nombre y apellido.
+[Speaker 2]
+Ahora lo que dijo Hernando ayer es que las ubicaciones técnicas no las tenía todas.
+[Speaker 7]
+Completas, eso es las estrategias, no las ubicaciones técnicas, las ubicaciones técnicas están todas, o sea, y como les mostramos hace bueno la semana pasada. Entonces ven que en el árbol de la ubicación técnica de la pala 1 viene todo lo que son sus.
+[Speaker 2]
+Las ubicaciones técnicas definidas en el árbol de jerarquía de SARP y la distribución de los componentes mantenibles hasta el nivel de componentes mantenibles está adecuadamente seteado para ustedes. Estoy hablando de la mina. Entonces lo que dice Arnaldo es que las.
+[Speaker 7]
+Estrategias son las que nos hacen falta, lo que precisamente hablábamos ahorita. Lo que sí tenemos es que ya tenemos componentes que tienen su estrategia o su plan de mantenimiento. Ese sí aparece como nombre y apellido, pero hay estrategias que todavía faltan que se generen o que se o que se terminen de hacer y de realizar y de subirse al sistema para que se le cree su estrategia y se vaya a una línea a una ubicación técnica. Eso es lo que es lo que menciona Armando, que hace falta, o sea, todo lo que hace falta, que todavía tenga una línea estratégica que actualmente no tenemos. Y lo que le comentaba a Boris, ese se va a una bolsa de dinero que queda ahí a la ubicación técnica, nada más al equipo y sabemos que se gastó en ese equipo, pero no sabemos el nombre y el apellido de eso realmente. ¿A qué componen.
+[Speaker 2]
+¿A eso te refieres.
+[Speaker 7]
+No sé, un trabajo correctivo, por ejemplo, que es el cambio de un ventilador, que no tenemos una frecuencia, que no tenemos la estrategia de un ventilador de un IGBT, por decirlo así. Ese no está en la línea estratégica, tenemos la orden que dice cambio de ventilador IGBT, pero no está directamente a una, a una, a una estrategia, pues o sea, en a Mt no podemos darle nombre y apellido a ese todavía.
+[Speaker 2]
+Yo creo que esta es una muy buena conversación y Armando y José, que necesito a colaboración de ustedes. Los trabajos de mantenimiento tienen diferentes categorías, tipos de definiciones, el trabajo preventivo, el trabajo de mantenimiento correctivo programado y el mal trabajo de mantenimiento correctivo no programado. El no programado no se puede presupuestar. Claro. Vamos a los dos.
+[Speaker 1]
+El de arriba el trabajo mantenimiento perdón la interrupción pero me parecería que sí lo están considerando en el presupuesto porque es parte de la bolsa.
+[Speaker 2]
+Es parte de eso. El correctivo no programado porque pasó en el pasado. El accidente, el accidente, la rotura, los fallos está.
+[Speaker 7]
+Como una una manguera que se rompió.
+[Speaker 2]
+Usar la historia entonces bueno, no tienen la estrategia, no se puede decir, esto va a ocurrir diez veces o veinte veces, es como decir que voy a tener tres accidentes. No se puede. Eso es lo que estoy diciendo. Entonces, primero vamos a preventivo. El preventivo, si todo está bien, igual en planta, igualito, no hay ninguna diferencia. Debemos tener las HH, sí que hay repuestos para reemplazar en forma a tiempo fijo, cierto? Y cualquier otra necesidad debe estar ahí indicada adecuadamente para que sea y costeada adecuadamente por el inventario del almacén o con los recursos que se están asignando al preventivo. Eso es lo que debería reportar en costos al equipo básicamente, no sé dónde lo están asignando al equipo o al componente mantenible, al equipo. Luego vamos a los correctivos programados, lo que se supone algunos con la experiencia de los mantenedores dicen esto hay que cambiarlo como los liners, cada seis meses, cada siete meses, entonces esos son presupuestables, entonces son trabajos que saben ustedes que van a ocurrir y que probablemente ocurra y que son trabajos de costos mayores, entonces esto sí va. Se gastan online, hay que reemplazarlo, como en los chutes, como en los molinos, en el caso de los cables, por ejemplo, que se tienen una cantidad de horas que hay que cambiar, hay que cambiar, entonces todo eso está como. de una estrategia de mantenimiento, de reemplazar esos cables, etcétera. Entonces, arriba va la grasa, el aceite, los cambios fijos, y los cables es un estimado. Entonces, en función de la producción, lo tienen mapeado, lo tienen escrito como procedimientos de cambio, como CCTP, creo que lo llaman ustedes, y cambia, eso es presupuestable. Es lo de acuerdo, José y Armando. Hasta ahí estoy bien. Y eso es parte del ejercicio presupuestal, lo que no me queda claro justamente es lo que dijo Boris, como si presupuestan o no presupuestan los fallos, eso lo hacen en forma estadística.
+[Speaker 7]
+Eso se toma lo que se gastó en la ubicación técnica del equipo, lo que gastó eso no los promedia por dos meses, saca el costo total a la fecha que damos el corte. promediados a mes.
+[Speaker 2]
+Esos son los tres elementos fundamentales para su cuanto más precisos sean a nivel de estrategia de mantenimiento menos correcto más precisión en el presupuesto y sobre todo en los correctivos programados que son presupuestables el otro es estadístico, mangueras, fallo de manguera, fallo de esto, fallo de línea para dividir y la AMT considera los tres niveles, y tiene forma de sequearlo para sacar esa información histórica del presupuesto.
+[Speaker 3]
+Está conectado con SAP y es lo que hace.
+[Speaker 2]
+El AMT saca los promedios.
+[Speaker 7]
+La información de SAP, sí. Saca todo lo de SAP, le digo va a agarrar todo lo que encuentre en SAP y eso también las agarra, claro.
+[Speaker 3]
+Los incorpora, los incorpora, exacto, o sea, los toma y hace su predicción en base a sus primeros cambios que están proyectados en SAP. Dice a partir de aquí, bueno, ahora sí, cuántas veces más se va a cambiar ese motor, esa transmisión.
+[Speaker 1]
+Sí, yo ahí tengo 2 preguntas, ¿puedo? Sí, claro. La granularidad de la información que sacan de SAP incluye por clase de clase de gasto, por ejemplo, mano de obra, insumo de materiales, componentes, por cuenta contable y la clase de gasto. no sé cómo le llaman a la cuenta contable, esa es la cuenta contable, esa es la cuenta.
+[Speaker 7]
+Contable, si se va a y si se va al centro de costos y ya de ahí se dice si son mangueras.
+[Speaker 1]
+Va con esa granularidad. Sí, perfecto. Y la segunda pregunta, alguien quería hacer un comentario o seguimos.
+[Speaker 5]
+Sí, sí, sí, quería hacer una consulta en el tema de los correctivos no programados, entiendo que nos han presupuestando. como histórico, normalmente solamente son fallas aleatorias, pues, ¿no? Claro que estadísticamente se producen, o como que no pueden producirse también en algún momento. Entonces, eso no les ha desviado el presupuesto, porque normalmente presupuestamos todos los correctivos programados sobre el reemplazo de componentes o partes, más los preventivos en sí mismos, ¿no? Pero, no presupuestamos con el tiempo de trabajo que es aleatorio, no sabemos cuándo va a ocurrir. Si lo pongo como una estadística, estoy seguro, no sé si te ha pasado, pero podría llevarles a un desvío de presupuesto, porque puede no ocurrir, porque ocurrió, no sé, porque la manguera se destrozó con el oponente.
+[Speaker 1]
+Sí, José. Guarda la pregunta porque yo creo que tiene que ver con la evaluación al final. En este momento nosotros estamos, entendiendo cómo lo arman y finalmente la respuesta la pregunta que tú estás haciendo se va a responder a la evaluación cómo fue y las desviaciones y las conclusiones que sacan. Así que por favor guarda la pregunta, ¿vale?
+[Speaker 5]
+Mi pregunta es si les ha generado desvíos ese tipo de tomar en forma aleatoria o tomar como estadístico los fallos aleatorios como parte del presupuesto.
+[Speaker 7]
+En el caso de nosotros.
+[Speaker 1]
+Si es que es relativo, porque depende si la condición, si la regla del negocio te dice "yo te voy a medir con un presupuesto base cero", entonces sí, la respuesta es sí. Pero si la compañía o el negocio no define, sino que te va a medir solamente respecto a lo que tú dijiste, en realidad tenía espacio. Va a depender de cuál es la regla que le ponga el negocio, eso es lo que me interpreto yo.
+[Speaker 2]
+Pero hay fallos y fallos, pero no. Si tienes un fallo me lleva por ejemplo a la duda, porque lo trataron mal a la perforadora, agradecer un camino más de lo necesario, dañaron un montón el equipo en forma imprudente, ese fallo no lo vas a poner como presupuestable, porque eso es cierto. Lo que se puede poner son los que sabemos que inclusive podríamos mejorarlo, pero como estadísticamente las mangueras es un ejemplo clásico. fallan por fricción, porque a veces pone más largo y se malogra con mucha frecuencia. Entonces comenzamos a tener fallos recurrentes que generan un presupuesto y cuando lo ponemos como si fuera normal, lo pasamos al siguiente año, estamos asegurando que va a ocurrir el mismo problema y no lo vamos a atacar, pero también es un colchón de dinero que estamos poniendo en el presupuesto que estamos diciendo que igual se va a gastar.
+[Speaker 7]
+A veces en un supuesto, en el caso de nosotros lo que hacemos es que nos ha pasado muchas veces, tenemos, tuvimos fallos con los carbones de los alternadores y lo que se hizo fue crearle una estrategia, una línea estratégica, meterlo dentro de una estrategia, en este caso de los mantenimientos preventivos y mal no reconocidos, cambiarlo y exactamente y entra dentro del costo ya del mantenimiento preventivo.
+[Speaker 2]
+Exactamente, ese es justamente el ejercicio que tiene que hacerse. Entonces les digo, si hemos hecho este tipo de intermillos, los promedios tengan abajo, más encarnos van a estar al tema de costeo ABC o costeo presupuesto, vamos alineados a nuestro.
+[Speaker 1]
+Sí, pero sobre lo mismo que tú dices, los daños operacionales no los descuentan.
+[Speaker 7]
+No, porque es parte de nuestro de lo correctivo, si, de lo correctivo. Lo que si es que como.
+[Speaker 3]
+Es eso, por ejemplo, un daño operativo, voy a decir golpear. La perforadora, la perforadora que está ahorita en accidente. No sé exactamente que le van a cambiar, por ejemplo, cabina. Un ejemplo, la cabina, o sea, lo que va a suceder es que se va a reiniciar el ciclo de la cabina, por ejemplo, en su estrategia, si me explico. O sea, va a estar presupuestada si estaba, por ejemplo, para el 2028, pues ahora la cambiamos en el 26. Exacto, ya va a cambiar. O sea, ahora sí el siguiente cambio va a estar hasta el 29 a 30.
+[Speaker 1]
+Bueno, eso sí se entiende, pero el objetivo real sería ir a un presupuesto base cero o hacer la diferenciación, decir, bueno, este elemento es corto por daños operacionales y por una meta de optimización ahí.
+[Speaker 7]
+Lo que sí se lleva, sí llevamos es ese histórico. Bueno, en el caso de nosotros, ¿verdad? Sí, tenemos manera de que en SAP precisamente nos da esa opción de ponerle un código de accidente. Entonces, a fin de año lo que hacemos es bueno, mes con mes, cuando estamos haciendo la revisión, pues vemos ese costo y les decimos a ver que este mes fue tanto por daños, ¿verdad? O sea, independientemente de que salga o esté cargado nuestro presupuesto, sí se va mencionando precisamente para que vayamos viendo. ¿En qué? ¿En qué situaciones tenemos mayores, mayores impactos? Por ejemplo, ahorita la pala, la perforadora, esa está catalogada con daño. El año pasado tuvimos un daño que fuera 1 millón de infracción de dólares de una pala hidráulica, entonces igual está catalogada como daño y se muestra como el daño, pero al final de cuentas pues está en nuestra bolsa y tenemos que pagarlo.
+[Speaker 1]
+Sí, José.
+[Speaker 5]
+Sí, esos componentes o materiales que se lo presupuestan como parte de presupuesto, digamos, finalmente eso pasa en algún momento como parte de la estrategia, de reemplazo, hacia la comunicación en el anamiento o como siempre se va manejando como, como estadística, es un material desconsumible, digamos, como mangueras, es.
+[Speaker 7]
+Lo que les comentaba ahorita, no que realmente cuando vemos una frecuencia de cambio, un patrón de cambio, se se analiza y se ve si se le crea una estrategia o se carga en alguna estrategia, no se queda siempre.
+[Speaker 2]
+Decir un ejemplo, la política en el barrio que conocimos nosotros, la política ya era un presupuesto base cero. ¿Qué significa eso? Que todo va al preventivo y al colectivo programado, y el colectivo no programado tiene, es como si fuera un accidente, no deberíamos tener todo debe estar manejado por una estrategia. De tal manera que todas las estrategias generen los presupuestos anuales. Si hay algo recurrente, hay que atacarlo, De la perspectiva de mantenimiento, creándole como tú dices, una estrategia y presupuestando esa estrategia. cambio a tiempo fijo, esa es la intención, pero normalmente es un poco complicado, pero hay que apuntar en esa dirección y el resto sería una bolsa cada vez menor, no.
+[Speaker 1]
+Exacto. Entonces entendí la parte de mina, el P por Q, el precio por cantidad, para decirlo de alguna manera, y los OPEX y CAPEX, en qué minuto los van incorporando? El CAPEX.
+[Speaker 7]
+Los 2 funcionan.
+[Speaker 3]
+Es igual, o sea, vienen desde las líneas estratégicas y allá están clasificados que componentes y tienen autorización a meterlo en cada revisión de forecast.
+[Speaker 1]
+Pueden están autorizados a ir incorporándolo en la revisión de forecast o tienen una fecha limitada para hacerlo una vez al año o lo pueden hacer en cada ventana. Si en cada ejercicio.
+[Speaker 6]
+El campus también.
+[Speaker 3]
+El Capex de Asset Componentization, estamos hablando de componentes capitales.
+[Speaker 1]
+Sí, claro.
+[Speaker 3]
+Ya de proyectos especiales, no se va a decir de adquisición de equipo.
+[Speaker 1]
+Un edificio nuevo.
+[Speaker 2]
+O sea, todo lo que se renueva para que impacte en la vida del antiguo. Exacto. Ese es el Capex. Entonces, por ejemplo, mover componentes mayores. Exacto.
+[Speaker 1]
+Sí, bueno, ahí hay una pregunta interesante, dado el modelo que tienen, que almacén les maneja a todos los rotables. ¿El capex de componentes mayores lo maneja almacén o lo maneja mantenimiento.
+[Speaker 7]
+Mantenimiento.
+[Speaker 1]
+Mantenimiento pide los dineros y después lo administra almacén.
+[Speaker 3]
+No, nosotros lo administra. Pero lo administra almacén, no? Sí, cualquier componente como tal, ellos compran y todo.
+[Speaker 4]
+Ahí nomás como administra almacén. Almacén. Hay una política igual que para minas, su componente valora mayor a 50 mil dólares y, y vida útil de un año se considera CAREX, en el caso de minas los componentes mayores de sus equipos, entonces todo lo administra almacén, ya cuando ellos hacen alguna estrategia y van a retirar pues ya ellos lo retiran de almacén y es cuando se considera ya el costo y continua ya el proceso de precesión del componente, una vez que ya se ha instalado, pero ellos tienen digamos. por el tipo de equipos y la política, entonces ellos están abiertos a meter su office y CAPEX al momento de generar el presupuesto.
+[Speaker 2]
+Muchas gracias. Entonces entiendo que mantenimiento es el que genera el requerimiento de presupuesto del CAPEX, estamos hablando de los activos fijos, O sea, de los componentes reparables o compra de componentes que van a incrementar la vida del activo cuando se saque del almacén y se ponga al equipo. Como en la planta se instale un reemplazo, lo administra, lo guarda, lo cuida y ese dinero lo compra. Ese dinero está metido al comienzo en el almacén y luego ese dinero se saca y se comienza a depreciar. Cuando ustedes lo sacan del almacén. Mientras tanto vive a costo en el almacén. Correcto.
+[Speaker 1]
+¿Me permiten ahora hacer la misma secuencia con planta, por favor? Porque hasta ahí llegamos con planta. ¿Cómo es el ciclo? ¿Cómo es los simputos.
+[Speaker 8]
+Básicamente sería muy similar. Estamos hablando de que en este lado realmente todavía no trabajaría. Toda la información si la tenemos en SAT, usted tiene en SAT, bueno, ya han comprobado, si tenemos algunas faltas en cuanto a algunos planes, algunas infracciones. No estamos tan avanzados, ya también saben el porqué en cuanto al área de mina, hemos visto en unas sesiones pasadas. Eh, aclaro.
+[Speaker 2]
+Bueno, permíteme, discúlpame que te interrumpa, porque ayer escuché tanto con Rodrigo, el de estrategias, que se fue de acá, que creo que, Rogelio Hernández, Rogelio Hernández y después escuché también con la gerencia general de que el corporativo quiere hacerse cargo de presupuesto de perdón de estrategia de mantenimiento del equipo crítico uno y dos. Pero también eso posiblemente generen el 80% del costo, porque posiblemente digo, porque no necesariamente es, pues es un elemento menor de costos que genere un gran impacto, entonces se convierte en crítico y por lo tanto pasa a ser parte de la intención de lo corporativo de generar estrategias de mantenimiento. Pero los elementos que están a nivel tres y cuatro también generan costos, si no tienen estrategia va a faltar un monto para presupuestar, entonces hay que trabajar también eso, si es que queremos ir a un costeo a un presupuesto base cero. hay que llegar a presupuestar ese tipo de equipos de la perspectiva de presupuestos, eso también es importante. Quería poner esa infancia nada más.
+[Speaker 1]
+Entonces también asumo que donde no hay estrategia usan el costo acumulado y eso se toma, se mete a, también usan AMT.
+[Speaker 8]
+Estamos, o sea apenas estamos en lo que es esta parte implanta, estamos saliendo de capacitación. La idea es empezar a trabajar con AMT, para precisamente desarrollar estos planes de presupuestos, tal como lo está haciendo el equipo de MINA actualmente. No estamos todavía a ese nivel.
+[Speaker 2]
+Eduardo, y eso da comentario para todos, no? Porque estoy, este comentario es importante con todo el equipo, siempre hay, hay buenas intenciones en esta vida, no? quiero ir a la universidad, quiero graduarme de esto, quiero hacer lo otro, y todo es bueno, pero eso empieza a ser realidad cuando uno hace el plan y comienza a meterle tiempo y dedicación a eso. Entonces este tema, la pregunta cabe por su peso, tienen un plan, tienen responsables asignados para ir en esa dirección, tiempos, tienen tiempos específicos para cumplir o son solamente buenos deseos? o sabiendo que ese es el camino, pero no hay un. O sea, lo que quiero decir es, hace rato estoy, por ejemplo, vamos y le decimos, oye, esto de aquí, ¿por qué no lo han hecho? No, sí, lo vamos a hacer y lo estamos pensando hacer, pero ¿quién es el responsable? ¿Cuánto es el tiempo del plan que tienen para ejecutarlo? ¿Tienen presupuesto para hacerlo? si no tienen plan, no tienen responsables y no hay presupuesto es una idea, una pregunta que hay con su peso ahora nuevamente, tienen un plan, tienen un presupuesto, tienen responsables, tienen tiempos, o todos saben que hay que ir ahí y están esperando esa parte de planificación que se necesita hacer. ¿Cuándo es la fecha que van a dar? Que tienen como objetivo para que eso se materialice, en.
+[Speaker 8]
+Este caso el AMT.
+[Speaker 2]
+El proceso general presupuestar todo el, ya, el ambiente llevamos a elementos, ¿Cuándo es el momento.
+[Speaker 8]
+Bueno, ahorita tenemos una semana, semana y media que salimos del curso.
+[Speaker 2]
+¿Pero hay un plan.
+[Speaker 8]
+La idea es precisamente. ¿No hay un plan.
+[Speaker 4]
+Actualmente no hay un plan definido, o sea, se partió con lo que fue la capacitación, entonces en esa capacitación se le dio a la gente que, Probablemente sea parte de la encargada de este proyecto, entonces ahí falta pues analizar quién va a ser el responsable. Ahorita lo que se dio en esa capacitación es qué tantos equipos estaban dados de alta, si estaban se pueden ligar a MT, entonces hay un trabajo aparte que hacen todavía, entonces ese todavía no se tiene, este plan de trabajo todavía no se tiene para. para llegar a AMT, si bien si hay otras herramientas que utilizamos para generar presupuesto y hacer revisiones, igual se saca la información de SA, pero con AMT todavía no hay un plan definido cuando quedaría.
+[Speaker 2]
+Bueno, entonces falta un plan, hay buenas intenciones, hay ganas de hacer unas cosas, pero falta un plan con responsables, con tiempos y una secuencia. Para llegar al mismo nivel que tiene la mina, la mina tiene que mejorar todavía porque faltan algunas cosas que hay que hacer, pero la planta necesita primero las estrategias de mantenimiento. Este es un proyecto a mediano plazo, faltan las estrategias de mantenimiento con más detalle, con más información, con más costos, para que luego recién se ponga a disposición SAP y AMT para que pase a aceras. para el Excel y luego pase a aceras y ahí se pase arriba. Entonces ese es un proceso que vale la pena mapear en tiempo, en recursos y es largo. Entonces no lo están haciendo. Tiene que haber otra forma. Supongo que es más que todo estadístico de lo que ocurrió el año pasado y con algunos ajustes. Por suerte tiene. No, no está todo así. Permíteme terminar. Sí, permíteme terminar por favor. Los grandes en la planta, los grandes gastos o los grandes costos, perdón, están asociados a las grandes paradas, no los liner. y los ciclos que se dan en los componentes más importantes, molinos, ciclo de la faja transportadora, ciclo de los de las bombas de recirculación de los ciclones, los cambios cíclicos de las celdas, qué más, bueno la energía obviamente, la nueva la de operaciones, Eso, eso es casi, ahí José Arredondo que se exportó en eso, casi debe ser el setenta por ciento del costo de mantenimiento de la, de mantenimiento de la planta, ¿me equivoco? Eso es, ¿no es cierto? Faltaría un veinte, un treinta por ciento que ya es lo que ya ustedes estadísticamente sacan y ponen en el presupuesto. ¿Es así.
+[Speaker 8]
+De hecho es lo que precisamente le dije a, creo que a lo que iba a comentar, al final de cuentas si tenemos nuestros planes, bueno nuestras estrategias, perdón, en los equipos principales, en este caso, layers de los molinos, los huatender de los bombones, los ciclones, chutes, exactamente todo lo que es la chutería, blindajes, si representa nuestro mayor capital guía más o menos el resultado. Sí, igual.
+[Speaker 4]
+Un 80 un 85% el costo y igual es imposible que todo sea el 100% verdad pero si el 85% si lo tienen en planes te digo desde bombas válvulas bandas raspador o sea todo eso si tienen sus planes tienen detallado en sus planes cuántas piezas llevan en su costo, La única diferencia es que no se lleva en AMT, se usan otras herramientas pero no se lleva en AMT, pero si se tienen estos desgloses y si se analiza por ejemplo, cada vez que hacemos un forecast o un presupuesto, oye sabes que, estas gastando, no se, 300 mil dolares en estas bombas y ya analizan la información, entonces, ah sabes que, es que lo tenemos en un. plan cada dos meses entonces ahí se van haciendo como ustedes y se van actualizando en cada morca.
+[Speaker 2]
+Cuando dices otras herramientas ¿A qué herramientas te refieres?
+[Speaker 4]
+Bueno anteriormente ¿Qué otro departamento que desapareció no recuerdo el nombre? ¿Cómo se llamaba Artur el que estaba? ¿El equipo central?
+[Speaker 3]
+¿Presupuestos y estrategias?
+[Speaker 4]
+No, pero queda en PRP o...
+[Speaker 2]
+Long Range Planning ¿Es un software o es un...
+[Speaker 4]
+Ellos tenían, no es un, es que conocemos por que precisamente por eso se hizo la capacitación de AMTA Planta en ese departamento tenían otra herramienta que estaba ligadas a, y ahí destacaban los planes de mantenimiento y pues ya de ahí como ahí tenía la periodicidad se proyectaba en base a como tal.
+[Speaker 2]
+Entonces voy a hacer una pregunta que cae también por su peso, ¿no? Si esa herramienta está jalando la información significa que hay estrategias de cambio de liner, o sea, con hojas de ruta que originan esa demanda de, de cambio de componentes para los chubutes, para la parte húmeda de las bombas, de las quebradoras, el mantel, el cambio de mantel, el cambio de cóncavo, cambio de la faja, todo eso se planifica y se genera la estrategia para esos cambios en forma, tiene que generarse en forma de cambio de cambio por horas o por de horario no por cómo le llaman calendario la estrategia está definida en SAP. Sí en este caso. Oficialmente para que pueda ser presupuestado.
+[Speaker 8]
+Ay no entiendo bien o...
+[Speaker 2]
+O sea a ver si si por ejemplo voy a poner un ejemplo y eso justamente va con 120 mil dólares. cambio de las partes húmedas de las bombas de cicloneo de los cajones de los molinos, hacia los ciclones. Ustedes determinan, esta parte húmeda se cambia cada... Entonces, en función de lo que trabajen, estiman ustedes de acuerdo a la producción, esto va a demandar cambio tres o cuatro veces al año. Entonces voy a hacer una hoja de brutal, que lo voy a activar para que me genere el cambio cuatro veces al año. Eso es lo que solicitan muchas veces que estamos trabajando con ellos, para que se presupueste en el SAP. Entonces tiene que existir para que se presupueste en el SAP. Si no, depende de la persona, del planificador, que puede levantar, pero está en mi hoja de Excel porque lo planifiqué, yo soy el SAP y lo genero, pero ya está presupuestado, genero la orden. Entonces, ¿es manual o es automático? Es automático.
+[Speaker 8]
+En su ejemplo, por ejemplo, las bombas entran a cierto mantenimiento 2,500, 3000 horas, está en SAP, tiene su plan. Sus refacciones, esas sí, es seguro lo que son las quebradoras, todas las quebradas, la quebrada, las quebradoras Raptor, las quebradoras Andy trabajan de la misma manera, pero la frecuencia de las quebradoras son por horas. Cada cierta cantidad de horas sabemos que se tiene que cambiar de sus mantles y de igual manera en la primaria los cóncavos están de esa manera. En cuanto a las bandas, es un caso específico, se tiene ahí, precisamente dependemos del desgaste.
+[Speaker 2]
+Sí, pero si el desgaste depende de, bueno normalmente si algo que haga algo malo depende del podelaje.
+[Speaker 8]
+Pero también depende mucho del tipo de material que recibamos en la banda. Por eso no tenemos una frecuencia tan puntual en las bandas. Pero...
+[Speaker 2]
+¿Te tiras una persona?
+[Speaker 4]
+Pues estamos en lo que es en bandas en base a historias importantes, sabes que a lo mejor en abril me va a tocar un cambio de bandas, pero ya por cuestiones de, de material o uno figurable, entonces a lo mejor de repente hay una falla y se hace a Asset, en lugar si lo tenemos para abrir y a lo mejor lo hicimos en enero, en febrero por cierta cuestión operativa, pero si lo tenemos considerado en base a cómo debería ser su programación, si está así.
+[Speaker 2]
+Entonces, pero está en SAP como CAM presupuestado, está incorporado en estrategia de cambio. ¿Correcto? Todo lo que está presupuestado está incorporado en SAP como estrategia de cambio, en horario o por demanda, pero está definido que se va a cambiar, si en SAP, a través de mantenimiento. Esos equipos críticos, sí. ¿José, tienes alguna pregunta?
+[Speaker 5]
+Sí, en el caso de los revestimientos, En el caso de los equipos mayores, como los cambios de revestimientos molinos, los zancadores de Quijada, la Primaria, los HPG tienen definidos componentes. En base a ciertas horas o por días, como lo lleven ustedes, ya está definido. Mi consulta es, en el caso de los chutes, los revestimientos, que mayormente son basados en condiciones, ¿cómo presupuestan?
+[Speaker 4]
+Algunos consumibles en este caso que se utilizan en los chutes es algo muy similar lo que tiene, sabemos que esto es un desgaste cierto mortal de cada mes que tiene un presupuesto asignado para esos cambios de chutes mensual, digamos que si te gastas 300 mil dólares al año pues lo que haces es dividir esos 300 mil en los 12 meses porque sabes que va a pasar... algún tipo de gases, no los cambia y si a cambio los que se van dañando, entonces es la manera de que lo metemos al presupuesto.
+[Speaker 5]
+Ya, entonces si me permites quiero cerrar esto, o sea, entonces ustedes no tienen identificado en los chutes un mapa de calor, de reemplazo de este rendimiento, de desgaste de este rendimiento por eso es que están haciendo más estadística Si, así es.
+[Speaker 2]
+Al final es lo mismo que ocurre con los molinos, no? O sea, dicen vamos a cambiar 7 meses o 6 meses, hacen monitoreo del escaneo, van viendo el desgaste y lo adelantan porque tienen que hacerlo o lo atrasan para sacarle mas provecho a la liner. Pero tienen presupuestado en 6 o 7 meses, solamente que ajustan, fecha por monitoreo de condición, pero el cambio del punto de vista de ejercicio presupuestal y del punto de vista de mantenimiento está ajustado en siete meses.
+[Speaker 4]
+Y lo que es el molino si está ajustado siete meses y regularmente nunca se cambia, se adelanta, se cumple en el mes que las únicas ocasiones que se han cambiado de fecha, es por cuestiones estratégicas de la operación, no tanto por el desgaste.
+[Speaker 2]
+Bueno, entonces posiblemente, cada sitio tiene su forma de manejar, pero entonces el escaneo es para ver el ratio de desgaste y ver si se puede extender o si se necesita una vez si se puede extender o se necesita adelantar, porque, uno es porque se gastó más, y esta es mi preocupación, o quizás también la de ustedes ahora que van a irse a 120 mil, porque posiblemente de repente se adelante el cambio de aire, porque salvo que ustedes lo hagan a 7 y como decimos en el argote, "con carne" lo están cambiando, entonces sí va a soportar 120 mil. Pero si lo han llevado al límite, que posiblemente por lo que están diciendo no es así, entonces sí puede quedarse en 7 si, todavía tiene carne no, para llegar a, posiblemente no haya impacto en los molinos, pero puede haber en el circuito otro, en las fajas, en las pompas, en los ciclones, etc, puede haber impacto, hay que ver eso, hay que ver. Si, de hecho tiene que considerar todavía todos esos puntos, por el incremento de la producción. Ok, entonces esta claro que no tienen AMT, van en esa dirección, pero, si sacan la información de SAP, de lo que está en los grandes componentes, en los grandes equipos que generan costo, está seteado todo en la estrategia de mantenimiento para cambio por horario o por tonelaje, lo que sea y manejan compredictivos y no se adelanta.
+[Speaker 1]
+En el caso particular de la planta, cómo lo hacen con las cosas que no han fallado otra vez? por ejemplo los estanques o componentes eléctricos o cosas que podrían darse.
+[Speaker 2]
+No se presupuesta.
+[Speaker 4]
+Solo se presupuestan algunas lo que son las rutas de inspección o sea el tipo de componentes tienen su ruta de inspección y realmente lo que se mete al presupuesto son, cambio de componentes mínimos, o sea, no sé, si es un transformador, pues a lo mejor cambio del aceite nada más, lo que sabemos que se gasta al día, pero así como el componente, si tiene una vida útil, no sé, de 3 años, 5 años, pues así está considerado.
+[Speaker 2]
+Si tiene vida útil está en la estrategia, debería estar en la estrategia de mantenimiento y por lo tanto debería ser considerado igualito que los Leines, cada 5 años, cada 3 años.
+[Speaker 4]
+Algo importante también de planta, la planta no está descomponetizada, entonces ahí no se lleva la misma estrategia de mina, que los componentes que cuesten mayores a 50 mil, se meten acá, pues aquí prácticamente en planta, todo desorpes, solo algunos componentes, hablamos igual de un transformador, que tiene una vida auditiva se cambia cada 5 años y su costo es mayor a 100 mil, entonces ahí si se compra un transformador y se tiene en almacén como Critical Spark, más no está para su cambio digamos como recurrente, entonces el capex en planta es muy limitado, estamos hablando de a lo mucho cuatro componentes mayores al año, es mínimo lo que se considera en plan de datos.
+[Speaker 1]
+Ok, el tema de los edificios también lo incorporan.
+[Speaker 2]
+Mantenimiento de los edificios, dice.
+[Speaker 1]
+Si, los portones, el puente de grúa, ustedes mismos no. Ok, perfecto, entonces ya estamos con la mini planta, con los datos iniciales y pasan al proceso de aprobación, cierto? ¿Lo aprobaron? O bueno, primero quizás cuál es la, nos interesa saber cuál es el ciclo de aprobación, creo que no, eso es parte del negocio, está en el sistema, está en SAP. ¿Cómo operan semana a semana o mes a mes? Claro, por ejemplo, hay una cuenta de mantenimiento digital y si lo denominan, tiene un centro de costo, la cuenta de mantenimiento se pasó, o sea, el presupuesto que estaba fue superado por algún trabajo.
+Tiene un bloqueo duro o tiene un bloqueo blando y hay que dar explicaciones, cómo opera ese detalle.
+[Speaker 2]
+La otra pregunta es para hacer un gasto, el planificador es el que genera o saca del almacén o compra, no es cierto, se hace la planificación, tiene que buscar los recursos. saca el almacen no tiene problema porque va saliendo nada mas, pero si voy a comprar algo que no esta en el almacen y es un monto mayor, quien aprueba eso, el puede tomar la decision de aprobar o ustedes que son controladores de presupuesto dicen si esta presupuestado o no esta presupuestado.
+[Speaker 7]
+En el caso de Mina hay dos maneras de hacerlo que hemos hecho, una es, Si es un componente nuevo totalmente y el monto supera los 500000 USD, tenemos que hacer un sí de compra del si el monto supera los 500000 USD, se tiene que hacer un IRP entonces en base a ese ya se manda aprobaciones, tiene que verlo la gerencia, un total de preguntas y respuestas ahí en ese mismo documento y.
+[Speaker 4]
+Una vez que se aprueba, pues ya se se integra, pero el IRP es un documento de aprobación, una AFE, sí, pero un AFE para OPEX o CAPEX, CAPEX y en el caso el IRPE puede ser tanto como OPEX, es para solicitar digamos un gasto extraordinario, un gasto extraordinario que no estaba considerando presupuesto y entonces el IRPM puede ser usado para los 2 casos.
+Y normalmente se usa mas para el CAPEX, pero si si es un costo alto aplica para los dos.
+[Speaker 1]
+Y el sistema les da alguna ayudita así como para decir amigo te está pasando el presupuesto, te dice esa alerta, es una alerta suave, tu le dices aceptar y te sigue.
+[Speaker 7]
+No, SAP lo único que te hace es que obviamente pues ya nosotros tenemos que estar revisando, Pero si te da tu variación y precisamente cuando excedes los 100000, bueno, los 50000 USD si mal no recuerdo, finanzas mismo nos bloquea el PEP solito se bloqueaba, entonces en este caso para el capex, en caso de nosotros se bloquea y ya no podemos cobrarle, no podemos hacerle nada, no podemos ponerle ni un peso más allá ni un centavo más.
+[Speaker 1]
+Se puede hacer trabajo, entonces a.
+[Speaker 7]
+La hora de que alguien quiere ir y cobrar algo en almacén y está direccionado a eso.
+[Speaker 2]
+Hablando de control del capex.
+[Speaker 7]
+Se va direccionado, ahí definitivamente no nos deja en el Lopex. Lo que sí, lo que yo veo semana con semana y casi diario es precisamente ir viendo las cuentas contables para ver en qué cuentas en la que ya nos estamos excediendo. Y de ahí sí, ya es muy cerrado a decirle a los en el caso, en este caso a cada planificador, ¿verdad? Oye, ya tienes tu cuenta, estás, estás en tu límite o ya te ya te excediste.
+[Speaker 1]
+Pero ahí por ejemplo cuando alguien está haciendo transacciones no hay una alerta que dice te estás pasando el presupuesto, SAT no, tenemos que estar nosotros ahí en la revisión.
+[Speaker 4]
+Bien, la nota de Open en SAP si no manda ninguna alerta de que SAT excediendo, solo en escapes en los test que tienen asignados se puede llevar este control.
+[Speaker 1]
+Ya y una pregunta operativa, Falló, falló. Es que en realidad son 2 preguntas: en una, ¿cómo definen el pool de componentes que administra almacén y qué pasa cuando este pool de componentes se vuelve insuficiente en el transcurso del año? Primero, ¿cómo definen el pool de componentes.
+[Speaker 7]
+Almacén es el que hace esa parte y hasta donde yo sé, ellos toman en cuenta la cantidad de equipos que tenemos operativos. y. mediante sus algoritmos que ellos tienen, los programas que ellos tienen, define qué cantidad de componentes tenemos que tener en el sitio.
+[Speaker 1]
+Y hacen ese cálculo matemático y vienen acá y te dicen esto es lo que yo he visto para que ustedes lo pidan, así es.
+[Speaker 7]
+Si es nuestro pool y ya nosotros.
+[Speaker 1]
+No, no, porque no lo tienen, tienen que justificarlo porque no lo compramos.
+[Speaker 7]
+Ah bueno, es que ahorita pues no hemos hecho. Al contrario, lo que hemos hecho es reducir.
+[Speaker 1]
+O sea que ellos.
+[Speaker 2]
+Deciden, ellos deciden la cantidad de componentes que ustedes van a tener.
+[Speaker 4]
+En base a los equipos operativos, no tanto así, no hacen el caso, en base a los planes, igual se les comparte al almacén, los planes de mantenimiento, vamos a ocupar estos componentes, entonces ellos en sistema le ponen estrategia de mínimos y máximos de ese componente o de esa retracción. entonces el creador de mantenimiento, el tenedor ocupa sacar un componente, lo saca de almacén en automático el almacén detecta si está entre sus mínimos y básicos, si está en su mínimo en automático genera una orden de compra para que se reponga ese componente es prácticamente la mayoría de los componentes, así es el proceso.
+igual ahí ya entran otras cosas de que pues bueno la disponibilidad del proveedor, la fecha de entrega, pues ya ahí ya es otro otro tema.
+[Speaker 1]
+Pero hay una pregunta, hay una pregunta, suponte que definimos tres motores motores caros capex para el pool y con eso íbamos a darnos vuelta en el año, sin embargo en una reparación uno salió caro y se dio de baja, por lo tanto, se ve la necesidad de que para que la operación continúe hay que incorporar uno más. ¿Quién hace ese análisis, esa administración de la incorporación de ese nuevo componente al pool.
+[Speaker 4]
+Pues ya ahí es una estrategia entre los encargos de planificación y almacén, ahí se llega a pláticas, a reuniones y ya sabes que este es un componente que es importante que esté aquí, o generar ya la universidad por los tiempos de entrega que son largas, entonces ahí se hace el tipo de negociaciones entre las áreas.
+[Speaker 9]
+Hay un control de inventarios también, ellos analizan esa parte también para que siempre estén las tres piezas que usted está mencionando y nos contactan muchas veces para revisar esa parte para se va a incorporar uno nuevo.
+[Speaker 1]
+Sí, quizás la pregunta hecha de una manera más profesional es, Si el proceso de deshuese o dar de baja, activa un proceso de revisión de pool.
+[Speaker 2]
+Sí, es correcto. No estoy en la revisión de pool, a qué te refieres.
+[Speaker 1]
+Cuando defines que esta operación para las palas, por ejemplo, a lo mejor requiere dos motores de propel. y ya y se están moviendo y la bodega almacena, administra la reparación y ellos ocupan y todo perfecto. Pero en una reparación uno de esos motores es el costo sale más alto que la regla del 50 por ciento por lo tanto se decide dar de baja deshueso y ya no quedan dos sino que queda dos. Entonces ahí alguien tiene que tomar la iniciativa y hacer algo para volver a tener dos.
+me dice que el proceso de deshueces activa automáticamente un proceso de revisión del pool.
+[Speaker 2]
+En la tarde va a tener una reunión con su playchain. Y hemos hecho una entrevista previa de mantenimiento y a su playchain. Y siempre hay. La pelea siempre de las diferentes veredas. Yo estoy acá y mira el problema allá, y estoy allá y mira el problema acá. Pero estoy viendo que en esta relación las estrategias de mantenimiento juegan un rol fundamental.
+Cuanto más elaborados tengo y más presupuesto en base a estrategias, si más me acerco al presupuesto, más a cero, más fácil va a ser la conexión con el suministro. y aquí en un presupuesto, ellos van a tener la necesidad de cumplir con ese presupuesto y va a haber la necesidad de suministrar las partes y presupuesto presupuestadas. Ahí creo que hay un punto base de relación para ellos, pero cuando menos estrategias haya y más demanda haya de parte, va a ser más difícil la conversación.
+Creo que la planta está más lejos de esa buena conversación que la mina. obviamente es más estandarizado, equipos de minas, son conocidos, entonces la estrategia también está más desarrollada, plantas y por lo que he visto va a ser más difícil tener esa conexión en inmediato, va a tener que trabajarse para que esa relación mejore a través de una buena definición de estrategia de mantenimiento de crítico 1, crítico 2, crítico 3, crítico 4.
+Ahí vamos a tener que trabajar.
+[Speaker 1]
+Ok, entonces ya entendemos como mini planta, hicieron el presupuesto, lo cargaron en el sistema, lo empezaron a usar, qué sé yo. Llegamos al proceso de evaluación, o sea, cómo hacen la reportabilidad. Cuéntenos un poco qué es lo que ven ahí, ven lo que gastaron planeado versus lo real, lo segregan por costo por accidente, imprevisto, no sé qué, y cuáles son las acciones que se toman y cómo es ese proceso.
+[Speaker 7]
+¿A qué nivel quieres ver? ¿A qué nivel.
+[Speaker 1]
+Al nivel que me permita llegar a las acciones que se devuelven a mantenimiento.
+[Speaker 7]
+Osea todavía estando dentro de mantenimiento.
+[Speaker 1]
+Es que no conozco como es, entonces cuéntame.
+[Speaker 7]
+Bueno en el caso de nosotros como mantenimiento mina, pues te preguntaba a qué nivel, porque tomamos acciones hacia números, o sea hacia presupuesto y hacia acciones de mantenimiento.
+[Speaker 1]
+Vamos a ir iterando, pero básicamente lo que me interesa es entender el ciclo de mejora de la gestión de costos, cuando cierran evalúan un producto.
+[Speaker 3]
+Yo creo que podemos ser como con la junta, por ejemplo, que tenemos con contabilidad.
+[Speaker 7]
+Es que precisamente lo que quiero entender, si es la evaluación del presupuesto total.
+[Speaker 3]
+No del periodo, de los periodos. Habla del cierre. Del cierre también.
+[Speaker 4]
+Si, en la parte de planta lo que hacemos es cada semana, y bueno por parte de nosotros que tenemos la integración entre finanzas y la parte operativa hacemos reportes igual también en Mina, noches sabes que cada semana nosotros estamos oye te pasaste en estos componentes, ¿qué está pasando? en plantas igual oye me aparece en este costo y ya lo revisé y no sé el presupuesto entonces yo ah sabes que mira esto fue un correctivo, pasó esto.
+ya la primera semana uno, ya empezamos a identificar que cosas fueron correctivas, que son "timing", que tenían otro mes y se tuvo que adelantar por alguna estrategia, o que realmente si estuvo en presupuesto, entonces, semana a semana se va llevando esa revisión, y al final de mes, buscamos una estrategia de como mitigar ese impacto, ya sea si no sabes que, en el caso de Mira, lo que he visto, tenía programado cambiarle una transmisión a un equipo, no se la va a hacer ya, se la va hasta el siguiente mes para quedar en su presupuesto, o la otra opción es, sabes que sí la va a hacer porque se ocupa, pero el siguiente mes voy a tener este ahorro, entonces sí se lleva esas revisiones de presupuesto, mes a mes, y durante todo el mes se va haciendo.
+vamos a hacer unas proyecciones semanales de como se ve que se va a cerrar el costo en base a las actividades que van realizando el mantenimiento.
+[Speaker 1]
+Ok, en eso el concepto de carryover lo usan para gastos planeados y/o solamente para proyectos de capital.
+[Speaker 4]
+No te escribí la pregunta, perdón.
+[Speaker 1]
+Por ejemplo, si van a hacer un gasto que estaba calendarizado para enero, pero por diferentes razones operacionales lo movieron a marzo. ¿Alguien lo califica como carry over? ¿Alguien hace un movimiento de ese dinero aprovisionado.
+[Speaker 9]
+¿Es lo que mencionaba de Onta en Intel? mencionaba el concepto que mencionaba Aparicio de que si está en otro mes, aparece en nuestro.
+[Speaker 2]
+Mes, esa dinámica es entre el gestor de costos y el planificador, correcto, se patea o se adelante el presupuesto.
+[Speaker 3]
+Eso se incorpora en los ejercicios de forecast que mencionábamos, una vez que tenemos cuatro durante el año, entonces es cuando se actualiza ese tipo de cambio por ejemplo.
+[Speaker 1]
+Y llegando a fin de año, por ejemplo, si llegaste a fin de año, cierre el ciclo de negocio actual y tiene muchos de esos movimientos y van a cerrar el año. ¿Qué pasa ahí? ¿Qué pasa con esa plata, con ese dinero.
+[Speaker 4]
+Se sigue proyectando? Se siguen estrategias para lo que buscamos, estamos hablando nosotros como apoyo con ellos, Es no acceder el presupuesto y quedar alineado lo más posible, entonces ya sea que. si un ejemplo, si nos faltó gastarnos en tres millones de dólares, vemos que podemos adelantar del siguiente año a este año para buscar un ahorro el siguiente año y quedar nuestro presupuesto este año.
+Por el lado contrario, si vemos que en un área están quedando muy arriba, pues buscamos en otras áreas donde mitigarlo. Vas a compensar esa esa parte. Esa revisión si se hace, incluso se hacen estrategias a final de año, esas estrategias no pasan por los gerentes e incluso por la gerencia general, ellos están enterados de todos esos movimientos que se hacen para cumplir con nuestro presupuesto, o dependiendo con lo que nos estén midiendo, si fue el presupuesto o si ya no subieron con presupuesto, mídanse contra el.
+el FordCast es el 8+4 que fue el último ejercicio, entonces dependiendo de con que nos miramos tratamos de alinearnos a este presupuesto.
+[Speaker 1]
+Ok y una pregunta que seguramente aquí no pasa pero me ha pasado a mi, por ejemplo tengo 3 palas o tengo 2 molinos y tengo un presupuesto en el molino 2 pero resulta que el molino 1 se comportó más mal y hay plata en el molino 2 para, poder hacer las cosas que necesitan el molino uno, esa decisión de mover recursos presupuestados de una unidad mantenible a otra, está en el mundo del mantenimiento o tiene que ir a finanzas o hacer un registro y una autorización para usar esos dineros.
+[Speaker 4]
+Si está en un centro de costos diferentes, si pasa por bien, y están en el mismo centro de costo y misma cuenta, pero no es necesario que pueda ir al final.
+[Speaker 7]
+Ya no se ve a nivel planeador, o sea el planeador es lo único que lleva.
+[Speaker 2]
+Claro, al final lo que están buscando es ser rápidos por procesos, hay KPIs en el reporte que ustedes tienen hay KPIs de llegar costo por. Costo por tonelada maneja más. No pero desde el punto de vista de mantenimiento.
+[Speaker 4]
+Hay un CAPI de costo por tonelada.
+[Speaker 2]
+Ese es el resultado final porque hay nuevos insumos y todo pero a nivel de mantenimiento han definido ratio de costo por hora.
+[Speaker 3]
+Pero no se lleva así como oficialmente en una cosa y en un dashboard que hicieron estado en costo costo. O sea lo hemos calculado nosotros así eventualmente o sea.
+[Speaker 2]
+Llevan el gasto por equipo, por ejemplo el camión, cuanto me está cuestando el camión de este, llevan eso.
+[Speaker 7]
+A ese nivel no.
+[Speaker 3]
+Osea por la eventualmente hemos hecho cálculos para.
+[Speaker 7]
+Pues no llevamos un cambio.
+[Speaker 2]
+¿Cuál pala cuesta más? ¿Qué camión cuesta más.
+[Speaker 8]
+Esto ha dicho, dado puntual. Osea sería igual, si tenemos que investigar en base a un equipo el costo lo hacemos. ¿Tomamos, sacamos, pero pueden hacerlo. Pero sí, sí puedo hacerlo Efectivamente sí Tienen todos los datos Para sacar el costo de un solo equipo en específico No llevo el historial, eso es un hecho Pero sí El SAP te da esa posibilidad Ahora cuando hacen las órdenes de trabajo Al final las órdenes de trabajo son acopiadores de costos, ¿no.
+[Speaker 2]
+Porque ahí se, Ahí queda la vaquita Ese es uno de los principales objetivos de queda registrado ¿Ustedes cuando jalan una obra de trabajo lo hacen al componente mantenible o a nivel de equipo.
+[Speaker 7]
+Al nivel del componente Se baja al componente ¿Componente mantenible.
+[Speaker 2]
+Por ejemplo el equipo molindo por decirlo ¿Está definido como equipo o ahí abajo otros niveles.
+[Speaker 8]
+Tiene tres niveles también.
+[Speaker 2]
+Que niveles tiene la parte eléctrica.
+[Speaker 8]
+Exacto, debe tener la parte eléctrica, la parte de instrumentación estructural.
+[Speaker 2]
+Bueno hay varios componentes, porque ustedes botan en una obra de trabajo para ese, bueno van en diferentes sitios, si rutina va más arriba, pero específicamente los correctivos programados van a nivel de componente mantenido. Sí, eso sí, si voy a trabajar en el motor eléctrico va al componente eléctrico.
+[Speaker 8]
+Eso es como debe hacer. Es correcto.
+[Speaker 2]
+¿Es correcto? Sí. José, ¿tienes alguna pregunta o Armando? ¿Preguntas.
+[Speaker 1]
+Yo tengo una.
+[Speaker 5]
+Sí. Era con respecto al que nada de los los costos unitarios por por componente de la flota no sé si van eh si tienen ese costo eh estaba preguntando eso justamente estaba preguntando eso ya adelantemente sí eso es uno el otro es este. Eso básicamente.
+[Speaker 2]
+Sí, ya lo dijeron ya. No lo tienen pero sí lo pueden sacar.
+[Speaker 1]
+Yo tengo una pregunta quizá puntual que tiene que ver con la detención de los camiones, o sea, tenían ochenta y algo camiones y hoy día tienen sesenta y algo camiones y entiendo que tienen una política de optimización de gasto, sacando componentes de allá para acá. Entonces la pregunta desde la perspectiva de costo y finanzas, ¿cómo eso, cómo se administra, cómo es, cómo opera?
+Se supone que tienes camiones detenidos, que me imagino que a través de un "chain management" no sé qué, se dijo "estos camiones se van a detener" y se activó un plan. De acuerdo a mi experiencia, y aquí puede que sea aquí distinto, pero normalmente ahí se apagan los centros de costo de esos equipos para que no ocurra el gasto. Sin embargo, me he enterado porque están haciendo uso de algunos componentes de embajadora para ponerlo en los equipos de acá. ¿Cómo hacen la administración? No sé si la palabra es financiera o de costo o rotable.
+Claro, para que salga la verdad de las cosas. porque definitivamente ustedes van a salir con un costo más bajo en el periodo del año, pero eventualmente cuando sus camiones se pongan en servicio ese costo va a estar allá, entonces quiero entender cómo lo hacen.
+[Speaker 7]
+Y se les pasa a finanzas precisamente hacemos el cambio con ellos, les mandamos este equipo, el equipo 1 tenía estos componentes que son los que quitamos con esta cantidad de horas que todavía tenía para depreciarse dentro de ese equipo. y ahora se están instalando en X, Y y Z equipos o en uno solo, si es directamente. Y los componentes que teníamos en este equipo se le pasa las horas operativas que tenía ahí para que termine la precisión.
+[Speaker 1]
+No se van al ciclo de reparación.
+[Speaker 7]
+No, no se quedan en el equipo. Es a la hora de que nosotros.
+[Speaker 2]
+Las horas que quedan van como costo al modelo movido. Y el otro se va.
+[Speaker 7]
+Que termine de depreciarse no.
+[Speaker 2]
+Vayan a reparar algún día ir a ese equipo.
+[Speaker 1]
+Claro, pero el ciclo puesto en SAP, el presupuesto que pusieron para ese camión no lo van a ocupar, el que está recibiendo el motor fresco, que tenía un ciclo y tenía un gasto presupuestado.
+[Speaker 7]
+Normalmente lo que son.
+[Speaker 1]
+Déjame terminar el video, ahí quedó dinero, entonces se van a ver bien. O eso lo ajustan en el proceso de sport y ahí van a decir no vamos a gastar menos porque estamos haciendo esto.
+[Speaker 7]
+O vamos a gastar más porque nos hace falta. Es que realmente el tema de quitar esos componentes es terminarle su vida útil del componente y a la hora de que nosotros estamos haciendo cambiándolo, se los estamos quitando a los equipos con mayor horas que tenemos ahí que precisamente ya estaban, pero hagámoslo puntual.
+[Speaker 1]
+Un motor 10 que tienen un ciclo entiendo $24.000 pero encontraron uno allá en el donde están estos camiones detenidos que tenía 5000 este está llegando a 20.000 entonces el ciclo de SAP dice que vamos a tener que gastar $600.000 pronto pero no lo vamos a gastar porque yo voy a sacar este y voy a ir a buscar allá y a lo mejor meto los gastos de la mano de obra que se yo saco ese de allá y gasté $50.000.
+[Speaker 7]
+Me quedan 550, lo que hacemos es que nos vamos a al futuro, o sea, nos traemos a lo que hacemos es quitarle a los equipos que vienen más adelante. En el año no lo tocamos, lo que tenemos actualmente no, sino los equipos que vienen a futuro y que ya traen condición precisamente, o sea, no se cambia nada más. Si tenemos una ahorita por condición, ocupamos nuestro presupuesto actual. Pero si tenemos uno a futuro, o sea que ya viene, no sé, para el 2027 son donde se ocupan ese tipo de cambios para no afectar nuestro presupuesto.
+[Speaker 1]
+Y finanzas está de acuerdo y no hay problema.
+[Speaker 7]
+Hasta ahorita lo que hemos hecho, les digo, como se les pasa todo el dato, precisamente lo esperado es que en el 27 hagamos el la reducción del.
+[Speaker 1]
+Presupuesto y en el caso de la planta, perdón, bueno, y ahí.
+[Speaker 4]
+Agregando un poquito a lo que comenta Benina en ese ejemplo, o sea, a final de cuenta. digamos este motor en un momento ya se cobró, entonces ya se tuvo ese cobro en algún mes, entonces al cambiarlo a otro equipo, como tiene el mismo centro de costo, mismo cuenta, sigue cumpliendo con su vida útil que le falta, pero como ya se cobró anteriormente ya no es necesario hacer un ajuste de costo, ya en cierta forma. El CS tiene un valor digamos cero financieramente porque ya lo cobran anteriormente. Ellos por eso lo único que hacen es ajustar las horas para los cambios frecuentes en los siguientes meses o años nada más.
+[Speaker 2]
+Claro. Es como si estuviera en el almacén, ¿no? Al final de cuentas el saco de eso solamente no tiene un costo de preciación. Lo saco, lo pongo y lo pierdan las malas horas.
+[Speaker 4]
+Y no tanto de almacén porque si ya se cobró en ciertos momentos, o sea ya el punto ya se estuvo.
+[Speaker 2]
+No tiene nada que apreciar una analogía.
+[Speaker 1]
+Quedo ahí entiendo, pero quedo con la duda igual y me iba a hacer, me iba a ir a la planta, entiendo que la planta tiene un par de circuitos ya desactivados, también me imagino que los switch de costo están abajo, pero eventualmente deben haber piezas que les sirven, motores eléctricos, tuberías, válvulas, también pueden ir y sacarlas y usarlas en la planta.
+[Speaker 8]
+Actualmente la idea es.
+[Speaker 1]
+No, no la idea, no entiendo la filosofía de que eso pasa.
+[Speaker 4]
+Regularmente en lo que es ahí en planta, digamos el área que está ahorita deshabilitada es la área PLP, financieramente esa área no está operativa y ya se declaró como no operativa, entonces, no se pueden tomar componentes, ha habido excepciones en que, por ejemplo, A sabes que se dañó el compresor, ocupamos este compresor, entonces sí se hace el cambio, pero con una previa autorización por parte de finanzas, más que nada para ajustar el costo de la baja de ese activo, nada más se da. Si se dio de baja el activo que costaba, no sé, 100 millones de dólares, pero le quitas un conversor que te vale 30 mil, entonces nada más le bajas 30 mil a ese activo como dado de baja, pero no se genera el costo acá en la parte que se opera. Son contadas las dos o tres cosillas que se han hecho en planta, no es una actividad que se haga a diario, solo se haya hecho en caso de que, componente crítico, ya sea porque no va a llegar o por no parar la operación, se hace esa actividad pero en planta no aplica.
+[Speaker 2]
+Otra pregunta, ustedes no manejando costos, anteriormente fueron removidos para ir a su casa, si han regresado o siempre han estado acá.
+[Speaker 3]
+En mi caso yo sí, o sea dicen como, yo estaba aquí en Peñasquito desde el 2019 y en el 2022 se creó lo que era el equipo central o bueno, TRFP le llamaron el proyecto ese y ahí nos movimos a casa nosotros.
+[Speaker 6]
+¿Y cuál era el TPP?
+[Speaker 3]
+Technical Resources Project, se llama proyecto de servicios de recursos técnicos.
+[Speaker 2]
+¿Pero notaron solamente para el Peñasquito o para varias minas? No, fue para varias minas. O sea, usaban el mismo recurso para varias miles. Sí. Exacto. ¿Y tú trabajabas para Peña Esquito?
+[Speaker 3]
+Yo trabajaba. Exacto, para Peña Esquito y otros sitios. En mi casa.
+[Speaker 7]
+No, en mi caso nada más estuve en casa, pero para Peña Esquito.
+[Speaker 6]
+¿Estaba en tu casa para Peña Esquito? Sí.
+[Speaker 2]
+Estaba planificando.
+[Speaker 9]
+Nosotros estábamos con planeadores.
+[Speaker 2]
+¿Cómo, pero estaban en sus casas?
+[Speaker 9]
+Sí.
+[Speaker 2]
+estaban en sus casas ¿cuántos tiempos tuvieron? 2 años 2023 2024 pero no planificaban para varias minas sino solamente para Peña Esquita y recibían el input y las notificaciones todo de la planta de los ejecutores. Bueno aquí teníamos los programadores.
+[Speaker 9]
+sitio, ellos sí estaban.
+[Speaker 2]
+Acá había programadores. ¿Dónde están los programadores?
+[Speaker 9]
+Lo que es planta ya lo hacemos en conjunto los planeadores.
+[Speaker 2]
+¿Y los que existían de programación se fueron?
+[Speaker 9]
+Ahora que regresamos a sitio ya todos asumieron.
+[Speaker 2]
+A su casa. ¿Cuál planificador? No, no, pero los programadores que existían acá ¿dónde están?
+[Speaker 9]
+Planeador, ahora es un planeador. Un planeador de la otra persona. No, no, ya no está la.
+[Speaker 2]
+Personas que hacían el momento.
+[Speaker 9]
+Exacto, una persona está como planeador, pasó al área de planeación y la otra persona ya no está.
+[Speaker 1]
+Hay una sola pregunta que me queda, es ¿cómo presupuestan los contratos de servicio que son acotados a un área o transversales a una flota?
+[Speaker 3]
+Mantenimiento mina existen varios contratistas que tenemos. Como contrato fijo tenemos el CPH costo por hora de Cummins y ese nosotros existe la línea estratégica en AMT, no tanto en SAT en este caso, sino en AMT y ese se calcula en base al equipo requerido y en las horas superadas del equipo. Entonces ese es uno, el otro es Cal Tire, que es el que le da mantenimiento a todo lo que es llantas, ese es un costo fijo mensual, es un costo, siempre es el mismo, entonces es un monto posicionado durante todo el año.
+[Speaker 3]
+¿Y los neumáticos?
+[Speaker 2]
+Eso ya es de operaciones, otra pregunta, cuando hacen la gestión del contratista, evalúan la gestión del contratista, y estoy viene conversación de que yo tuve conversaciones con la parte eléctrica con la gente o mío ¿Cómo se llama? CIMEX, no me acuerdo. Ustedes participan porque son los que controlan los gastos de esta gestión ¿No?
+[Speaker 4]
+Cuando hacen la. Es un requerimiento de un servicio de contratista lo que es digamos ellos como frenadores aportan lo que es su necesidad ¿saben que? ocupo un contratista para mantenimiento eléctrico a Molinos compras o contratos ellos licitan entonces ya en la licitación, la gente de planta revisa la parte técnica, que ese contratista cumpla con sus necesidades técnicas que ellos necesitan y la parte económica pues si ya la revisa contratos, regularmente aquí se hacen todos los servicios de contratistas que.
+[Speaker 2]
+Se decían, eso lo entendemos, pero estoy hablando de un contrato de 3 años a 5 años, en este caso de Inomotix que es de Siemens, también de bandas por ejemplo, eso tiene un presupuesto aprobado, el contrato que tiene que cumplirse cada cierto tiempo y hay un desglose de gastos que hacen ellos, ustedes participan en esa evaluación de contratistas en forma del desempeño que tienen, de lo que están reportando de costos, van a las reuniones. El planeador si, el planner va pero van ustedes con el planner o solamente va el planner.
+[Speaker 9]
+Ahorita ellos están integrando también lo que es compras, finanzas, y confiabilidad para todos evaluar mes a mes.
+[Speaker 2]
+Porque no he visto esa.
+[Speaker 9]
+Han estado aquí en un cierre de mes todavía. No, lo sabemos a final de mes en el que se evalúa el.
+[Speaker 2]
+¿Desde cuánto empezaba esta práctica?
+[Speaker 9]
+Ya tenemos, ya tenemos bastante tiempo haciendo los KPIs del contratista. Ajá, del contratista.
+[Speaker 1]
+Para cerrar, por último, una pregunta, según ustedes tienen un bueno, excelente, aceptable control de los costos.
+[Speaker 3]
+Como control de costos. Yo voy a decir excelente, pero ahora sí que es perspectiva, no cada quien.
+[Speaker 1]
+¿Se sienten bien? ¿Hay espacio para mejorar? Claro, siempre. Claro que sí. Yo no tengo más preguntas. ¿El equipo de Perú tiene preguntas?
+[Speaker 5]
+Sí, sólo quería saber cómo llevan el caso de garantía de componentes, el costeo de garantía de componentes, está incluido esto dentro de su costeo y es el monto de garantía, Un control, hay un KPI de cuánto dinero por garantía recupera.
+[Speaker 4]
+Para garantías no hemos considerado ningún presupuesto, ahí se supone que si pues hay un equipo que ocupa garantía, pues ahí se hace cargo el proveedor, entonces no generamos presupuesto para garantías de un recomponente.
+[Speaker 5]
+No sé decir, se tiene un control de las garantías que se tienen en el proceso del tramo con los vendo, no sé, cada componente tiene una vida, bueno, ya usted conoce muy bien eso, y entra el reclamo a veces porque no pasó la vida muy inesperada o lo mínimo, digamos, ofrecido. Entonces, se va a llevar un listado de estos componentes y eso va a generar un mono. Y finalmente, eso no entra al presupuesto porque, digamos, hoy día yo tengo un monto por reclamo de componentes de ciertos componentes y que esto no voy a preguntarlo porque acá tengo los reclamos que ya están aprobados por ellos como el tema de crédito, como una nota de crédito o algo así, no lo manejan de esa forma, como lo manejan? y cuando dices el equipo de garantías tienes un equipo de gestión de garantía.
+[Speaker 7]
+Para el caso de mantenimiento, nosotros de Mina, el ingeniero de confiabilidad, bueno, Esa área son los que se dedican al tema del reclamo de garantías, ellos son los que hacen todo el proceso y nosotros, como la parte de planificación y la parte de costos, lo que hacemos es que en mi caso yo le informo a finanzas que tengo un componente por garantía. El planeador hace su reclamo de garantía al almacén, que pues como ya conocen el proceso de que nosotros nomás entregamos y recibimos, entonces ya el proceso de la garantía de todo el que lo llevan entre los confiables y el y este y almacén, que son los que tienen esa interacción de a la hora de que ya el proveedor en este caso acepta la el reclamo de garantía. Precisamente se hace una nota de crédito o se nos reembolsa ese dinero a nuestro presupuesto. En el caso de mantenimiento, por ejemplo, nosotros ese dinero se queda en una bolsa de almacén. Simón aparece una cuenta puente que tiene almacén hasta que. Si se hace el reclamo de garantía, a ellos se les regresa el costo cero.
+[Speaker 2]
+El almacén es el que se beneficia con esa nota y.
+[Speaker 7]
+Crédito. Es que el componente como parte de, porque por ejemplo si es una garantía parcial, aprovechan el pánico. Si es parcial, si regresa a nuestro centro de costos. Pero por ejemplo ahorita tenemos el caso de una transmisión que son 700 mil dólares, Y eso que regresa al almacén, a nosotros no nos afecta en lo más mínimo, o sea, nosotros tenemos el componente nuevo ya instalado y la garantía corre por cuenta de ahí a la hora de que regrese el componente.
+[Speaker 4]
+Ahí final, al final de cuentas, si hay una nota de crédito por eso no le afecta a la operación, o sea, ya en general como compañía hay una cuenta de no se notas de crédito y pues digamos que se va a nuestro balance. pero no le ayuda o no le afecta al área operacional para nada.
+[Speaker 2]
+Pero cuando utilice lo que está en el almacén, ahí supongo que va a haber un costo menos recuerdo.
+[Speaker 10]
+Claro.
+[Speaker 5]
+Una pregunta, en el caso de planta, con el tema de los revestimientos, la venta de los revestimientos, etcétera, especialmente ingresa a la corte de mantenimiento también o eso va directamente a la almacén.
+[Speaker 4]
+Van al almacén. Ahí hay una estrategia, igual con el contratista, que lo que se hace es para no inflar el inventario, por ejemplo, si sabemos que el paro va a ser en abril, ah pues tu contratista asegúrate de entregar almacén en febrero, los liners. y ya en operaciones ya cuando lo va a contar que sea en el mes de abril, pues ya lo retirará el almacén, entonces no le impacta al costo, pero ahí hay una estrategia ya entre mantenimiento, almacén y el proveedor de que ellos lo tengan en su bodega y lo entreguen no sé un mes antes a sitio para tenerlo disponible.
+[Speaker 5]
+¿Cuánto es el costo por libra de cromo moly que tienen ustedes ahí? Me refiero al tema de revestimiento de los molinos ¿Llevan este costo? ¿El costo del interior por libra?
+[Speaker 4]
+No por libra, tenemos el costo por juegos de liner todo el juegos del aire es el revestimiento del molino dependiendo de que secciones se van a cambiar pero si tenemos el, El cambio completo nos cuesta 3 millones y cuesta, si nada más es 2 secciones, son como 2 millones, si tenemos separado ahí el costo y si tenemos identificado no por libras, sino por secciones que se van a hacer los cambios.
+[Speaker 5]
+Y cuando identifican ese costo, o sea, si lo manejan así por ser de Linux ¿Cómo identifican en su costeo si ese presupuesto, o ese revestimiento está más caro que otro revestimiento? ¿Cómo llevan ese proceso ustedes? ¿Cómo identifican que si el revestimiento que están usando está digamos de acuerdo a un comporto unitario que debería mantenerse?
+[Speaker 4]
+Ah, ahí es fácil porque igual con el proveedor se tienen contratos, tú sabes qué, yo te voy a comprar tantos revestimientos, entonces cada, revestimiento para molinos agua la que cuesta tanto, entonces ese costo nosotros nos metemos el presupuesto y al momento que llegan a almacén es el mismo costo, no varía, lo único que varía un poco pues de repente son los costos de traslado, si nos salió más caro el flete de moverlos, pero es mínimo lo que costo que cambia ahí por fled, pero el costo de esos ya está pactado, entonces no hay forma de que haya un desvío en el costo.
+[Speaker 5]
+Ese costo de los revestimientos que ya tienen por consignación o contrato, ¿cómo definen el costo adecuado por cada libra de Chrome Ball y Chrome, Claro, en este caso el recibimiento no molido.
+[Speaker 4]
+Bueno, si desconozco el proceso, ahí ya es un proceso ¿Dónde crees que esta ahí? Si entra mantenimiento, pero en este caso debe ser el superintendente de mantenimiento donde el proveedor le hace la propuesta, mira te propongo este tipo de liner que tiene esas características, va a dar esta vida útil, si no te da esta vida útil, te lo cambio por otro, ya ellos llegan ahí a acuerdos y en conjunto con el área de Supply Chain, entonces ahí ya es una negociación que hacen entre ellos y pues al final de cuentas ya nosotros lo hacemos en base a lo que es el contrato del costo final.
+[Speaker 11]
+Muchas gracias.
+[Speaker 1]
+Una última pregunta, las garantías que mencionaron las cargan en SAP. Por ejemplo si montan un componente que tiene 3000 o 5000 horas de garantía porque es reparado se carga esa información en SAP.
+[Speaker 7]
+Pero es que realmente cuando metemos la garantía el componente que instalamos sigue siendo nuevo sigue siendo cero.
+[Speaker 1]
+Tiene garantía.
+[Speaker 7]
+El que quitamos no el que instalamos.
+[Speaker 1]
+Pero el que instalaste también tiene garantía.
+[Speaker 7]
+Tiene otra garantía, si ese si a la hora se carga, si se pone el target de vida esperado, bueno de la garantía es otro, si el por eso el término de vida de la garantía en.
+[Speaker 1]
+La planta también y en el caso de que tiene la funcionalidad de SAP activada para que ya se puso en. Vamos a tener que cortar porque tienen que hacer cosas, sí, pero todavía tenemos tiempo. Bueno, déjame terminar, el la te avisa que estás, por ejemplo, si estás remontando, no, cuando tiene que hacer un correctivo sobre algo que está en garantía, te da una alerta que está en garantía.
+[Speaker 7]
+Cuando lo estás desmontando, cuando estás haciendo el proceso de que vuelves a activar el plan siguiente, que no sé, lo cambié en diciembre, lo vuelvo a cambiar en enero. que surgió mi garantía, si sale la alerta de que tienes un componente montado con garantía a la hora de que liberas la siguiente te aparece un warning, no.
+[Speaker 1]
+Es un warning, pero te da.
+[Speaker 7]
+Si te dice, te notifica que tienes ahí la todavía el componente en garantía.
+[Speaker 1]
+Muchas gracias, si bueno, muchas gracias por la participación, ha sido súper ilustrativa la sesión.
+[Speaker 6]
+Gracias a ustedes. Muchas gracias. Gracias.
+[Speaker 2]
+No se vayan. Juan, muchas gracias porque nos has prestado más tiempo de que habíamos comprometido. Muchas gracias.
+[Speaker 10]
+Hasta luego.
+[Speaker 3]
+Señores, les dije que nos volveríamos a ver. Muchas gracias. Muchas gracias también. Muchas gracias. Igualmente. Con permiso, adelante.
+[Speaker 8]
+Vengan, buenas tardes. Igual.
+[Speaker 2]
+Algún comentario porque no has participado mucho, no sé si todo está claro para ti o tienes algo que aportar.
+[Speaker 1]
+Muy bueno el facilitador que tenían.
+[Speaker 11]
+Claro, muy lo máximo. Bueno, he anotado puntos claves de la reunión, que se manejan por lo menos en el largo de planta sin, si una estructura de capex como lo tiene Mina puerpiterio si un componente cuesta más de cincuenta mil dólares al capex, todo es opex no quieren implementar la MT, se maneja con alguna otra herramienta que ni ellos saben al parecer porque viene de otro proceso para hacer esa segmentación, esa clasificación estandarizada en base a estadística de sus repuestos que no vienen de ese plano. supuestamente todo capta al 80% de plan, cosa que dudo pero eso básicamente el mundo y el punto clave ahí que si tienen algo que viene desde plan lo codifican un transformador como dio el ejemplo el mismo caballero 100 mil dólares y eso lo desprecian después de que es consumido desde los almacenes. Eso es mi brief de esta reunión que he tenido, no tienen una estandarización para el proceso de clasificación.
+[Speaker 11]
+¿Y el tema del presupuesto base cero? Qué opina de eso.
+[Speaker 2]
+¿De qué? Del presupuesto base cero.
+[Speaker 11]
+Lo que tú planteas, presupuesto base cero, mandarlo todo a preventivo, desde planes, Es una idea que podría normalizar estos defectos del flujo de identificación de los correctivos, ¿no?
+[Speaker 5]
+Si me permiten colorar ahí que esta es la publicación que ya se han estado manifestando, tanto en mina como en planta, hay una oportunidad de manejar el presupuesto mi abasecero, porque, y lo dijo también en la primera reunión, que él saca su presupuesto y de alguna manera va a estar en condición y más o menos caídas de ciertos componentes. Y en planta se ve, por ejemplo, cuando le preguntamos el primer de los resentimientos, nada más de los chupes, es muy posible que esté pasando con los polines también y otros componentes, y que esté sacando un presupuesto, un bate de estadística de conjunto, es algo que decíamos en el también en algún momento, en el cual de ahí debería sacar y de ahí modificar, optimizar el presupuesto. Ahí yo veo una oportunidad de trabajar en el tema de las estrategias donde pongamos los materiales, todos los recursos que necesite y de ahí por tener un presupuesto, tanto hojas como cada. Mira también tiene que ser esa comunidad. Ellos dicen que solamente faltan los equipos auxiliados pero por lo que he visto también hay oportunidad, en el tema de de gestión de garantía lo conversamos el otro día con los desconfiables dijeron no eso de la garantía no es el almacén entonces eh no veo bien definido quién maneja el tema de las garantías ¿No? Eso por eso te pregunté si había un equipo especial, veces confiable, pero confiable dice que eso lo manejan mal. Y al venir la pregunta ¿Cómo al confiar, como nosotros sacamos el componente simplemente se lo enviamos a mí. Entonces, ¿Quién es el responsable de verificar cómo llega, la calidad, el estatus? Y cuando ellos dijeron que van a una visita. Entonces, todas esas cosas creo que hay varios que se puede aprovechar. También hay tanto sobre todo con el tema de las estrategias que esto nos va a ayudar este a tener un compuesto más este.
+[Speaker 2]
+Tengo dos preguntas, no quise entrar más detalles con lo de Arnaldo, pero tiene que ver con el presupuesto base cero. Ese es el objetivo ideal de ir al presupuesto base cero, pero siempre va a haber una capa de estadística que va a ser necesario hacer. Arnaldo, dice que la que su tema fundamental está en que no la no tiene buen presupuesto base cero ¿No? Eso es lo que él quiere ¿No es cierto? Eso es lo que él quiere pero para eso necesita tener más más desarrollado la parte de estrategia preventiva, correctiva, programada. No se va a presupuestar fallos pues ni hablar ¿No? O sea fallos imprevistos no se puede presupuestar. Eso es una, eso, no, no hay forma de que eso, es como el presupuesto de accidentes, tú vas a tener dos accidentes este año. Pero ellos lo están haciendo, lo están haciendo implícitamente, porque toman todo lo del año pasado y lo progotean, y en esa bolsa vienen, entonces tenemos que hacer una pregunta más precisa porque ellos usan todo lo que se ha gastado en forma correctiva, programada debería ser por el presupuestado pero todos los fallos mayores y eso no debería ser presupuestado y creo que no debe ser no lo están haciendo entonces habría que hacer más este por ejemplo fallaron fallo el molino en el año pasado en el Chel, en el Chel. No. Hay que hacer una pregunta. Esa esa pregunta no fue muy. Porque si se hace lo que falla regularmente, por ejemplo en la mina, las mangueras, es como los polines en las fajas. Entonces eso si va en cajón, y los grandes elementos es lo que llamamos bayetari en Queyabeco y en Bajones, presupuestable, ellos lo quieren pasar, justamente por eso lo quieren pasar a tiempo fijo, para tenerlo presupuestado ¿no? Eso es lo que están, lo que quieren también consumo Claro, y también el almacén se ve conectado con eso ¿no? Hay presupuesto y el almacén también tiene que tenerlo ¿no?
+[Speaker 11]
+Pues es el dato más fiable que tienen ahora el consumo del Reichen no viene de esta fecha.
+[Speaker 2]
+No, pero la idea es, el objetivo sería eso Claro, exacto ¿Quieres? Gracias. ¿Algo más?
+[Speaker 5]
+A ver, una de las cosas que toman mucho en cuenta, la verdad no sé cómo manejan el tema de retroce componentes, solamente ellos me dijeron que estaban en base a condición, son las horas que lo rechazamos, ¿no? Y la pregunta es cuándo ya también dijeron que el reemplazo una doquidad y cuando ya no se puede llevar a, había o con el costo de la reparación expedía 50 a 60 por ciento lo reemplazamos. Esa es una estrategia que tiene. Pero no lleva el costo unitario por cada por cada equipo, ¿No? Qué equipo es el que más, qué ocasiona posteo. O en el caso del recimiento también si se lleva un posteo unitario para definir realmente si el tipo de recimiento que usamos es el adecuado. no solamente basado en el tema del costo de almacén ¿No? Sino también en el tema de consumo de en vida útil dentro del del molino. Es una oportunidad por tema de de mejora de costos unitarios ahí.
+[Speaker 11]
+Un punto clave que no hemos tocado o no escuchado en una reunión es el tema de costos de de mano de obra en las paradas y.
+[Speaker 2]
+Si nos escuchamos ¿Por qué nos preguntaste? pago de ay su participación en este un poco tiene que aprender a intervenir con más frecuencia y hacer preguntas claves y eso es importante, sí, es cierto. Los contratistas, por ejemplo, ¿Cómo se costean?
+[Speaker 1]
+Yo lo pregunté.
+[Speaker 2]
+Cómo se costean.
+[Speaker 1]
+Se prorateo. En dónde.
+[Speaker 2]
+Arriba.
+[Speaker 1]
+De camis, por ejemplo, bueno, camis es distinto porque cobra por hora, entonces la hora tiene metida a las unidades productivas, pero. otros lo prorratean, o sea lo ponen así a la explota.
+[Speaker 6]
+Al centro hay costo, no va por la orden de trabajo, pero cuando se hace la orden de trabajo con el contratista es HH0 porque ya la van a meter arriba, o sea, hay HH pero no hay costo de esas HH.
+[Speaker 1]
+Listo, ok.
+[Speaker 2]
+Tomamos cinco minutos y te llamo Armando porque quiero conversar contigo el tema de lo que necesitamos preparar para mañana.
+[Speaker 1]
+Hay que ir a almorzar en este rato porque a las doce viene, nos toca abastecimiento, en algún rato hay que comer.
+[Speaker 2]
+Hablamos.
+[Speaker 1]
+O sea, podemos comer a las once y media, podemos ir al restaurancito que está al lado del casino y comer algo para estar listo a la una.
+[Speaker 2]
+Ya. ¿Va a venir este acá?
+[Speaker 1]
+No, no sé. Si quiere le pregunto a Marcel que coordinó o llamamos directamente a la gente. Ok, chao chicos. Dale.
+[Speaker 2]
+Ahora revisando, de acuerdo al diagrama que hemos hablado en la mañana, ¿dónde están los puntos? Yes.

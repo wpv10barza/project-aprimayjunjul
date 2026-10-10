@@ -1,0 +1,3 @@
+git+https://github.com/openai/whisper.git
+pandas>=1.5
+tqdm

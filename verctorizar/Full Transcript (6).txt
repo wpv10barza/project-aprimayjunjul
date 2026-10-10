@@ -1,0 +1,386 @@
+02-09 Reunión de trabajo: Gestión de mantenimiento, estrategias y control documental en mina y planta
+
+[Boris] Encontraba para que, vamos alineando expectativas, planificando percepciones, qué sé yo, y enfocándonos hacia lo que viene a hacer. Entonces, ¿la muestro o voy hablando?
+[Edmundo] Creo que la muestra, no.
+[Boris] Si alguien me ayuda con eso, por favor.
+[Edmundo] Es como guía, ¿no? Porque estamos en pleno desarrollo y, pues hay cosas bien interesantes que podríamos conversar ahora, que hemos visto que, también tenemos preguntas, ¿no? que son importantes.
+[Edmundo] ¿Para poder proyectar ella sin estar en Teams? ¿Alguno de ustedes tiene que estar?
+[Edmundo] Estaba prendido, a mí también.
+[Arnaldo] ¿No hay por ahí cable HDMI?
+[Edmundo] No, pero manda, mándame a mí y luego copias ese. Crea nomás una, mándame a mí y crea un Team.
+[Edmundo] Y ahí hay un ID y un número y eso le das ahí para que lo pongas. Desde que cree la reunión. ¿A quién es el trabajo?
+[Edmundo] Ah, a mí.
+[Edmundo] Yo no voy a entrar, simplemente estás creando un ID y ese es el que tienes que poner ahí.
+[Edmundo] Ahí te lo envié. Ya, levántalo no más ahora. Le busqué el ID y el número de... si quieres yo lo busco. Ahí está, puedes poner 290 075 915 880 22. Ya, el código de acceso es v chica o v mayúscula v chica v labial chica 2n minúscula n d mayúscula.
+[Edmundo] Seis, J mayúscula y C minúscula. Listo. En el...
+[Speaker 5] Ya está, ¿no? No. A ver, es V mayúscula, V minúscula, dos, N. D mayúscula.
+[Edmundo] B mayúscula, seis. J mayúscula.
+[Edmundo] Se minúscula. Ya, ahora sí, ya apaga tu...
+[Edmundo] Apaga tu micro y tu...
+[Edmundo] Ya voy a apagar el micro. Yo no he ingresado así que no tenía nada que hacer.
+[Edmundo] Sí, bueno, gracias. Este, ha habido una semana de trabajo, hemos... bueno, Moris ha estado atendiendo más las reuniones de mina, yo estoy en planta. Hay una diferencia sustancial entre mina y planta, eso sí, es visible, en el sentido de desarrollo, sobre todo de estrategias de mantenimiento, de hojas de ruta, hay más desarrollo. Son diferentes escenarios también, no son totalmente diferentes.
+[Edmundo] Eso es lo primero que podemos rescatar. Hay otras formas de hacer las cosas, uno es allá y otro es acá. Ustedes tienen mucha tecnología aplicada y usada. Acá hay tecnología que todavía falta desarrollar y utilizar. Todavía nos falta esta semana supply chain, nos falta mejora continua e innovación, que eso vamos a trabajarlo con el departamento de mejora continua. Nos falta un poco de recursos humanos, todo lo que es este desarrollo del talento y la calificación del personal, pero lo básico, lo del work management, confiabilidad, están cubiertos y el PCR que también es parte de ustedes.
+[Edmundo] Entonces Boris va a hablarnos en... en preliminar, como estamos diciendo, porque estamos todavía en proceso de darles el avance y ustedes pueden observar lo que crean que tienen que observar, dar comentarios, bienvenidos a cualquier comentario de corrección.
+[Boris] Quiero que por favor no le pongan mucha atención al wording, a las palabras, porque la estamos elaborando, pero vamos a hablar sobre la idea y la sustancia que vemos nosotros como posibilidad. Por ejemplo, en el tema de la mejora continua, es algo que discutimos en la entrevista. No sabíamos que tenían un departamento de mejora continua que se llama... que trabajaba en algo que se llama Full Potential. No sabemos cómo se conectan, queremos preguntarles a ellos cómo se sinergian con el resto de las unidades de la compañía.
+[Boris] Esperaríamos que tengan sinergia.
+[Edmundo] Ella lidera todo lo que queda en Full Potential con David Duarte, que es el director de mejora de negocio y... Jaime. Jaime Flores.
+[Boris] O sea, tú, tú nos podrías contar cómo se vincula, por ejemplo, en esta... si nosotros descubrimos una serie de oportunidades, cómo debieran engranarse esas cosas.
+[Arnaldo] Bueno, los proyectos de Full Potential, digamos como tal, se pusieron en standby. Se está dando prioridad a los proyectos que se han tenido como prioritarios, que son los proyectos de sprint y de non-sprint, porque el Full Potential antes, o sea, era más fácil que surgieran iniciativas para dar seguimiento, pero habían muchas cosas. Entonces se decidió reducir como que los alcances y nada más tenemos ahorita tres proyectos en curso.
+[Edmundo] El tema es que por lo menos con los proyectos Full Potential tú tenías, vamos a decir, tenías un tiempo, un periodo de tiempo para la ejecución de ese momento. Lo que vio Newmont fue en Full Potential un proyecto que puede ser crítico, que puede ser importante, la gente lo ve como un proyecto más y no como un proyecto prioritario. El cambio en el concepto de sprint y non-sprint.
+[Edmundo] Entonces ya sprint tiene un tiempo definido, tres meses. En tres meses tú tienes que ejecutarte; puede ser antes, pero no puede ser... Y en el non-sprint ya tú te tomas un poco más de tiempo, pero eso es de 6 meses. Entonces, ese es el...
+[Arnaldo] Y el tema del sprint son proyectos que impactan directamente en las operaciones. Pueden impactar positivo o negativamente. Los non-sprint impactan, pero sí a menor rango, es...
+[Boris] Escala, digamos. O sea, ¿me puede dar algún ejemplo de un non-sprint y un sprint?
+[Arnaldo] Sí. Bueno, por ejemplo, ahorita tenemos los sprint, tenemos de reputación, tenemos de quebrador, que son de los que estamos participando nosotros directamente, entonces esos ya, pues de hecho ya casi se van a entregar esos proyectos, ya desde meses anteriores han estado presentando directamente con Natasha, con Datorton, porque a ellos les están pasando catorcenalmente, ahí les...
+[Arnaldo] Se la pasan directa al CEO.
+[Edmundo] Ah, mira.
+[Arnaldo] Arre. Los non-sprint, esto es un proyecto non-sprint.
+[Edmundo] Lo que estamos haciendo ahorita. ¿Pero está tabulado como tal? Sí, claro. Claro. En símbolos y costos se llama. Ok, súper. Me queda más claro. ¿Tienes tú la presentación de símbolos y costos o no? Esa no la tiene. Avanzamos, gracias por la aclaración.
+[Boris] En resumen, una visión de lo que hemos cubierto, la gente que ha participado, se ha notado un esfuerzo, son 56 personas, son 14 actividades, los números que tiene cada elemento son las personas de ustedes que han participado, más el equipo que tenemos en respaldo en Perú, así que...
+[Edmundo] Desde esta perspectiva, creo que se ha dedicado hartos recursos a esto. Así que muchas gracias. Varias fotos de toda la gente que participó, pagaron un aire de personas.
+[Boris] Algunas cosas que vamos, insisto, por favor no se detengan en el wording, solo las estoy usando para referirme al elemento. La solicitud de trabajo correctivo en general es un hábito, está, es cultura, se entiende, pero nosotros visualizamos que hay una tremenda oportunidad de ordenar, maximizar el uso de las tecnologías que tienen disponibles para que la solicitud de trabajo, la identificación de trabajo nuevo, sea más rápida, que sea más automática.
+[Boris] También establecer cierto criterio sobre la calidad de la información que está llegando, para evitar el proceso de retrabajo cuando llega a la etapa de planeación. Básicamente eso es. Un ejemplo. A ver, por ejemplo, yo estuve mirando las pautas de mantenimiento, tienen actividades como medir desgaste de freno, altura de suspensión, presión de sistema hidráulico. Sin embargo, todo eso lo tienes por el VHMI.
+[Boris] Y tú puedes establecer ciertas reglas como para liberar ese uso de recursos en taller y poder tomar la información directamente desde HMI y poder pasarla como aviso en el caso que la regla de decisión esté bien configurada. Esa es una. Hemos encontrado otros avisos que no tienen mucha información, entonces hay un retrabajo que hay que volver a piso y eso también se demora. ¿Qué otra cosa encontramos?
+[Boris] Encontramos, en realidad nos preguntábamos qué hacían con la información que viene de las pautas de mantenimiento, por ejemplo, espesores de disco de freno o espesores de carbón, altura de carbón, porque desde una perspectiva de estrategia y mantenimiento uno podría normalizar esas cosas y poder determinar este valor de confianza en si, bueno, la conducta de este carbón, este paquete freno es predecible.
+[Boris] Por lo tanto, nuevamente una tarea que tengo es la actividad de mantenimiento que incluye tiempo y además incluye algunos riesgos que podría sacarlas con un simple análisis matemático para poder establecer un ciclo y ese ciclo monitorearlo a tiempo fijo.
+[Edmundo] Dentro del trabajo correctivo se...
+[Boris] Un poco a lo anterior, en términos de la información que llega a través de esa... Nos encontramos en el proceso que hay que... cuando uno pregunta, por ejemplo, ¿cuál es el origen de esta tarea? ¿Por qué viene esta tarea? Lo que está muy bien definido es lo que viene de DINGO. DINGO lo traza muy bien, pero hay otras que se toman de alguna información y no es claro de dónde nació ese aviso.
+[Boris] Ok, tenemos algunas evidencias con fotografías que las estamos poniendo en el SharePoint para que ustedes las puedan revisar y discutir si es un caso excepcional o puede ser una oportunidad para atenderla.
+[Arnaldo] Sí, habría que ver eso porque las únicas, las únicas maneras o las únicas formas de generar aviso es a través del dispatch, dependiendo de la rentabilidad que le den al dispachero, que mayormente son...
+[Edmundo] Pero lo hace manualmente, ¿no?
+[Speaker 7] Las que se detectan en el backlog durante el proceso. Pero fíjate, yo creo que quizás faltó complementario porque... las inspecciones que se hacen en el campo o en cualquier lado, se carga automáticamente el DINGO. O sea, se hace la inspección, se mete al DINGO, y ya DINGO automáticamente manda la orden, manda la orden, la tratan los planeadores o los este...
+[Speaker 7] Los Mooncon, y generan la orden de trabajo con las piezas ya cargadas. Por eso me hace ruido ese comentario, porque sí hay una...
+[Arnaldo] Sí, las dos únicas, las dos únicas... vamos a decir vías de poder liberar notificaciones, es a través de dispatch o a través de... Así es. No hay otra manera.
+[Edmundo] Pregunta ahí.
+[Arnaldo] Pues sí sería bueno. Evidencia.
+[Edmundo] El truck dispatch es a través del operador del truck dispatch, creo que hay dos que están operando, ¿no?
+[Arnaldo] Sí, nosotros aquí, como funciona el tema del dispatch del mundo, nosotros tenemos el dispatch de operación y el dispatch de mantenimiento. Anteriormente los dos dispatch estaban separados, o sea, el mantenimiento le reportaba directamente el mantenimiento y el de otra zona. Lo que hicimos este año con el tema del CAT y la reestructuración y todo eso fue, ¿sabes qué? El superintendente de Dispatch se va a encargar de la dorsal. Por tema de entrenamiento, eso es otra cosa.
+[Arnaldo] Una de las iniciativas que estaba impulsando yo era certificar a los dispacheros.
+[Edmundo] O sea, nuestros dispacheros están certificados internacionalmente.
+[Edmundo] ¿Es modular, no?
+[Boris] ¿Qué es lo que busca conseguir con eso?
+[Arnaldo] Lo que buscamos conseguir es la eficiencia dentro del proceso de la gestión de coche. Claro, lo otro es no poner a cualquier persona ahí porque eso es crítico. El manejo de la información que esto está generando durante ese proceso es crítica, importante y que ellos puedan convivir. ¿Cuál era el problema que nosotros teníamos anteriormente? El gran problema que nosotros teníamos era la disputa, la discusión que había entre el despachero de operaciones y el despachero...
+[Arnaldo] No había un acuerdo. Llega el tema este del equipo central y todo lo demás. Definen el tema claro sobre el time user model. Es donde está todo el tema este de la codificación y las distintas fases que puede tener un activo. Y ahí fue en donde más o menos se logró, pero el problema era que la gente no tenía la experiencia.
+[Arnaldo] Entonces la intención de nosotros fue... pues muchos venían de otro proceso que se llamó fase 3 en el 2019, 2020. Eran de aquí y no había cuento, pongan el depache. No tenían ni idea de lo que estaban haciendo. Entonces, el propósito de poder certificarlos fue tener, darle las herramientas a ellos para que pudieran entender todo el proceso y una vez que ellos entendieran el proceso, poder buscar, este, maximizar pues,
+[Arnaldo] Ser mucho más eficaces.
+[Edmundo] Bueno, hay una cosa que por ejemplo estamos viendo ahí... todos los días hemos ido al chancador, pero por más por planta que por operación de minas. Hemos visto filas y filas y filas el fin de semana. Filas y filas de camiones haciendo cola ahí. Y eso está mal. Porque ese es un desperdicio de tiempo de acarreo o hay mucho camión y hay mucha pala o que está gestionándose inadecuadamente la operación de los camiones.
+[Edmundo] ¿Eso se ve, no?
+[Arnaldo] Sí, es que el problema...
+[Edmundo] Y también hay un tema de chancado para pasar el chancado y que no se llene el tolvo y que no se vaya... Todo eso tiene que coordinarse.
+[Arnaldo] Nosotros tenemos un constraint enorme con el tema de la chancora. Aquí había un problema anterior, ahorita no se ve tanto como se veía en el pasado. Lo que se veía en el pasado era el tema de la fragmentación. Parte del proyecto sprint para el tema era mejorar la fragmentación. Pero aquí hay dos, vamos a decir, dos variables importantes. La más importante es que cuando ya la pala está llegando al final ya de lo que fue minado y de sacar el mineral, esa última parte ya viene con sobre tamaño.
+[Arnaldo] Entonces, en vez de... no hay un... sí hay un proceso de selección de material, de que lo que esté sobre tamaño se coloca en el stock y luego va al martillo y revientan toda esa... y la vuelven a tirar otra vez a la chancadora. Es un remanejo. Para mí eso es algo que genera un costo elevadísimo para el proceso, pero que desafortunadamente se tiene que ver. El otro tema es cuando cargamos aquí en el stockpile, si se carga del stockpile vas a ver la... la fila de camión. Otro constraint tiene el tema de la doble descarga.
+[Arnaldo] Ahorita solamente se hace por un solo lado de la descarga.
+[Edmundo] Sí, tuviste la secuencial.
+[Arnaldo] Exactamente, ahorita no se está haciendo a la vez, exactamente. Pero quizás porque tiene la capacidad de poder... o sea, de meter los camiones de carga uno, sale, este descarga...
+[Edmundo] Exacto, eso es lo que se está viendo.
+[Arnaldo] ¿Cuál es el problema que tenemos en la chancadora? Es precisamente eso, que la chancadora, yo no sé qué tipo de configuración, yo no he... yo no he ido allá para poder analizar bien eso, quería saberlo antes, tiene un problema que se está atorando todo el tiempo producto del sobre tamaño, o sea, se... acuérdate que la pregunta que yo hago, acá...
+[Edmundo] Está el romperrocas, está ahí y no se está tocando nada, salvo que me digan, oye, la base no se puede poner porque está recién hecha y ese tipo... pero si esa base está hecha hace rato, el romperrocas está ahí.
+[Speaker 7] Esa información se la había cargado porque precisamente la base en diciembre se acabó de fraguar. Y tiene el... por eso.
+[Edmundo] Pero los civiles saben que es el hecho auditivo y hay una serie de cosas y hay un montón de cosas que se pueden hacer para acelerar la fragua.
+[Arnaldo] Para poder fraguar esa pendejada en día. Yo recuerdo una vez que yo...
+[Edmundo] Pongo torre de transmisión y hago aceleramiento de fragua y ese tipo de cosas.
+[Arnaldo] O sea, yo recuerdo cuando íbamos a hacer un cambio de una corona de giro, necesitábamos de la contrapesa de la PYH, este, tener un bloque de concreto. Nosotros fraguábamos esa vaina y a lo... creo que fue a la semana y ya estaba todo el mundo...
+[Edmundo] Algo está... me parece, me hace ruido que estén sufriendo tanto, cuando el rompebroca es tan vital y tan importante y está ahí mirándonos la cara.
+[Arnaldo] Y ese ha sido el cuello de botella de esa chancadora. El martillo nunca... desde que llegué aquí, en el 2020... en el 2017 yo llegué a presa, pero es activo móvil en el 21. Desde ese momento yo no he sabido de que se martilla como chancadora. Como correcto.
+[Speaker 8] Y también le mandaste... y se han acabado excavadora. Se han acabado excavadora porque el martillo no está funcionando.
+[Arnaldo] Entonces, otra cosa: no usan el martillo para la función del martillo, sino que se empiezan a mover, están moviendo la roca en vez de... y esa pendejada también jode el martillo, entonces...
+[Speaker 7] Y también le hiciste el soporte con proveedores, pero el martillo, ¿te acuerdas? ¿Quién es eso? Ese es precisamente una inspección de campo que sale con la gente a Moncon, que van los nombres y todo lo que se hace, hay en los colores de semáforo que se maneja. Y esta es una que hace un proveedor que también hace su recomendación, en este caso es el Pirotech y ahí viene el número de parte. Y sale de una inspección de campo. Por eso me hizo un chorro... pero que verifica en el camino.
+[Speaker 7] Ok, la condición es una... inspección durante los mantenimientos, una preinspección. O sea, y aquí sale la recomendación, lo que dice aquí.
+[Edmundo] Pregunta, pero esto es... ¿se sube como un aviso o un reporte en el sistema? ¿De cada actividad se va direccionando avisos?
+[Speaker 7] Todo así.
+[Edmundo] ¿Quién hace la generación de avisos?
+[Speaker 7] Desde monitoreo y condiciones, desde acá, que le llega el...
+[Arnaldo] Flujo, puede ser el técnico, puede ser...
+[Edmundo] O sea, le llega el correo electrónico y le dice, oye, revisa esto y acá generas tres, cuatro o cinco...
+[Boris] Es que por decir, está como este... las advertencias. Sí, sí, entiendo, entiendo. Ya ellos se toman las... Sí, entonces el ingreso, la medida, inmediatamente no tiene que tener el conocimiento, el conocimiento de la plataforma.
+[Edmundo] Sí, espectacular, o sea, esto es una muy buena también. Yo pregunto de planta, oye, para que usen disco, para poner así, y esto no sabemos si lo sirve o no sirve.
+[Boris] Y te pongo más un contexto. Ya te entendí, pero pregunto, ¿por qué la pauta de mantenimiento no se hace con una herramienta?
+[Arnaldo] Estamos por hacerlo, sí están... o sea, ya ahorita nosotros, para ponerlo un poquito en contexto, el problema... nuevamente, sí, nuevamente. O sea, nosotros podemos tener muchas ideas, pero nos frenan. El único que nos ha dado y nos ha dicho, ¿saben qué? Tienen ideas. Pí, aplíquelas, es Gonzalo, nadie más, es la verdad. Ahorita vamos a empezar con la implementación del Maintenance... Maintenance... si quieres lo busquen en internet, búsquelo ahí en Google.
+[Arnaldo] O sea, son Maintenance. Esa herramienta lo que te ayuda es precisamente... esta herramienta tiene dos funciones principales. La primera, hacer el mantenimiento de manera secuencial, ya de forma tal de que tú puedas ser mucho más eficiente y tengas mayor calidad en el mantenimiento. Y segundo, a medir la eficiencia de los técnicos.
+[Arnaldo] Porque aquí el técnico no puede pasar de una tarea a otra. ¿Cuál es el gran problema? Y ustedes como mantenedores lo saben. Vamos a ejecutar un mantenimiento preventivo. ¿Qué es lo que hace un técnico? Cambia filtro, cambia aceite, en el peor escenario. Cambia filtro, cambia aceite, agarra el checklist y empieza: ya lo hice, ya lo hice. Esa pendejada no nos está asegurando a nosotros... ya que la calidad del mantenimiento es algo que he venido yo luchando, por ejemplo,
+[Arnaldo] Y que ahora apenas se está empezando a medir, es el MTBS, el MTBF, el MTBS, MTBF after PM. O sea, para poder medir yo realmente si la calidad del mantenimiento es el óptimo o no. Porque algo de lo que nosotros, todos nosotros hemos estado luchando es precisamente el enfoque y los mantenimientos. Es la única manera que vamos a poder reducir la cantidad de fallas.
+[Arnaldo] Entonces, claro, esta herramienta... para que ustedes se hagan una idea, esta herramienta en el 2022 estábamos empezando a implementarla. Y de una vez el corporativo: no hay que implementar, eso no va a ir, que no sé qué más, que coño... pero si en Australia la tienen y está funcionando, la tienen en Tanamaica... fue el primer proyecto de mí.
+[Edmundo] ¿Y por qué se pone como nativo?
+[Arnaldo] Se pone el mundo porque hay pendejos que creen que tienen todo el conocimiento del mundo, ya no tienen esa humildad para aceptar, bueno, si es una herramienta que puede servir o proponer otra, no importa, no necesariamente tiene que ser esta.
+[Edmundo] ¿Y tienen que aprobarte que para comprar esto tienen que probarte ellas?
+[Arnaldo] No, no, ya no me lo apruebo, quien me lo apruebo no salgo, nada más. Porque ya se necesita. Porque ya es ya descentralizado. Entonces, la tenía implementada en la Mai, la implementó Boudito. ¿Por qué carajo nosotros no la vamos a implementar y vamos a empezar el proceso de implementación? ¿Cuándo viene esta gente ya?
+[Edmundo] La siguiente semana.
+[Arnaldo] Creo que viene la siguiente semana ya a implementarla en dónde, en los equipos de carga. Esa es mi prioridad ahorita, las hidráulicas, luego los cargadores y luego...
+[Edmundo] Hola, una pregunta, esto totalmente justificable, pero ¿por qué no a la vez también hacen en planta? Porque planta está atrás de ustedes.
+[Arnaldo] Ya yo le dije a él, a Andrew, ya yo le dije a Andrew, porque esto... sí búscate, búscate el de planta.
+[Speaker 7] O sea, búscate esa... ya el DINGO, planta, ¿qué han hecho? Incluso marca ahí los dos. Ah, marca los dos.
+[Arnaldo] Sí, móvil planta y son planta. Ah, no, pero no, ese es... son los dos.
+[Speaker 5] El plan es para la cobertura de la planta y son maintenances.
+[Arnaldo] Para la gestión de activos. Que eso lo vamos a empezar a implementar. ¿Y ese es un non-sprint? Eso es un non-sprint. ¿Por qué? Porque va a tardar la implementación y todo eso.
+[Boris] Yo insisto, yo no había visto una mina con tanta tecnología para allá.
+[Speaker 7] Para redondear el comentario de eso que les mencionaba. Porque, por ejemplo, nuestro soporte técnico no llega hasta hacer la orden, porque ellos no tienen acceso a SAP. Claro. Ellos cumplen con levantar esa información, mandarse a la gente responsable del seguimiento. Antes cuál era el cuello de botella y que también eso se fue más grande...
+[Boris] Entendiendo ahí, hay valores, hay degradaciones que se ingresan en campo. Y esas degradaciones las procesa tipo...
+[Speaker 7] Correcto, todas, todas.
+[Boris] Y entonces eso ya está semi automático.
+[Arnaldo] Inclusive ahorita, la semana pasada, la semana atrás, ¿verdad?, tuvimos una reunión conmigo. Porque, por ejemplo, no... en este tema en específico que pudiste ver acá, es visible, tú lo estás observando ya en términos de límites condenatorios, por lo menos para las inspecciones de las tolvas de los equipos, de los camiones, ya... ya nosotros tenemos nuestro límite condenatorio para el tema de freno, tenemos límite condenatorio y así sucesivamente.
+[Arnaldo] El tema está en el aceite. Entonces, ¿qué es lo que pasa? No, yo entiendo el punto de vista de... el punto de vista de DINGO. DINGO utiliza... no usa límite condenatorio para el aceite de los oyentes, sino lo usa en función de los históricos. Lo que está bien. El problema con eso... que se están generando demasiadas alertas, ¿ya? Componentes por lo menos que están recién repasados.
+[Arnaldo] Entonces los límites condenatorios que tienen... que tienen este... DINGO están ultra conservadores.
+[Edmundo] ¿Esos son automáticos o ustedes los ponen?
+[Arnaldo] No, los ponemos. O sea, DINGO lo sugiere y ellos ponen los de ellos. Entonces, ¿qué es lo que pasa? Que empiezan a generarse notificaciones y notificaciones de componentes, por ejemplo, que están en garantía, ¿ya? Y yo voy con el dealer, voy con el Caterpillar, voy... a poco más, toman su muestra de aceite, se lo llevan. Ellos no miden con el límite condenatorio mío, sino con el de ellos. Entonces eso es una disputa que tenemos ahorita en orden.
+[Arnaldo] Entonces lo que yo estoy haciendo, el ejercicio que estamos haciendo ahorita, cuando tuvimos la reunión, fue: llamen el límite condenatorio del DINGO, ya nos lo entregaron; el límite condenatorio del laboratorio que nosotros tenemos aquí, porque ese es otro tema. O sea, DINGO recibe el resultado de la muestra y el resultado de la muestra va en función de los límites condenatorios de DINGO, no del laboratorio que nos está prestando el servicio. Entonces tú ves, por ejemplo, en el motor, ya la diferencia es de 50 por ciento.
+[Arnaldo] O sea, si no sé, pues 50 ppm en un elemento en el aceite de motor, DINGO lo tiene 25, ¿me explico? Entonces, demasiado... yo entiendo que queramos protegerlo, pero no a ese nivel; el 50% es demasiado raro. Entonces es lo que yo le digo, porque al final del día yo vengo, me siento con el OEM y le digo: no, tienes que pagarme, o sea, tienes que tomar una acción como parte de la garantía.
+[Arnaldo] Y él me dice: no, pero si yo te estoy entregando aquí un límite condenatorio y todos están dentro del rango. Aún estamos debajo del OEM, aún así.
+[Edmundo] Pero eso debíamos ajustarlo en el contrato, ¿no?
+[Arnaldo] No, no, yo lo puedo ajustar. O sea, lo que estamos haciendo ahorita es el ejercicio. Sí, pero a mí no me suena como un problema. A mí me suena como...
+[Arnaldo] No, no es un problema, es parte de los... de los que estamos...
+[Speaker 7] De la madurez de lo que queremos hacer, de la madurez.
+[Boris] Pero lo que se ve es de que hay muchas alertas, o sea, en vez de que sean un poco menos por la cuestión de ese tipo... este, por eso ahorita estamos como que...
+[Speaker 7] Con la de alertas altas, porque no está ajustando a la tabla que tenemos de acuerdo al... obviamente condenatorio.
+[Boris] Ok, y para entender... si esa pauta se hace aquí y ustedes me dicen que no la han hecho en las pautas de rutina, ¿es por falta de tablet solamente o porque les parece que el papel funciona bien todavía? ¿Porque no tienen problemas de disponibilidad de recursos humanos?
+[Arnaldo] A ver, y sería bueno que ustedes se reúnan con recursos humanos. ¿Cuál es... cuál es el cuello de botella por el mundo? El tema del sindicato, ¿ya? Usar una tablet, usar una computadora, para ellos eso es un tema administrativo, dentro... porque tú aquí discutes una matriz de habilidades, ¿ya? Es donde tú defines, bueno, un técnico calificado, quién puede hacer estas actividades, estas, estas...
+[Arnaldo] Hay un problema de descripción de puesto, pero podrías tú decirle, mira, vamos a tener inspectores. Sí, pero el problema está: si tenemos inspectores, tenemos que generar una matriz. El sindicato dice que no, porque dentro de las cláusulas contractuales, tocar una computadora es un trabajo administrativo; hacia ellos va. Es de otro nivel. Entonces eso es un tema que decimos nosotros: no lo hacemos porque... más bien nuestros técnicos, te digo, o sea, ellos hacen...
+[Arnaldo] Muchos tienen el interés de querer colaborar y son los que levantan esa información, ¿ya? Y ahora con el más interés, nosotros vamos a tener que sentarnos con el sindicato, vamos a tener que hablar, vamos a tener que venderlo como: esto es un software que ustedes van a tener para hacerlo más eficiente, para que si mañana termina Peñasquito, vayan a no sé, pues aquí a... ¿cómo se llama la otra mina de al lado, en Sonora, en Chile?
+[Edmundo] Se van a quedar sin trabajo si no avanzan en el conocimiento. No avanzan en el conocimiento, en tecnología. Si quieren quedarse atrás, quédense atrás.
+[Arnaldo] Tan jodido es esto, mi querido Edmundo y Boris, que aquí la gente de IT, por ejemplo, no tiene personal sindicalizado; o sea, son técnicos, pero los contratan como personal de confianza para no generar... imagínense.
+[Edmundo] No sé, muchas veces estamos con las manos atadas. Ok.
+[Boris] Bueno, respecto a la planificación, es que hay cosas que después de todo lo que ustedes dicen, uno dice, bueno, hay que sacar esto otra... Recuerden que nosotros evaluamos algunas cosas, caminamos por sus instalaciones un par de días, no somos capaces de ver todo. Pero lo que vimos, vimos oportunidades de mejorar. Si ustedes tienen la solución, bienvenida.
+[Edmundo] Sí, yo quisiera interrumpirte un ratito. Está ahorita abordando puntos específicos, pero hay que ponerlo en un paquete grande, en el tejido visual, ¿no?, de más arriba, porque estamos tocando, saltando sobre temas específicos, pero hay que ver toda la gestión del trabajo en su conjunto. En el fondo la solución no es este pedacito, sino algo holístico, totalmente integrado que apunte a llevar esto a una madurez por encima de lo que tienen ahora, ¿no?
+[Edmundo] Y es muy difícil hablarlo así en general, porque... general, la diferencia que hay entre lo que vimos en mina y lo que no... planta, es extremo, es realmente extremo.
+[Edmundo] Bueno, todavía tenemos que validar, obviamente, ya con lo...
+[Boris] Capaz que AMLO venga aquí y nos diga, no, ustedes están todos equivocados y aquí tenemos lo que hacemos de verdad. Y bueno, estuvimos engañados todo esto. Pero lo que se encontró, con los papeles que realizamos, es muy difícil.
+[Arnaldo] Pero yo digo que eso ahí es donde tiene que estar. Yo como gerente, yo no necesito conocer... o sea, yo necesito que ellos conozcan, ellos son los que gestionan al final del día, yo estoy mirando estrategias, estoy mirando el negocio a 5 años, a 10 años, a 20 años; ¿qué otra cosa podemos hacer diferente? Ya, ¿de qué manera podemos... quizás, de qué manera podemos hacer los clientes? Algo puntual.
+[Edmundo] Yo he estado con gente que no está mirando... está mirando la semana. Es que hay cosas que no podemos...
+[Boris] O sea, en cuanto tú manejas activo, yo estoy de acuerdo contigo, pero la supremacía es la realidad. ¿Se siente eso? Definitivamente. Entiendo tu punto. Así que bueno, vamos a avanzar. Creación de una biblioteca de trabajo en tantra. La verdad es que tienen un sistema de control de documentos, tienen una cosa que funciona bastante bien, mejor que en muchos lados, pero encontramos algunas cosas que valen la pena. Por ejemplo, los estándares de trabajo que todos juntan a orden para hacer el about son mejorables.
+[Boris] Si tú necesitas un consumado, eso se puede reducir prácticamente a la mitad, en término de sin perder calidad, sino que enfocarse a lo que está ahí. Segundo, encontramos algunos que están en inglés. Por ahí alguien me dijo: no, no hay problema en inglés, pero hice una investigación a través de internet. La legislación mexicana sí exige el documento que esté en el lenguaje que entiende el ejecutor, que no especifica que sea español, pero ahí te va a llevar a otro desafío: que tengas que certificar y demostrar que tus técnicos son... vitales.
+[Boris] Entonces eso hay que cambiar. El control es varios, sobre todo en planta. ¿Qué más hay? El control de versiones, las herramientas existen, pero hay dicotomías. O sea, por ejemplo, el número del SharePoint dice: revisión tanto, y cuando revisamos el pie de documentos del documento, tiene otras cosas que son menores. Pero al final del día... Y en el caso de la planta, y creo que en el caso de la mina también, el acceso para la información base de los equipos fue difícil llegar, o sea, que un ingeniero de confiabilidad o planificador o alguien quiera llegar al tipo de motor, al tipo de aplicación, a no sé qué,
+[Boris] No fue fácil. Yo sé que llegan al final, se llama uno por el otro, te manda la fotocopia, pero cuando uno tiene una base de documentos que le tiene que sufrir ahí... Probablemente el equipo móvil no es tan complejo, porque la mayoría de la gestión de reparable, según lo que hemos entendido, la maneja almacén, por lo tanto el riesgo de equivocarse lo tiene almacén y ustedes van a sufrir las consecuencias. En el caso de la planta, no hemos podido llegar a los documentos de diseño; si no, tenemos que caminar al departamento de proyectos y tenemos que preguntarle por los planos, lo cual es mejorable.
+[Arnaldo] Algo que, en relación al tema de momento reparable, como te pudiste dar cuenta en nuestro proceso...
+[Edmundo] O sea, te voy a ser honesto, yo no me he dado cuenta de muchas cosas.
+[Boris] Porque siempre me dijeron: nosotros vamos al almacén y sacamos un motor, vamos al almacén y sacamos un... case o retiro. Entonces lo que hacemos es montaje. Y un montaje en SAP es lo máximo, porque los problemas de la garantía, la calidad, todos los temas de negocio... Pero es un problema de negocio, es un desafío de negocio.
+[Arnaldo] Ese es el desafío del negocio. Pero parte de lo que nosotros queremos empezar a trabajar es precisamente en optimizar todo el proceso de reparación.
+[Edmundo] Por lo menos... ¿Qué sientes que no tienes? A ver, el proceso existe.
+[Arnaldo] Yo te puedo... bueno, ya lo entregó Gus, tú ves el diagrama de flujo, tú ves el proceso de RACE, tú... eso está ahí. El problema está en que no somos eficientes durante ese proceso. Y te voy a dar una...
+[Edmundo] ¿Eficiente o no hay adherencia?
+[Arnaldo] No hay adherencia y no hay eficiencia. La no adherencia...
+[Edmundo] Lleva a la otra. Pero el tema está... el tema está de que, por ejemplo, no... yo voy a cambiar un componente.
+[Arnaldo] ¿Cómo es el proceso nuestro? Yo vengo, agarro... está el requerimiento del componente, bien sea programado o no programado, yo llevo mi orden de compra, o sea, mi orden de trabajo, perdón...
+[Boris] Pero es importante lo que tú dices: si es programado o no programado, por el pool...
+[Arnaldo] Exactamente.
+[Arnaldo] Exacto: que en eso tiene que estar la gente de planificación realmente mirando, porque el que no se ha programado, yo lo saqué del pool, ¿cómo me está afectando esto? O sea, es lógico. El punto está en que yo vengo, yo saco el componente, yo ejecuto, lo monto, yo desmonto otro componente. ¿En dónde está ese proceso, la información del voltaje y del voltaje?
+[Arnaldo] Yo te aseguro ahorita que va... indagas un poco más en planificaciones que hay... Una de las cosas que ustedes van a escuchar de mí, es que yo voy a ser bien honesto con todo lo que hay.
+[Edmundo] Y tenemos muchas oportunidades.
+[Boris] Mira, yo llegué a una rueda de leche y me dijeron... bueno, tú me dijiste, que en realidad el historial no estaba porque habían hecho una actualización de SAP y algo atrás, y que se había perdido algo. Yo decía, como un motor eléctrico dura tanto... Bueno, la cosa, lo que yo pude percibir es que sí está la inclusión de montar y desmontar, pero no fue fácil encontrar historia.
+[Arnaldo] La trazabilidad, ¿por qué? Porque eso es otra cosa. Nosotros teníamos un SAP, un sistema SAP, con unos grades. Se hacen los grades y toda la información que estaba atrás se perdió, o sea...
+[Edmundo] ¿Perdiste la historia?
+[Arnaldo] Sí, perdí la historia, perdí los BOMs, perdí... o sea. Y empezar de cero otra vez es un tema, porque eso nos perjudica a nosotros en todos los aspectos.
+[Boris] Y volviendo a lo que dice el Remove Install Details, claro, nosotros también lo identificamos. Asumimos que estaba en alguna parte, asumimos que estaba en DINGO, pero lo mencionamos a ver qué es lo que decía. DINGO te da la transacción... no, pero no te... ¿tiene un módulo de potencia? Todo eso en DINGO o en algún lado, donde tú puedas decir: esta fue la línea base con que se fuera el motor tres.
+[Arnaldo] A ver, eso lo hacemos. Eso lo hacemos. El punto está: ¿dónde queda registrado eso? Eso debería de quedar registrado. Muchas veces, y nosotros tenemos Check2D para hacerlo. O sea, lo único que... nosotros montamos una rueda... Porque nosotros, y te doy un ejemplo, teníamos un problema enorme con los alternadores. Y parte de ese RCA que nosotros hicimos y como parte de las acciones durante la identificación de los problemas fue precisamente que no teníamos ese tipo de registro.
+[Arnaldo] O sea, yo no hago una evaluación del componente post entrega para poder entender cuáles son los parámetros con que lo estoy entregando. Y asegurar ya cuando yo le dé trazabilidad durante los mantenimientos, porque hay intervalos de mantenimiento donde tienes que entender perfectamente cuál es la condición del componente en ese punto. Entonces, ¿cuál es el tema, mi querido Boris? El problema era que nosotros no teníamos eso, ahora se hace; antes no lo hacíamos.
+[Arnaldo] Inclusive hemos hecho esa prueba componente abajo o componente arriba. Y hemos detectado que el componente que viene reparado de Comax o de cualquier otro proveedor ya viene con problemas. No lo montamos, inmediatamente pedimos la garantía. O sea, eso ocurre. Ahora, el proceso: ¿cómo establezco yo el proceso para poder tener una información clara y precisa en el momento que yo quiera? Ahí es donde está...
+[Speaker 7] ¿Y dónde la guardan hoy día? ¿Hoy día la guardamos en DINGO o la guardamos en SAP? Cuando es de nosotros. Y el punto cuando lo que Armando menciona, es cuando ya el proveedor me regresa un componente que viene de suministros reparables, voy a tener esa información para agregarla en esa PR en donde el alcance que se le hizo... se le cambiaron sellos, se rectificó camisas, se puso... Bueno, eso es una pregunta que le tengo a almacén, porque yo supongo que en la serie no lo tiene.
+[Arnaldo] Eso es lo que yo quiero que tú le preguntes a él, porque es importante también que eso es algo que no pasaba y ahora gracias a Dios pasa, por lo menos... Todo proveedor, cuando repara componentes, lo primero que te hace es entregar un informe. Allá no te lo entregaban.
+[Boris] No lo entregaban.
+[Arnaldo] Se lo entregaban... era cadena de suministros, almacenes, esta gente. Pero yo no lo tenía. Si el primero que tiene que tenerlo soy yo.
+[Boris] No lo teníamos así.
+[Arnaldo] O sea, es cómo y dónde verlo.
+[Boris] Exactamente. O sea, yo tengo que entender qué es lo que yo estoy montando. Qué fue lo que le encontraron, qué fue lo que no le encontraron, con qué parámetro vino... porque ellos les hacen una prueba dinámica, o sea, antes de entregar el componente. Eso era cosa que no entendí.
+[Edmundo] Yo me acuerdo que cuando estaba en una posición similar a la tuya, en primer lugar mandaba la reparación y mandaban un diagnóstico, así que yo enviaba una persona también cuando le mandaba un diagnóstico de qué cosa tenía y qué cosa le iban a cambiar. Muchas veces salían dudas... un ratito, vamos a ir a mirar qué realmente tiene este tema. Recién se aprobaba. Ok, se aprueba. Después, cuando iban a hacer las pruebas, mandaban a la gente para que en la prueba que tenía que hacer, tenía que hacerlo ahí adelante.
+[Edmundo] Y a veces si creíamos que era, íbamos eventualmente a ver uno, dos o tres componentes que estaban reparando, si ha habido un seguimiento de parte de nosotros. Y la aprobación del presupuesto era nuestra. Nosotros decíamos si lo reparas o no lo reparas.
+[Arnaldo] Claro.
+[Edmundo] Entonces el almacén era un servicio logístico, pero no era un servicio técnico comercial, porque el presupuesto... el presupuesto es nuestro, no es el almacén.
+[Arnaldo] Newmont no lo entiende así. No es solamente Peñasquito, mi querido Edmundo.
+[Edmundo] Porque a ti te van a cargar costos que no puedes controlar si ellos... En todo caso, tú debías ser parte de la decisión del costo de la reparación.
+[Arnaldo] Tenemos problemas todavía. Tiene un gap enorme, y ahora más que dividieron el suministro, almacén y control de inventario.
+[Edmundo] Bueno, ese es un tema que tenemos que tocar con ellos. Hay que levantar el proceso y hacer responsabilidad. Mira, este tema de proceso mucha gente lo considera... yo me acuerdo cuando hablé de procesos y tú y Andrew... estrategias, data maestra. Ya, ok, data maestra es importante, pero entra a un proceso. Si el proceso no es bueno, de nada te valen las datas maestras, entonces es importante el proceso.
+[Arnaldo] Es importante el proceso. El punto... el punto está... ¿Por qué? Porque me dijo mi nombre... Es que es importante el proceso, pero el punto donde yo quería llegar era... es que el proceso existe, esté mal, esté bien, el proceso existe al final del día. ¿Y qué? ¿Y por qué? ¿Cuál es mi...? Y no me voy a cansar de decírtelo: mi cuello de botella son las estrategias.
+[Edmundo] Ahorita va un momento en eso.
+[Arnaldo] Una vez que nosotros mejoremos las estrategias, ahí es donde nosotros realmente tenemos que enfocarnos en el proceso.
+[Edmundo] Ya, ok, yo creo que son dos temas importantes porque son importantes ambos. Yo, perdón, voy a... perdóname un ratito por favor, muchas gracias. Document control. Entonces, cuando pregunto: ¿quién dueño de document control? Todos. Todos pueden poner, todos pueden poner, todos pueden reemplazar. Entonces es una cuestión... así me respondieron, ¿no? Todos son responsables.
+[Arnaldo] O sea, hay un documento arriba. Todos sí, pero no que todo el mundo mete...
+[Edmundo] Sí, hay documentos que son cambiables fácilmente.
+[Speaker 7] ¿Cómo cuáles?
+[Edmundo] Las estrategias de mantenimiento, por ejemplo. ¿Quién las cambia? No, ese se va... ahorita todavía lo hace Germán Castañedo.
+[Speaker 5] O sea, nosotros... ¿en dónde está ese? ¿Dónde está ese? ¿Dónde está en río? O sea, esto es por... todavía la pequeña parte centralizada que quedó de...
+[Edmundo] Lo que suben, lo que suben arriba... Sí, nosotros... nosotros... hay mucha, mucha información que está fuera del SAP. Mucha información que está fuera de SAP. Las estrategias de... ponte un ejemplo: las estrategias de mantenimiento que está usando la gente eléctrica de... El contratista está fuera de SAP y lo utilizan ellos. ¿Cuál contratista? Es Siemens. Ah, no, pero es pala.
+[Arnaldo] No, no lo reporta a nosotros.
+[Edmundo] Ya, yo sé, yo sé. Pero tú también tienes un grupo de dos líneas de 60 kV y las redes que están bajo tu cable.
+[Arnaldo] Sí.
+[Edmundo] Pero se las hacen personalmente.
+[Arnaldo] Nosotros solamente... A ver, eso es otro tema. Nosotros tenemos un departamento de electricidad...
+[Edmundo] Pero solamente para las palas.
+[Arnaldo] Veíamos todo, alto volteado.
+[Edmundo] Veían, ya no tienen.
+[Arnaldo] Ya nosotros no tenemos nada de eso porque eso fue algo que yo dije: eso no puede estar en mi demás... o sea, yo veo mi pala, yo veo hasta la subestación.
+[Edmundo] Los cables también son tuyos, ¿eh?
+[Arnaldo] Y la reparación de cables... si está dentro del perímetro de la operación. Por cables... los cables de la reparación de los cables... el movimiento no es mío, la reparación sí está... la reparación.
+[Edmundo] ¿Y el movimiento de quién es? ¿De operaciones?
+[Arnaldo] De operaciones.
+[Edmundo] Bueno, pero lo que yo tengo bastante bien definido... bueno, en las comparaciones que he tenido... que los documentos que están habiendo en control, finalmente pueden ser bajados o usados y modificados con mucha libertad.
+[Arnaldo] Yo puedo... yo puedo... a ver, yo puedo descargar el documento, sí lo puedo descargar. Si yo hago una modificación del documento, vas a quedar registrado... si no, no queda registrado que yo descargué el... ya es como un checkpoint, igual un equivalente. Pero si yo hago una modificación al documento, yo entrego eso y se... se descubre que hay una modificación de ese documento ya previamente autorizado. Porque nosotros tenemos aquí un departamento...
+[Edmundo] Sí, nos falta una reunión con ellos.
+[Arnaldo] Que es con esta señora Paz Rodríguez, es...
+[Boris] ¿Ella o es ella?
+[Arnaldo] Entonces, ese es el punto, ahí es donde está realmente el punto. Todo tiene que ir a través de ella.
+[Edmundo] Nosotros hemos hecho un... un tema... lo que tocó: control documentario y manejo del cambio. ¿Ustedes tienen un manejo de cambios propio de Peñasquito o propio de gestión de activos? ¿No tienen otro que el DMS? ¿Hay un DMS de acá y hay un DMS de Newmont?
+[Boris] No, en el proceso nos dijeron... y bueno, estaban algunos que estaban aquí, que el proceso... el documento... la herramienta de gestión de cambio que nosotros buscábamos y auditábamos era de gestión de activos, pero que habían otras plataformas de gestión de cambio que eran de seguridad, qué sé yo, porque tienen otras cosas.
+[Edmundo] No, pero hay uno que es el corporativo.
+[Arnaldo] El proceso es corporativo.
+[Edmundo] Pero también hay un DME, hay un sistema de... el control...
+[Arnaldo] Parece que nosotros tenemos CMS.
+[Speaker 7] No, ese es el CMS. El que usa la gente de Julio Berumen y su equipo, donde ponemos las mejoras.
+[Speaker 5] Sí, pero es que el CMS es para todo.
+[Boris] Yo puse el ejemplo de la NET, ¿te acuerdas cuando estuve en la reunión y dije: bueno, la NET tiene que estar ahí en la gestión de cambio para no generar problemas? Y alguien creo que fuiste tú... no, eso seguramente lo maneja el cambio de seguridad.
+[Speaker 7] El uso del arnés del amarillo, el demás...
+[Arnaldo] No, a ver, es que ahí es donde está la confusión. O sea, el CMS es corporativo y el CMS se va a adaptar a cada departamento. Yo tengo que generar el proceso de CMS como cualquier empleado de la compañía, o sea, es uno. Uno solo.
+[Edmundo] Entonces falta, falta un buen despliegue de la información porque la gente está...
+[Boris] En el tema, porque le decíamos que ese...
+[Speaker 7] Proceso lo debe haber hecho la gente de la Comisión de Seguridad y de esta higiene, porque fue un proceso que se desarrolló y que involucran a todos.
+[Arnaldo] Te voy a dar un ejemplo claro. Nosotros hicimos... recientemente, bueno, recientemente no, el año pasado, eso fue un proyecto... su potencia... antes de cambiar a los estudios del... el cambio de aceite, del cambio de intervalo, la frecuencia del cambio de aceite. Ok, los motores públicos... todo el mundo estuvo involucrado, todo.
+[Edmundo] O sea, no solamente tuvo operación, estuvo... estuvo EXE, que el laboratorio que no se baja...
+[Arnaldo] El abastecimiento de la SEI, estuvo... o sea, comunicación, esto... o sea, hubo... hubo... todo el mundo estuvo.
+[Boris] Convengamos que eso fue así por tu liderazgo.
+[Arnaldo] No, es que es un proceso que todo el mundo tiene que seguir.
+[Speaker 5] Es que no podíamos, ni siquiera podíamos pedir el cambio de la estrategia, o sea, que se cambiara la frecuencia...
+[Boris] Pero yo pregunté, por ejemplo, que me mostraran el documento del cambio cuando cambiaron el transformador. ¿Cuál transformador? Entonces, ahí hay cambio de circuito, cambio de...
+[Arnaldo] Departamento. O sea, ahí a lo que voy es la madurez... es la madurez del departamento. No, ese es tu trabajo. O sea, estás haciendo tu trabajo, Boris. Yo no estoy... una de las cosas que yo les voy a decir a ustedes, que yo no voy a... yo no... o sea, yo no voy a estar aquí sentado y diciendo por qué no lo dices o por qué lo haces... jamás. O sea, no dudo de la capacidad y no dudo tampoco del hecho de las herramientas que ustedes están utilizando para evaluar. Al contrario, yo estoy feliz que a nosotros nos evalúen porque nos van a identificar de dónde tenemos la brecha y la oportunidad de mejora.
+[Arnaldo] Eso desde el día uno yo se lo dije a ustedes. El punto está en que no todos tienen, y lo dijiste ahorita, no todos tienen la madurez del proceso. O sea, no todo el mundo tiene la información. Y fue en estos días. Casual y mente pasó en estos días. Casual y mente pasó en estos días, con el proceso de reparar. O sea, ¿cómo va a ser posible que aquí todavía yo tenga... y yo entiendo... el problema es los cambios que se generan. Se generan tantos cambios que la gente que sabía ya se fue, la gente que está entrando nueva está simplemente agarrando todo el proceso, entendiéndolo.
+[Arnaldo] Entonces no tienen todo el contexto completo.
+[Edmundo] A ver, permítanme, permítanme poner los puntos sobre las íes. Hay dos... hasta el momento, hasta tres, diría yo... tres puntos mayores ya de alto nivel: la data maestra, que es la que tú quieres tocar y estás insistiendo en tocar y vamos a entrar en el detalle; la gestión de los procesos y sistemas y organización; y el otro que también es sumamente importante, que es el control documentario y el manejo del cambio.
+[Edmundo] Hasta el momento tenemos esas tres porque no hemos entrado a supply chain ni en el PCR. El PCR también es importante, pero ahorita nos falta la otra media naranja, que es la de supply chain, que tenemos que abordar. Ya, voy a hablar primero de los procesos, sistemas y organización. Dice: un proceso es maduro cuando está bien definido de acuerdo al negocio; cuando está desplegado en la organización, está documentado, definido y documentado adecuadamente y accesible a toda la organización; y cuando la organización lo toma, lo entiende y lo practica.
+[Edmundo] Y cuando lo controlamos, lo medimos, que esté la gente incumpliendo. Entonces, cuando hablamos con la alta dirección o con las gerencias y dicen: esto trabaja así, y hablas con la gente de abajo y le preguntas... y no responde igual o diferente o tiene otra concepción, entonces el proceso no ha sido desplegado adecuadamente. Y eso es justamente lo que pasa, porque todo el mundo trabaja de una manera desconectada de los procesos. Disciplina operacional es vital, disciplina operacional es vital, pero para tener disciplina, hay que saber qué esperan mis jefes, qué espera la gente que me evalúa de mi desempeño en relación a los procesos que yo ejecuto.
+[Edmundo] Y ahí tenemos un gran problema, porque el sistema... los contratistas no pueden ingresar; algunos no, algunos llenan información y lo llenan mal. Hay mucho para mejorar en ese aspecto. Es más, hay gente que llena la información para cumplir con los KPI del corporativo, que es absolutamente... y lo han declarado, ¿no? Mira, ¿sabes qué? Si me dice que las HIAC son 10, yo le pongo 10, porque si le pongo más o menos estoy fuera de... Entonces, al final eso simplemente es un cumplimiento de un saludo a la bandera, para que la gente ahí reciba lo que quiere escuchar.
+[Edmundo] Eso está mal, porque al final... ya, entonces ahí falta madurez, falta trabajo, falta dedicación. Las notificaciones que hacen son: sí, ya hice, ya... pues dice, ok. Eso también se ha visto. Pero, ¿quién controla eso? Nadie, porque todos están tranquilos con lo que tienen, hasta que pongan ok y cierren... ya cerramos, el KPI sale bien. Pero la información que te necesitamos no está, entonces eso es justamente gestión de procesos, información. Eso es gran parte del trabajo que hay que hacer acá.
+[Edmundo] Para que todos estén uniformizados, todos tengan una idea correcta de lo que tiene que hacerse y cumpla disciplinadamente. Ese es un proceso maduro. ¿Cuántos procesos maduros hay acá? Yo creo que ahí es necesario trabajar para llevarlos a esa posición. ¿Qué pasa con los planificadores, señores? Disculpe que lo diga así. ¿Tienes planificador acá? Ok, bueno, quizá igual en términos genéricos... ¿se lleva la mayor parte del trabajo? El ejecutor.
+[Edmundo] Tiene que estar en el terreno, tiene que levantar y llenar la información, poner los pernos, poner las horas, poner todo. En otros sitios que tienen madurez, el planificador hace ese trabajo. Entonces falta hacer crecer a los planificadores, o hacer que los planificadores vayan a terreno a rozar, a aprender y que vengan los ejecutores a convertirse en planificadores de verdad.
+[Speaker 7] ¿Cuál ha sido mi lucha desde que llegué yo, al día uno? Es esa: la constante... la gestión, digamos, para que la gente de planificación tenga otra apertura y otro panorama para precisamente hacer más, ¿no? Porque están muy atados a que todos quieren que les lleven de la mano, todos quieren que les hagan en la casa para empezar simplemente, o sea...
+[Edmundo] No, es que no quieren hacer, sino que no tienen el expertise del terreno, pues.
+[Arnaldo] No, pero... ¿qué hacía así? El gran problema de Newmont... disculpa. Y el gran problema de Peñasquito, es que nos hemos acostumbrado a normarnos. O sea, tenemos muchas cosas normales. O sea, así se hacía y así se hacía. O sea, ese es el gran problema que nosotros...
+[Edmundo] No, es que hemos convertido... hemos arreglado los procesos y la distinción de roles a las personas y no a las personas a los procesos.
+[Arnaldo] Exacto. El gran problema de mis planificadores: ¿sabes qué? No les hemos dado las herramientas suficientes para poder madurar en su proceso como tal.
+[Edmundo] Esa es una tarea.
+[Boris] Esa es una pregunta que hice yo. Claro, yo vi que hay matrices de flexibilidad en el piso, para que el supervisor haga la asignación de trabajo con ciertas unidades de conocimiento de quién es quién. Pero hacia arriba también: ¿sabe quién es más que ser flexibilidad? Dependiendo de tú. Yo quiero un Dream Team en planning que tiene que hacer goles de tres, de mitad de cancha. Bueno, eso se define y se hace una matriz. También para el ingeniero de confiabilidad, que haga regresiones... pues... y bueno... así que no nada...
+[Edmundo] Matriz de flexibilidad. Y tú ahí vas a empezar a hacer... y de desarrollo, competencias... Es que el problema está que no se haya hecho o no se haya dado a hacer. El problema está de que no estaba en mano... y no es por justificarme. Si tengo culpa, tengo que cualquiera cometerlo. Pero el punto está de que cuando se generó el equipo central, allí fue donde se distorsionó todo, todo.
+[Edmundo] Entonces, claro, yo me acuerdo... tenemos un planificador... cuando lo iban a meter para una flota tan crítica como el camión, yo vine y dije: ¿Dónde está el currículum de ese muchacho? Pues lo enviaron.
+[Arnaldo] Y hablé con el superintendente del equipo central de planificación. Le dije: ¿tú estás seguro de lo que vas a hacer? O sea, ¿tú entiendes...? No es que no le queramos dar la oportunidad al muchacho, pero Peñasquito está en usted. Eso yo lo puedo hacer en una mina joven, en una mina que estoy comenzando, que yo puedo ir educándolo, coacheándolo, dándole nuevamente... Y todavía, porque una mina en Greenfield es cuando más precisión tiene que tener. Pero el punto está... exactamente, el punto está... ¿ya qué voy a hacer yo? Y ¿cuál fue la respuesta de él?
+[Arnaldo] Sí, sí lo voy a meter. Pero todavía... y yo... compadre, por favor, pensémoslo, porque es mi flota, es mi equipo, es mi sitio.
+[Edmundo] Él va a ver otro sitio y sí lo vamos a poner. Ese es el muchacho que yo ahorita tengo con más conflicto. Con más conflicto. Ah, ¿qué vamos a hacer ahora?
+[Arnaldo] Y estoy confidenciado. Desafortunadamente en marzo se va y me voy a tener que traer a un planificador de Yanacocha, que tiene todo el conocimiento del mundo, a tratar de solucionar lo peor que tengo yo.
+[Edmundo] Tienes varios ahí porque están cerrando la mina.
+[Arnaldo] Bueno, entonces... ¿sí me explico lo que te quiero decir? Pero no es culpa de la gente. Yo se lo he dicho a Gustavo. Gustavo, el problema del planificador... para instalarlos o de camiones... pues, camiones buenos... para instalarlos... es ahí donde está el auxiliar. No es que ellos no quieran hacerlo, no es que ellos no quieran o no tengan la intención, la actitud de hacerlo, pero necesitan muchas herramientas que no se las hemos dado. Y yo no voy a perder el tiempo ahorita en darle herramientas a estas alturas del guardia.
+[Edmundo] No, ya la tienes que actuar rápido ya.
+[Arnaldo] Así es. Y es lo que estamos haciendo.
+[Edmundo] Ya no se puede marchar actuar.
+[Boris] Siguiendo un poquito... ahora tiene que ir, pero entiendo. La idea más o menos... No, no, no, está perfecto, perfecto. Esto, básicamente, es cuando en el proceso de cierre de la orden, no hemos encontrado que haya un catálogo, una evaluación de las causas de demora. Yo revisé 17 órdenes de trabajo de pala, camiones y auxiliares, y encontré varias cosas de lo que pude ver: que primero, los materiales solicitados no están igual que la columna del lado.
+[Boris] Por lo tanto, la primera pregunta es: ¿cómo se gestiona ese "stock"? O... después dije yo: capaz que tengan gallineros, gallineros, grupos de repuestos almacenados por ahí, que le hayan dicho al despachador: "No, no me lo entrego, yo lo tengo". No lo sé. Pero hay diferencias entre los solicitados y los entregados. La pregunta es: ¿cómo gestionan esa información? Después hay uno por ahí en pala, que dice: "No, no hay sello, no llegó el sello" y así... eliminamos la futura de un cilindro.
+[Boris] Supongo que quién maneja eso para determinarlo. Por otro lado, hay otras demoras más: que no llegó un bien... no se están anotadas ahí en las guardas donde están... tengo geográficas como evidencia. El punto es: si lo tienen catalogado, ¿quién lo administra para hacer un programa non-sprint o una mejora sobre esa pregunta?
+[Arnaldo] El gran problema es esto de reducción de demora de trabajo y trabajo, ¿ya?
+[Edmundo] O sea, hoy yo te puedo entregar los procesos de esto para poder evitar esa... no lo llevamos a cabo como deben ser, no lo llevamos a NIR. Porque el tema de los reemplazos de la demora y todo eso sí se hace ganancia. Inclusive tenemos una plataforma para hacer... para que nos da toda la información... demostrar esa plataforma.
+[Boris] Pero quizás en el paradigma... de donde yo he caminado la vida... ese es un trabajo fundamental del supervisor, más que de alguien más.
+[Edmundo] Total.
+[Boris] Por lo tanto, el supervisor primero evalúa que su grupo sea un dream team, tenga todas las competencias, todas las herramientas y además si su equipo se demora, es el primer llamado a decir: mi equipo está para trabajar, no va a demorarse.
+[Edmundo] Yo no percibí que los supervisores están con esa mirada tan levantada. En cambio, recibí, en pala el taladro medianamente, donde tengo el cuello de botella.
+[Arnaldo] Esa es la realidad. Y nuevamente, este señor, todos sus... creo que te lo dije a ti... todos los supervisores de este señor son ingenieros. No voy a menospreciar al técnico que fue, porque yo fui técnico.
+[Edmundo] Antes de graduarme... e iba a la universidad, yo fui técnico. Pues yo era técnico y estudiaba.
+[Arnaldo] Pero todos los supervisores de esta señora... todos fueron supervisores técnicos; que le vieron un potencial... yo lo subo al supervisor, pero no te le doy las herramientas y eso está el punto.
+[Boris] Si volvemos a la matriz de flexibilidad, porque... exactamente. Entonces, un técnico también lo podría pasar allá y darle la cara para que vuele.
+[Arnaldo] Pero nuevamente, dándole las suficientes herramientas para que él pueda entender realmente cuál es su rol y su responsabilidad. Si no lo entiende, vamos a entrar en eso... siempre.
+[Boris] Pero está bueno. Este va en la gestión de la demora... para nosotros tiene que ver con un ciclo de mejora. Luego, en la programación, para mí, hay varias cosas escritas acá, pero a mí una de las cosas que más me llamó la atención es que el planner es el mismo que programa.
+[Edmundo] Y me dijeron: "Así es todo Newmont", así... no sé qué. No hace falta, y lo puedo entender. Sin embargo, en lo práctico, el qué es muy distinto al cuándo, y tienen desafíos distintos.
+[Boris] Por lo tanto, yo trataba de identificar como proceso: si tú eres programador y yo soy planificador, yo evalúo tu calidad. O sea, tú evalúas mi calidad de trabajo y yo planifico y te entrego algo para hacer. Tú defines el cuándo y hay calidades que se miden en cada proceso. Con eso es imposible que la misma persona... se encuentre malo.
+[Arnaldo] Total.
+[Boris] Entonces, ahí hay algo que conversar, evaluar, mirar.
+[Arnaldo] Si te digo, Gustavo, que en marzo vamos a hacer los cambios y vamos a llevarlos así: planificación y programador... ¿si te digo? No... Sí, es marzo, primero de abril, ya vienen los cambios. Vamos a tener el planificador y el programador.
+[Edmundo] ¿Tienes gente?
+[Arnaldo] Sí, sí lo tenemos. Y una observación... esta es individual. El proceso de impresión de paquetes de trabajo no agregaba... o sea, hay una persona que...
+[Boris] Estuvo todo multi y medio... imprimiendo, imprimiendo, imprimiendo... se le arrancaba la impresora, sacaba... reemblan. Y la verdad es que yo pasé por eso. Y finalmente hice la pregunta: "Oye, SAP no tiene una pantallita?" No, sí. Uno dice: "Quiero esto, quiero esto, quiero esto".
+[Edmundo] Entonces, ¿por qué no lo va a hacer solo, al momento en que va a hacer el programa ya? Ahí está el SAP.
+[Speaker 8] Pero ahí le comentaron, Saporis, de que por... permiso censal, por gobernanza, no nos permite... o sea, el supervisor, el líder, no puede liberar una orden de trabajo planificada.
+[Speaker 8] Pero ya está liberada... para... está ejecutada.
+[Speaker 8] No, pero para imprimir, para imprimir...
+[Speaker 8] Pero para... ese es un punto... pero para imprimir no tiene permiso. Dame un segundo, voy a hablar...
+[Arnaldo] Casualmente ahorita vamos a tener una reunión. Uno de los... este, activos móviles que quiere hacer este ejercicio... también ellos. Vamos a ver... Gonzalo dijo que no; ustedes son los que tienen que hacer...
+[Edmundo] Pero eso no tiene que hacer el... no entiendo bien, o sea, hay una persona dedicada...
+[Boris] Sí, es que normalmente se parte así... yo esto estaba en varios lugares... donde me dedicaba eso... eso tiene que recibir el set de los paquetes de trabajo y está bien, pero...
+[Boris] Cuando uno se pone a imprimir, se da cuenta que se va a tres red más... y el más... o tres por papeles... es así. Llega al supervisor, hay cosas que se descargan para la próxima semana... eso a veces se pierden y la otra semana están pidiendo los de... no... antes. Entonces, es una actividad que, no sé... si quieres de repingada... ahí hay una voz.
+[Arnaldo] Hay gente que puede estar haciendo otras cosas, y no estoy... si se pierden todos... Eso es lo que vamos a eliminar con el... porque como el Zone Maintenance está ligado directamente con el...
+[Edmundo] ¿Cómo se llama eso que estás diciendo? ¿El qué?
+[Arnaldo] Zone Maintenance.
+[Edmundo] Ah, eso.
+[Arnaldo] Como está ligado ahí, el... ¿cómo se llama? El técnico va a tener todos sus checks ahí, digital.
+[Edmundo] Ese Zone Maintenance, ¿jala de SAP toda la información?
+[Arnaldo] Toda la información, esa.
+[Edmundo] Y de ahí aparece...
+[Arnaldo] Todo lo que tú hagas, todo lo que aparece en SAP, es bidireccional. Todo lo que tú hagas aquí se ve allá y todo lo que hagas allá se ve...
+[Edmundo] Ok. Me gustaría abordar el tema de las estrategias de mantenimiento. ¿Puedes tú tomarlo? Porque yo estoy medio... yo me he dedicado más a la planta que... puedo hablar, pero tú eres el que está tocando eso.
+[Boris] ¿Quieres que me meta yo en la estrategia?
+[Edmundo] Sí, porque yo voy a... Tengo miedo de que se vaya.
+[Boris] Sí, pero que la estrategia... hay algunas muy buenas y otras que están muy malas. No sé cómo...
+[Edmundo] A ver, entonces si tú no lo quieres abordar, yo lo voy a abordar. Yo les... permíteme, por favor. Este... lo primero que yo escuché de ti, Orlando... Arnaldo, perdón, es que tu cuello de botella, tu preocupación más grande, era la estrategia de mantenimiento. Bueno, yo no he estado muy metido en el tema, pero he visto primero los PMs bastante bien. O sea... y he preguntado: ¿tienen todos los PMs y todos los PMs están en SAP? Están en SAP.
+[Edmundo] Ok, perfecto. Entonces, todos los... todos los mantenimientos preventivos pueden fluir, correcto. Ya luego he preguntado: ¿hay órdenes de... o hojas de ruta sin frecuencia o standard jobs? Sí, tenemos... están en el sistema. Sí, a ver... jálame lo que está en el sistema... lo jalaron y todos están... sí. Dijeron: no, pero todavía faltan equipos auxiliares. ¿Correcto? Solamente equipos auxiliares. Entonces, ¿está todo? Pregunta: ¿no está todo?
+[Edmundo] ¿Qué falta?
+[Arnaldo] El problema no está en si está o no está registrado, Edmundo. El problema es la calidad de la estrategia. Te voy a explicar: nosotros, para temas presupuestales, ¿ya?
+[Arnaldo] No, sí, pero no hablemos de la meteorita...
+[Arnaldo] Nosotros, por lo menos, para temas presupuestales y poder definir realmente qué es un componente capitalizable o no. Hay varios criterios que nosotros tenemos que contemplar.
+[Arnaldo] El criterio va en función de qué... de las estrategias, de los costos, si es reparable o no, si tiene un...
+[Edmundo] ¿Podemos separar la conversación, esta idea en partes? ¿Los PMs tienen calidad o no tienen calidad?
+[Arnaldo] No, es que nuevamente el PM tiene calidad.
+[Edmundo] Por eso, entonces lo dejamos.
+[Arnaldo] El problema está en componentes.
+[Edmundo] Ya, en componentes. En componentes, ese es mi cuento. Entonces, el PM ya está aceptado.
+[Arnaldo] No, no, no... el PM está bien.
+[Edmundo] ¿Tiene... el límite es aceptable, tiene todo?
+[Arnaldo] Todo, todo eso... ya está. Voltea la página. Vamos ahora a componentes mantenibles.
+[Arnaldo] El tema de componentes es, por ejemplo, en palas eléctricas o en palas hidráulicas. Hay muchas cosas que no están definidas dentro de la estrategia, que deberían de estar. No tienen jerarquía. Tú ves la jerarquía del activo y tú dices: tan chica que es la pala. Si me explico, o sea, ese es mi punto. El otro punto que está... no solamente el tema de la jerarquía... ya lo que está...
+[Edmundo] Tú dices, no está fragmentado de forma adecuada la jerarquía... no, porque el corporativo es el dueño de esa decisión, no eres tú, ¿no? Yo entiendo que toda la... SAP, el emperador de SAP, el que no me to...
+[Arnaldo] Ellos... pero yo no... yo no puedo permitir que ellos definan todo porque ellos no saben los activos... que ellos tienen la llave...
+[Edmundo] No, pero a ver... te cuento lo que ocurre con los corporativos. El corporativo tiene un objetivo: quiere estandarizar todo, quiere... cuando más estandarizado sea todo, ellos... luchan porque este sea un copy paste de esto, ¿no? Y se olvidan de los conceptos de contexto operacional, se olvidan de mucha... la cultura, se olvidan de muchas cosas. Entonces están... pero su intención es que este acá se estandarice... es su meta, su objetivo. Pero en eso se les va la mano y quieren operar también. Pero bueno, la estandarización... la jerarquía de la pala está...
+[Edmundo] Estandarizado para Peñasquito como para Cerro o para quien... está para Yanacocha o para cualquiera. Entonces, si tú quieres hacer algún cambio... quieres... de repente quieres, no sé, pues, quieres poner un componente mantenible, traceable, en tu tema acá... tienes que esperar que el de allá mire todo y así... si es viable lo vamos a poner.
+[Arnaldo] Eso es viable, entonces. Yo puedo definir los componentes que yo quiera, como sitio. Yo simplemente le digo a ellos: ¿sabes qué? Esto es lo que yo quiero, de acuerdo a la jerarquía. ¿Por qué? Porque aquí el camión uno es mi camión uno, no es el camión uno de allá, por muy sea idéntico al momento...
+[Edmundo] Pero es que no te pueden hacer uno diferente aquí y otro allá diferente al detrás...
+[Arnaldo] Sí pueden, por eso te lo digo. El gran problema mío, ¿en qué se basa? Fue lo que le dije: el tema de la estructura para poder definir yo mis estrategias en abordar a componentes, porque hay componentes que no están. Entonces, aunado a eso, a los componentes que ya están definidos dentro de esa estructura, el tema de los BOM, hay que hacer ese trabajo. Ese era lo que te decía... yo le dije yo el primer día: no puede ser posible que yo...
+[Arnaldo] Íbamos a cambiar un motor, una pala hidráulica y dentro del BOM esté una cadena de D11. O sea, una locura.
+[Edmundo] No, pero eso es una mala... eso es lo que dijiste. O sea, hay que limpiar... en otras palabras.
+[Arnaldo] Exactamente.
+[Arnaldo] Dos cosas que tenemos que hacer: primero, ver la estructura actual... pero bajando un poco, poniendo el baño... ahí la responsabilidad está aquí, no está allá. El problema es que no tenemos gente para hacerlo.
+[Speaker 7] Claro, pero... pero es aquí. Es aquí. Por eso hay una parte allá, Armando, que también pasó que se mandaron una estrategia revisada y centralizada... que allá, ¿quién? No sabemos. También modificaron... varias cosas.
+[Arnaldo] Porque era el equipo central. Ahora que está descentralizado, todo está aquí.
+[Edmundo] Bueno, por lo menos... por lo menos tú tienes una estructura que es estandarizada, que te... que estás aceptando, pero me has metido basura dentro de esa... hay que revisar, limpiar, ordenar... y crear.
+[Edmundo] Y crear las que faltan.
+[Arnaldo] Y, por ejemplo, yo tengo los camiones, los lubricadores... lado... los que tomen fotos... que no tenemos... no tenemos estrategia para eso. No tenemos tal cual. Una ya...
+[Edmundo] Triple 7.
+[Arnaldo] No, el triple 7 es 7. El articulado es el sistema de lubricación.
+[Edmundo] Pero también te falta para flota auxiliar.
+[Arnaldo] Sí, claro.
+[Arnaldo] O sea, ahí es donde está mi... hija. Entonces, claro, yo vengo y agarro... yo trabajo en el presupuesto, mando a este señor ahora que pelee el presupuesto. Y él va a hacer el presupuesto en base a la información que nosotros tenemos actualmente. Pero te doy un ejemplo: tuvimos que cambiar el motor, la transmisión, porque ya habían pasado... aquí hay componentes que tienen más de 200% de exceso.
+[Boris] Y eso viene de repente y te dice... o Joseir o alguien que te eche una mano... digo: oye, ojo acá...
+[Arnaldo] No.
+[Arnaldo] Es que nosotros tenemos gente que le da seguimiento. O sea, nosotros le damos seguimiento indistintamente que nosotros no tengamos eso en SAP. En DINGO track, nosotros llevamos... embocaciones... ellos nos ayudan a nosotros. El problema está en que no está definido y yo no puedo calcularlo. Pero no entra en el presupuesto. Cuando falla, yo no tengo lana. Entonces tengo que decirle a este señor: no te vas a cambiar una rueda porque tengo que pagar los componentes.
+[Edmundo] ¿No entra directamente en las horas de operación del sistema desde el Transdispatch al SAP?
+[Speaker 5] Se encontraron.
+[Speaker 5] Y entonces, el tema está en que, como no tengo estrategia para decir... para ir a decirle: "¿Sabes qué? Mira, me falta esto". Me falta esto. Aquí. Está... no tienes eso, DINGO.
+[Boris] La verdad es que ellos me hacen... pero este es el tono de las cosas que hemos encontrado. Igual hay cosas que estamos trabajando todavía, pero me quedo conforme, porque parece que estamos en el camino correcto. Nosotros felices.
+[Arnaldo] Yo feliz. O sea, es la verdad. O sea, ¿a qué te voy a decir...? mentira. ¿Qué está diciendo eso? ¿Me lo puedes hacer? No, pero lo que te digo yo es... yo no te voy a refutar algo a ti, ¿ya? Cuando tú lo estás viendo, yo estoy seguro de lo que estás viendo. Y nosotros queremos crearle cosas que le ayude... ah, sí. Ese es el objetivo.
+[Edmundo] Sí.
+[Arnaldo] Ese es el objetivo. Y agradecido, ¿no? Al pendiente contigo.
+[Edmundo] No, no, al contrario, agradecido a ti y a tu equipo, porque ustedes son... una de las cosas que también... que es de Peñasquito y, bueno, también un poco cultural, es que la apertura al trabajo en equipo es natural en el equipo. Se puede apreciar. No es que quiera menospreciar el trabajo de planta, pero gran parte de las deficiencias que tienen de procesos se debe a que la gente está trabajando en...
+[Edmundo] Dime que en silo no están comunicando... tratando de evitar... la planta está dando, entre comillas, dentro de sus posibilidades, los resultados que está dando y está cumpliendo. Pero, ¿a qué se debe? No al proceso ni al sistema SAP ni a... sino que Gustavo se comunica con este... Aguilares... ¿no? Aguilar y Aguilar se comunica con el otro y ya está. Esas reuniones tapan los huecos que tienen, pero el día que uno se vaya...
+[Edmundo] Entonces ahí van a tener problemas. Pero la actitud, la cultura, la antigüedad, el conocimiento de la planta por años, eso cubre eventualmente las cosas, pero están trabajando sobre base de personas, no a procesos y a sistemas... que están trabajando exactamente... están trabajando con riesgos escondidos. Por eso no... por eso...
+[Boris] ¿Algo más que decir?
+[Edmundo] No, no, yo quedé afinado.
+[Edmundo] Yo veo una dificultad acá, ¿no? Cualquier cosa que se pueda... yo veo... no sé... de repente voy a cometer una... pero prefiero decirlo y decirme que estoy equivocado. El corporativo de alguna manera genera ruido... ruido no positivo, sino todo lo contrario. O sea, ¿por qué? Porque si bien es cierto dan alineamientos... también quieren operar... el hecho de tener el... tener este... entonces se han cruzado el borde, se han ido más adentro; quieren gobernar, quieren... no sé con qué propósito.
+[Edmundo] Si ellos lo quieren hacer, yo no tengo pedo del mundo. Pero se toman la responsabilidad.
+[Arnaldo] Se toman la responsabilidad de lo que pasa aquí.
+[Edmundo] Exactamente. Y no me cabe en la cabeza. Sí, no me cabe en la cabeza que la parada de planta tenga que hacerlo una persona que está afuera de aquí. Nunca he visto eso. Por Dios. Nunca he visto eso.
+[Arnaldo] Es lo que te digo. O sea, el gran problema es que yo no tengo... quieren venir a manejar el negocio, y yo estar aquí como un títere. Yo feliz, a mí me pagan por esa pendejada.
+[Edmundo] Tú te vas en la tarde.
+[Arnaldo] Lo que ocurre... y cuando tenga que darle una rendición de cuenta a Gonzalo, vayan ellos, ¿no?
+[Boris] Humildemente tengo 20 años en el cerro y cuando lo escucho, no me hace ningún sentido. Entonces quedo con la duda, si estará diciendo... ¿cómo puede ser tan raro? No puede ser... un paradigma... no sé, a lo mejor es una forma especial de hacer parada planta... no sé... ¿estás preparándose para los más...? No sé, porque el tipo quiere llevar gente a la luna... no sé cómo es una matemática...
+[Edmundo] No, y los planificadores han estado dos años y medio ahora afuera. No entiendo. Y eso es justamente lo que ha generado este atraso de conocimiento de la gente. Ahí lo tienen. Muchas gracias por venir. Han aprendido a cocinar pero no a... todavía no sabemos servirlo...
+[Arnaldo] Ya llegó los burles para tener las visitas de...
+[Edmundo] No, ya lo vi. El reporte. Todo muy bien. No, el del...
+[Edmundo] Ah, ¿sí? Gracias.
+[Boris] Gracias también. ¿Me pueden regalar el... cuando tengan ya revisado la causa raíz del conato?
+[Speaker 5] Sí, inmediatamente.
+[Speaker 5] Gracias.
+[Boris] Gracias también. Yo no me despido porque los voy a seguir viendo.
+[Edmundo] Sí, seguramente que sí.
+[Edmundo] Así nos vamos a ver.
+[Edmundo] Gracias.
+[Edmundo] Arnaldo, muchas gracias.
+[Edmundo] ¿Cómo te serviste? Que planta está más perdida que no sé qué cosa.
+[Boris] ¿Cómo se apaga eso? Yo me siento... siento que has estado saliendo al mundo con esa televisión.
+[Edmundo] Espero... te voy a...
